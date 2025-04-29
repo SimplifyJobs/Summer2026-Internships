@@ -1,60 +1,51 @@
 # Summer 2025 Tech Internships by Pitt CSC & Simplify
-We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2025**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+We're back! Use this repo to share and keep track of **Summer 2025 tech internships** across software, data science, quant, and more. The list is updated and maintained daily by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
-:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
-
-🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
+🧠 For valuable tips on navigating the internship process, be sure to check out our guide: [**Zero to Offer**](https://zerotooffer.com/) 🧠 
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
+### Browse 527 Internship Roles
+
+---
+
 <div align="center">
-	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
-	<p>
-			A community member made ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
-			<br>
-			<div>
-			<a href="https://swelist.com">
-          <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email">
-        </a>
-			</div>
-		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
-	</p>
+  <h3>😫 Hate retyping your resume for every application?</h3>
+  <p>
+    <strong><a href="https://simplify.jobs/install?utm_source=GHList&utm_medium=banner">Autofill all your applications in a single click</strong></p></a>
+  <a href="https://simplify.jobs/copilot?utm_source=GHList&utm_medium=banner">
+    <img src="https://camo.githubusercontent.com/3a63d32f598be7ad8f42418759e5cae72189725cc04579ab6f178dbd181a1d5d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6470656f3478636e632f696d6167652f75706c6f61642f76313633363539343931382f73696d706c6966795f706974746373632e706e67" width="500" alt="Simplify Copilot Banner">
+  </a>
+  <p><sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub></p>
 </div>
 
 ---
 
 <div align="center">
-	<p>
-		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-			<b>Applying to internships?</b>
-			<br>
-			Autofill all your applications in a single click.
-			<br>
-			<div>
-				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
-        </a>
-			</div>
-		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
-	</p>
+  <h3>😮‍💨 Tired of checking every day for new internships?</h3>
+  <p>A community member made ⬇️ <a href="https://swelist.com"><strong>SWEList</strong></a> ⬇️ that sends email alerts for new roles in this repo.</p>
+  <a href="https://swelist.com">
+    <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email Updates">
+  </a>
+  <p><sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub></p>
 </div>
 
 ---
+## Legend
 
-## The List 🚴🏔
+- 🛂 - Does NOT offer sponsorship
+- 🇺🇸 - Requires U.S. Citizenship
+- 🔒 - Internship application is closed
 
-### Legend
- - 🛂 - Does NOT offer Sponsorship
- - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Internship application is closed
+> **Looking for something else?**
 
-> For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
+> - 🌍 For off-season internships please see the [Off-Season 2025 README](./README-Off-Season.md)  
+> - 🎓 For new-grad tech jobs, check out [New Grad Repo](https://github.com/SimplifyJobs/New-Grad-Positions)
 
-> For new-grad tech jobs, check out [New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions).
+---
 
-[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2025-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
