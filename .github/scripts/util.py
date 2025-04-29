@@ -129,7 +129,7 @@ def embedTable(listings, filepath, offSeason=False):
 
     # Replace the "Browse ### Internship Roles by Category" section automatically
     browse_section_pattern = r"(### Browse )(.*?)( Internship Roles\s*-+\n)"
-    newText = re.sub(browse_section_pattern, f"### Browse {total_active} Internship Roles by Category\n\n---\n", newText, count=1, flags=re.DOTALL)
+    newText = re.sub(browse_section_pattern, f"### Browse {total_active} Internship Roles\n\n---\n", newText, count=1, flags=re.DOTALL)
 
     # Write final output
     with open(filepath, "w") as f:
