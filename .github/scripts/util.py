@@ -69,7 +69,8 @@ def create_md_table(listings, offSeason=False):
     prev_days_active = None  # FIXED: previously incorrectly using date_posted
 
     for listing in listings:
-        company_url = listing["company_url"] + '?utm_source=GHList&utm_medium=company'
+        raw_url = listing.get("company_url", "").strip()
+        company_url = raw_url + '?utm_source=GHList&utm_medium=company' if raw_url.startswith("http") else ""
         company = f"**[{listing['company_name']}]({company_url})**" if company_url else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
@@ -175,11 +176,7 @@ def sortListings(listings):
     listings.sort(
         key=lambda x: (
             x["active"],  # Active listings first
-            datetime(
-                datetime.fromtimestamp(x["date_posted"]).year,
-                datetime.fromtimestamp(x["date_posted"]).month,
-                datetime.fromtimestamp(x["date_posted"]).day
-            ),
+            x['date_posted'],
             x['company_name'].lower(),
             x['date_updated']
         ),
