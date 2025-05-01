@@ -9,11 +9,11 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 
 ---
 
-### Browse 494 Internship Roles by Category
+### Browse 496 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (396)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (398)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (70)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (69)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (13)
 
@@ -46,9 +46,9 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 
 ## Legend
 
-- 🛂 - Does NOT offer sponsorship
-- 🇺🇸 - Requires U.S. Citizenship
-- 🔒 - Internship application is closed
+🛂 Does NOT offer sponsorship
+🇺🇸 Requires U.S. Citizenship
+🔒 Internship application is closed
 
 
 > **Looking for something else?**
@@ -79,6 +79,7 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Software Engineering Co-op | Durham, NC | <a href="https://jobs.smartrecruiters.com/Intuitive/744000056483405?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/7b80fd65-531d-4dcf-a4fc-6d4ae4394da1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 2d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer Intern | Tucson, AZ | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00158287?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/8168c505-70a5-4b6b-84e7-528e53aace73?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 2d |
 | ↳ | Junior Software Engineer Intern | Tucson, AZ | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00158286?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/075daef3-94c1-4c9c-b419-6182ec43eef1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 2d |
+| **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | 2025 Intern - Software Engineer | NYC | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Software-Engineer_R148783?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/559bdfee-3f5f-44c2-8e77-67ae03b81a9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 2d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Sunnyvale, CA | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20046?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/4d828a90-051a-4a08-9fbd-2785bdecf990?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 2d |
 | **[Jabil](https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | St. Petersburg, FL | <a href="https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Austin-TX/Software-Engineer-Intern_J2415238?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/5a74f943-e5e9-47bf-9b29-fe963f404672?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 3d |
 | **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Applications Development Engineering Intern | Austin, TX | <a href="https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Applications-Development-Engineering-Intern---Summer-2025_2529296-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/14f6b9c6-1f5f-417c-b5ea-67923565afb6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 5d |
@@ -466,7 +467,6 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a> | 11mo |
 | Epic | Software Developer Intern 🛂 | Madison, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a> | 12mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Infrastructure Governance and Automation | Santa Clara, CA | 🔒 | 0d |
-| **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | 2025 Intern - Software Engineer | NYC | 🔒 | 2d |
 | **[Uhaul](https://simplify.jobs/c/Uhaul?utm_source=GHList&utm_medium=company)** | Database Administrator Summer Intern | Phoenix, AZ | 🔒 | 2d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Raytheon Fellowship Program | Aurora, CO | 🔒 | 3d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer Intern | Tucson, AZ | 🔒 | 3d |
@@ -480,7 +480,6 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | 2025 Intern - Digital - Product Lifecycle Management | Tucson, AZ | 🔒 | 7d |
 | **[Dick's Sporting Goods](https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Video | NYC | 🔒 | 7d |
 | **[Auto Club Enterprises](https://simplify.jobs/c/Auto-Club-Enterprises?utm_source=GHList&utm_medium=company)** | Computer Science Intern | Coppell, TX | 🔒 | 7d |
-| **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | 2025 Intern - Software Engineer | Waltham, MA | 🔒 | 7d |
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | New Business Intern | Moonachie, NJ | 🔒 | 8d |
 | **[Einride](https://simplify.jobs/c/Einride?utm_source=GHList&utm_medium=company)** | Einride Summer Internship 2025 | Austin, TX | 🔒 | 8d |
 | **[Vantage Data Centers](https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3?utm_source=GHList&utm_medium=company)** | Summer Internship - Energy Solutions Researcher | London, UK | 🔒 | 8d |
@@ -2988,7 +2987,6 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | **[Hitachi Vantara](https://simplify.jobs/c/Hitachi-Vantara?utm_source=GHList&utm_medium=company)** | Intern – Federal Data Science | Reston, VA | <a href="https://www.hitachivantara.com/en-us/company/careers/job-details/7944038002?gh_jid=7944038002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/d80844f9-f855-4ced-b0b7-9dc2a033c185?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 23d |
 | **[Diligent Corporation](https://simplify.jobs/c/Diligent-Corporation?utm_source=GHList&utm_medium=company)** | Data Journalist/Data Science Intern | NYC | <a href="https://job-boards.greenhouse.io/diligentcorporation/jobs/5479175004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/a69a4953-f6a4-41aa-b096-59cef8fb1b60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 26d |
 | **[Actian](https://simplify.jobs/c/actian?utm_source=GHList&utm_medium=company)** | CX User Analytics Intern | Remote in USA | <a href="https://jobs.lever.co/actian/695e83a3-b03f-4b2e-b69d-04ab736fe2f9/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/46993919-592d-479c-aebe-2fa099f21fe3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 27d |
-| **[Alo Yoga](https://simplify.jobs/c/Alo-Yoga?utm_source=GHList&utm_medium=company)** | Data Science MS Intern | Culver City, CA | <a href="https://job-boards.greenhouse.io/aloyoga/jobs/5468121004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/2a2991db-26a3-4a16-b75b-d29ecaba251b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 28d |
 | **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Data Scientist Intern - Traffic Infrastructure Global Engineering - BS/MS | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7486769660169521426/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/bfe97f73-216e-4b8d-a785-62fab861786e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 30d |
 | ↳ | Data Scientist Intern - Traffic Infrastructure Global Engineering - BS/MS | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7486768996210804999/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/f81dc911-8ec1-4099-ad9c-b6388b9c55b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 30d |
 | **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern - Search-Tiktok Recommendation - BS/MS | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7485994254700366088/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="56" alt="Apply"></a> <a href="https://simplify.jobs/p/d0392b41-76ff-473a-9b8d-d669f5bcef00?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | 1mo |
@@ -3074,6 +3072,7 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | **[Smith Micro Software](https://simplify.jobs/c/Smith-Micro-Software?utm_source=GHList&utm_medium=company)** | AI & Data Science Intern | Aliso Viejo, CA | 🔒 | 27d |
 | **[7-Eleven](https://simplify.jobs/c/7-Eleven?utm_source=GHList&utm_medium=company)** | Data Science Intern | Irving, TX | 🔒 | 28d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Comcast Product Analyst Intern | Philadelphia, PA | 🔒 | 28d |
+| **[Alo Yoga](https://simplify.jobs/c/Alo-Yoga?utm_source=GHList&utm_medium=company)** | Data Science MS Intern | Culver City, CA | 🔒 | 28d |
 | **[Jones Lang LaSalle (JLL)](https://simplify.jobs/c/Jones-Lang-LaSalle?utm_source=GHList&utm_medium=company)** | Data Analyst Summer 2025 Internship | <details><summary>**5 locations**</summary>Cambridge, MA</br>Houston, TX</br>Chicago, IL</br>NYC</br>Atlanta, GA</details> | 🔒 | 29d |
 | **[Golin](https://simplify.jobs/c/Golin?utm_source=GHList&utm_medium=company)** | Golin Analytics Internship Program - June-September | NYC | 🔒 | 29d |
 | **[Intersect Power](https://simplify.jobs/c/Intersect-Power?utm_source=GHList&utm_medium=company)** | Data Systems Internship - Market Risk & Analytics | Remote in USA</br>Remote in Canada | 🔒 | 29d |
