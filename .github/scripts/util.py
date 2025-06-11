@@ -13,7 +13,8 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/6cFAMUo.png"
-INACTIVE_THRESHOLD_MONTHS = 4
+NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 4
+SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 8
 
 CATEGORIES = {
     "Software": {"name": "Software Engineering", "emoji": "💻"},
@@ -73,10 +74,11 @@ def getLink(listing):
 def mark_stale_listings(listings):
     now = datetime.now()
     for listing in listings:
-        if listing["source"] != "Simplify":
-            age_in_months = (now - datetime.fromtimestamp(listing["date_posted"])).days / 30
-            if age_in_months > INACTIVE_THRESHOLD_MONTHS:
+        age_in_months = (now - datetime.fromtimestamp(listing["date_posted"])).days / 30
+        if listing["source"] != "Simplify" and age_in_months >= NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS:
                 listing["active"] = False
+        elif listing["source"] == "Simplify" and age_in_months >= SIMPLIFY_INACTIVE_THRESHOLD_MONTHS:
+            listing["active"] = False
     return listings
 
 def filter_active(listings):
