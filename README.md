@@ -127,7 +127,7 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eversource-Energy?utm_source=GHList&utm_medium=company">Eversource Energy</a></strong></td>
 <td>Software Engineering Intern - Software Engineering</td>
-<td><details><summary><strong>4 locations</strong></summary>Manchester, NH</br>New Britain, CT</br>Hartford, CT</br>Norwood, MA</details></td>
+<td><details><summary><strong>4 locations</strong></summary>Manchester, NH</br>Windsor, CT</br>Berlin, CT</br>Westwood, MA</details></td>
 <td><div align="center"><a href="https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Windsor-CT/Summer-2026-Software-Engineering-Intern_R-028852?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/40819d70-60c6-4600-b072-7163488ba28a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
