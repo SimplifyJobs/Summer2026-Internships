@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 347 Internship Roles by Category
+### Browse 348 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (141)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (15)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (40)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (41)
 
 ---
 
@@ -15024,7 +15024,7 @@
 <td>2026] AI/ML Engineer Intern 🎓</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
@@ -16207,7 +16207,7 @@
 <td>Intern - Manufacturing Development Engineering - Process</td>
 <td>Boise, ID</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
@@ -27572,6 +27572,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Inspire Medical Systems</strong></td>
+<td>Firmware Engineering Internship 🛂</td>
+<td>Minneapolis, MN</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4956410008?gh_jid=4956410008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
 <td>RF Engineering Technician Co-op - Winter/Spring 2026</td>
 <td>Cedar Rapids, IA</td>
@@ -28175,7 +28182,7 @@
 <td>Intern - Advanced DRAM Process Integration - 3D DRAM</td>
 <td>Boise, ID</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
