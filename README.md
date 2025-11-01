@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 347 Internship Roles by Category
+### Browse 346 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (140)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (14)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (136)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (135)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (15)
 
@@ -1120,7 +1120,7 @@
 <td>Software Developer Intern 🎓</td>
 <td>Irving, TX</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
@@ -1372,7 +1372,7 @@
 <td>Software Engineer Co-Op-Billing</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Versana?utm_source=GHList&utm_medium=company">Versana</a></strong></td>
@@ -1827,7 +1827,7 @@
 <td>Software Intern Engineer</td>
 <td>Dedham, MA</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
@@ -2345,7 +2345,7 @@
 <td>Online Software Engineer Co-op</td>
 <td>Vancouver, BC, Canada</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arch-Capital-Group?utm_source=GHList&utm_medium=company">Arch Capital Group</a></strong></td>
@@ -2632,7 +2632,7 @@
 <td>Release Engineering Intern - Systems Analyst</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/LinkedIn?utm_source=GHList&utm_medium=company">LinkedIn</a></strong></td>
@@ -3045,7 +3045,7 @@
 <td>Network / Cybersecurity Intern - Multiple Teams</td>
 <td>High Point, NC</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
@@ -14736,13 +14736,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
-<td>Research Scientist Intern - Human Computer Interaction - PhD 🎓</td>
-<td>Redmond, WA</td>
-<td><div align="center"><a href="https://www.metacareers.com/jobs/1100790692182399?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/097b7fb0-4655-4573-983a-a133d6c92738?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/NXP-Semiconductors?utm_source=GHList&utm_medium=company">NXP Semiconductors</a></strong></td>
 <td>AI/ML ASIC Design and Implementation Automation Intern</td>
 <td>San Diego, CA</td>
@@ -14852,7 +14845,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1537)</summary>
+<summary>🗃️ Inactive roles (1538)</summary>
 
 <table>
 <thead>
@@ -15472,7 +15465,7 @@
 <td>Data Science Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
@@ -15647,7 +15640,7 @@
 <td>Security Applied AI/ML Research Intern - Microsoft Threat Intelligence Center</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Samsung-Research-America?utm_source=GHList&utm_medium=company">Samsung Research America</a></strong></td>
@@ -17418,14 +17411,14 @@
 <td>Sales Analytics Intern</td>
 <td>Milwaukee, WI</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Viking-Global?utm_source=GHList&utm_medium=company">Viking Global</a></strong></td>
 <td>Data Science Intern - Data Science</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -17852,14 +17845,14 @@
 <td>Internship Program - Multiple Teams</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Software Development Intern - Multiple Teams</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
@@ -20053,7 +20046,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
+<td>↳</td>
 <td>Data Analyst Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -21316,6 +21309,13 @@
 <td><strong><a href="https://simplify.jobs/c/Bosch?utm_source=GHList&utm_medium=company">Robert Bosch Venture Capital</a></strong></td>
 <td>Applied AI Intern - Deep Learning 🎓</td>
 <td>Sunnyvale, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
+<td>Research Scientist Intern - Human Computer Interaction - PhD 🎓</td>
+<td>Redmond, WA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -25915,7 +25915,7 @@
 <td>Enterprise Security Risk and Compliance Intern/Co-op - Multiple Teams</td>
 <td>Burlington, MA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board?utm_source=GHList&utm_medium=company">State of Wisconsin Investment Board</a></strong></td>
@@ -27972,7 +27972,7 @@
 <td>Glendale System Software Engineering Internship - Spring 2026</td>
 <td>Glendale, CA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NXP-Semiconductors?utm_source=GHList&utm_medium=company">NXP Semiconductors</a></strong></td>
