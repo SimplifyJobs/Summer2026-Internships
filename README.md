@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 318 Internship Roles by Category
+### Browse 319 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (127)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (128)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (13)
 
@@ -91,6 +91,13 @@
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>Software Engineering Intern, Summer 2026 🛂</td>
+<td>Santa Monica, CA</br>New York, NY</td>
+<td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineering-Intern--Summer-2026_10135267?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineering Intern, Summer 2026 🛂</td>
 <td>Glendale, CA</br>Santa Monica, CA</td>
 <td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineering-Intern--Summer-2026_10135338?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -14282,13 +14289,6 @@
 <td><div align="center"><a href="https://keystone.wd5.myworkdayjobs.com/en-US/keystone/job/Indianapolis-IN/Intern---Data-Analyst_JR102330?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>10d</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
-<td>Research Scientist Intern, Code LLM & Agents 🎓 🛂</td>
-<td>Menlo Park, CA</br>Seattle, WA</br>New York, NY</td>
-<td><div align="center"><a href="https://www.metacareers.com/jobs/2145570816278663?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/03a0cea9-ddf4-431b-9521-14854967428d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
-</tr>
 </tbody>
 </table>
 
@@ -14315,6 +14315,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
+<td>Research Scientist Intern, Code LLM & Agents 🎓 🛂</td>
+<td>Menlo Park, CA</br>Seattle, WA</br>New York, NY</td>
+<td><div align="center"><a href="https://www.metacareers.com/jobs/2145570816278663?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/03a0cea9-ddf4-431b-9521-14854967428d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>11d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
 <td>Data Scientist III 🎓 🛂</td>
