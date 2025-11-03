@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 313 Internship Roles by Category
+### Browse 314 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (126)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (13)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (127)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (128)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (13)
 
@@ -13877,6 +13877,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Little Caesars Enterprises</strong></td>
+<td>AI Intern</td>
+<td>locations Detroit, MI</td>
+<td><div align="center"><a href="https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/AI-Intern_R7371?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Data Analyst Intern 🎓</td>
 <td>Oshkosh, WI</td>
@@ -14282,13 +14289,6 @@
 <td><div align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/PhD-Intern--AI-Research-Scientist_25WD92177?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>11d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
-<td>Agentic AI for CMC Digitalization 🎓 🛂</td>
-<td>Framingham, MA</td>
-<td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/Summer-2026-Intern---Agentic-AI-for-CMC-Digitalization_R2816447?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
 </tbody>
 </table>
 
@@ -14315,6 +14315,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
+<td>Agentic AI for CMC Digitalization 🎓 🛂</td>
+<td>Framingham, MA</td>
+<td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/Summer-2026-Intern---Agentic-AI-for-CMC-Digitalization_R2816447?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
 <td>Artificial Intelligence/Machine Learning Associate Intern 🛂</td>
