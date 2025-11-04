@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1971 Internship Roles by Category
+### Browse 1970 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (558)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (557)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (137)
 
@@ -1368,13 +1368,6 @@
 <td>Full Stack Developer Intern 🛂</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Full-Stack-Developer-Intern_JR-20763?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Skyryse?utm_source=GHList&utm_medium=company">Skyryse</a></strong></td>
-<td>Software Verification & Validation Engineering Intern</td>
-<td>Greater Los Angeles Area, CA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/skyryse/jobs/7341756?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>12d</td>
 </tr>
 <tr>
@@ -9326,6 +9319,20 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
+<td>UPS Technology Group Summer 2026 Internship</td>
+<td>Mahwah, NJ</br>Parsippany-Troy Hills, NJ</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Marshall-Wace?utm_source=GHList&utm_medium=company">Marshall Wace</a></strong></td>
+<td>Technology Intern 🇺🇸</td>
+<td>New York, NY</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -9352,20 +9359,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
-<td>UPS Technology Group Summer 2026 Internship</td>
-<td>Mahwah, NJ</br>Parsippany-Troy Hills, NJ</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marshall-Wace?utm_source=GHList&utm_medium=company">Marshall Wace</a></strong></td>
-<td>Technology Intern 🇺🇸</td>
-<td>New York, NY</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
 <td>UPS Technology Group Summer 2026 Internship</td>
