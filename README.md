@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1970 Internship Roles by Category
+### Browse 1969 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (557)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (556)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (137)
 
@@ -1382,13 +1382,6 @@
 <td>IT Application Developer (AI-Driven IT Ops) Intern 🎓</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/IT-Application-Developer---AI-Driven-IT-Ops---Intern_R106286?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
-<td>Software Engineering, Fleet Response 🇺🇸</td>
-<td>San Francisco, CA</br>Mountain View, CA</td>
-<td><div align="center"><a href="https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>12d</td>
 </tr>
 <tr>
@@ -9333,6 +9326,27 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
+<td>UPS Technology Group Summer 2026 Internship</td>
+<td>Louisville, KY</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>UPS Technology Group Summer 2026 Internship</td>
+<td>Towson, MD</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>UPS Technology Group Summer 2026 Internship</td>
+<td>Alpharetta, GA</br>Atlanta, GA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -9359,27 +9373,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
-<td>UPS Technology Group Summer 2026 Internship</td>
-<td>Louisville, KY</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>UPS Technology Group Summer 2026 Internship</td>
-<td>Towson, MD</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>UPS Technology Group Summer 2026 Internship</td>
-<td>Alpharetta, GA</br>Atlanta, GA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RSM?utm_source=GHList&utm_medium=company">RSM</a></strong></td>
 <td>Cyber Testing Intern</td>
