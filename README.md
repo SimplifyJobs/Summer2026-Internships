@@ -3913,7 +3913,7 @@
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LL-Bean?utm_source=GHList&utm_medium=company">L.L.Bean</a></strong></td>
