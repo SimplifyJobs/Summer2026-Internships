@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1902 Internship Roles by Category
+### Browse 1903 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (538)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (539)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (131)
 
@@ -91,6 +91,13 @@
 <tbody>
 <tr>
 <td><strong>BAE Systems</strong></td>
+<td>Software Engineering Intern II, Summer 2026 🇺🇸</td>
+<td><details><summary><strong>4 locations</strong></summary>Nashua, NH</br>Hudson, NH</br>Manchester, NH</br>Merrimack, NH</details></td>
+<td><div align="center"><a href="https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineering Intern III, Summer 2026 🇺🇸</td>
 <td><details><summary><strong>4 locations</strong></summary>Nashua, NH</br>Hudson, NH</br>Manchester, NH</br>Merrimack, NH</details></td>
 <td><div align="center"><a href="https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -9536,27 +9543,6 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Content Consulting Intern</td>
-<td>Irvine, CA</br>San Diego, CA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Managed IT Services Service Desk Consulting Intern</td>
-<td>LA</br>Irvine, CA</br>San Diego, CA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Infrastructure Consulting Intern</td>
-<td>Dubuque, IA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -9583,6 +9569,27 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Content Consulting Intern</td>
+<td>Irvine, CA</br>San Diego, CA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Managed IT Services Service Desk Consulting Intern</td>
+<td>LA</br>Irvine, CA</br>San Diego, CA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Infrastructure Consulting Intern</td>
+<td>Dubuque, IA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td>↳</td>
 <td>Managed IT Services Service Desk Consulting Intern</td>
