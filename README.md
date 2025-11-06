@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1936 Internship Roles by Category
+### Browse 1935 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (551)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (75)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (212)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (211)
 
 ---
 
@@ -33529,13 +33529,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Daktronics?utm_source=GHList&utm_medium=company">Daktronics</a></strong></td>
-<td>Firmware/Hardware Design Co-op Intern 🛂</td>
-<td>Brookings, SD</td>
-<td><div align="center"><a href="https://careers-daktronics.icims.com/jobs/6993/firmware-hardware-design-co-op-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Physical Design Engineer Intern - Multiple Teams 🎓</td>
 <td>Santa Clara, CA</td>
@@ -34037,7 +34030,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (391)</summary>
+<summary>🗃️ Inactive roles (392)</summary>
 
 <table>
 <thead>
@@ -34649,6 +34642,13 @@
 <td><strong><a href="https://simplify.jobs/c/Arconic?utm_source=GHList&utm_medium=company">Arconic</a></strong></td>
 <td>Application Engineer Co-Op - Multiple Teams</td>
 <td>West Lafayette, IN</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Daktronics?utm_source=GHList&utm_medium=company">Daktronics</a></strong></td>
+<td>Firmware/Hardware Design Co-op Intern 🛂</td>
+<td>Brookings, SD</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
