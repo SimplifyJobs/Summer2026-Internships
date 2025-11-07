@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1854 Internship Roles by Category
+### Browse 1855 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (533)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (534)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (134)
 
@@ -164,7 +164,7 @@
 <td>Software Engineering Intern</td>
 <td>Vancouver, BC, Canada</td>
 <td><div align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/210884?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a2d210d4-51b9-42f7-8334-c30dc527edac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rehiko?utm_source=GHList&utm_medium=company">Rehiko</a></strong></td>
@@ -227,31 +227,31 @@
 <td>Software Engineer Intern 🇺🇸</td>
 <td>Washington, DC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4830901007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lumafield?utm_source=GHList&utm_medium=company">Lumafield</a></strong></td>
 <td>Product Intern, Software 🛂</td>
 <td>San Francisco, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/lumafield/705db272-3d0f-4876-a9e0-aeee3d45e6f1/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company">KLA</a></strong></td>
 <td>Software Intern (GPU Optimization) 🎓</td>
 <td>Milpitas, CA</td>
 <td><div align="center"><a href="https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Intern--GPU-optimization-_2532399-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong>BAE Systems</strong></td>
 <td>Software Engineering Intern, Summer 2026 🇺🇸</td>
 <td>Fort Worth, TX</td>
 <td><div align="center"><a href="https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
-<td><strong>BAE Systems</strong></td>
+<td>↳</td>
 <td>Software Engineering Intern I, Summer 2026 🇺🇸</td>
 <td><details><summary><strong>4 locations</strong></summary>Nashua, NH</br>Hudson, NH</br>Manchester, NH</br>Merrimack, NH</details></td>
 <td><div align="center"><a href="https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -350,6 +350,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Awardco?utm_source=GHList&utm_medium=company">Awardco</a></strong></td>
+<td>Front-End Software Engineer Intern</td>
+<td>Orem, UT</td>
+<td><div align="center"><a href="https://award.co/position?gh_jid=4136562004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7be327f-10fa-4775-8a1c-183ea4b062ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Back-End Software Engineer Intern 🛂</td>
 <td>Lindon, UT</td>
 <td><div align="center"><a href="https://award.co/position?gh_jid=4322220004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c64a512f-2622-44bb-9b61-40e707833008?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -3878,7 +3885,7 @@
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -9592,20 +9599,6 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>UPS Information Security Summer 2026 Internship</td>
-<td>Louisville, KY</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>UPS Information Security Summer 2026 Internship</td>
-<td>Mahwah, NJ</br>Parsippany-Troy Hills, NJ</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -9632,6 +9625,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>UPS Information Security Summer 2026 Internship</td>
+<td>Louisville, KY</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>UPS Information Security Summer 2026 Internship</td>
+<td>Mahwah, NJ</br>Parsippany-Troy Hills, NJ</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RSM?utm_source=GHList&utm_medium=company">RSM</a></strong></td>
 <td>Cyber ServiceNow Developer Associate - ServiceNow Development</td>
@@ -15860,7 +15867,7 @@
 <td>Intern- Artificial Intelligence CoE Engineer 🛂</td>
 <td>Pittsburgh, PA</td>
 <td><div align="center"><a href="https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Intern--Artificial-Intelligence-CoE--Engineer--Pittsburgh--PA-_R85956?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Datacor?utm_source=GHList&utm_medium=company">Datacor</a></strong></td>
@@ -30196,14 +30203,14 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Engineer Intern - Monetization Technology - Ads Creative - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Tiktok-PGC-LLM Applications and AI Agents - 2026 Summer - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -32763,7 +32770,7 @@
 <td>Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree 🎓</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fortive?utm_source=GHList&utm_medium=company">Fortive</a></strong></td>
