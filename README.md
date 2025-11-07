@@ -304,14 +304,14 @@
 <td>Software Engineer Intern - </td>
 <td>Reston, VA</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4830565007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/979a40e8-69d2-4348-afc7-797cb9f905de?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Washington, DC</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4830901007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/adeeb3d8-d95b-471d-ae9c-f5b85155aa17?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lumen-Technologies?utm_source=GHList&utm_medium=company">Lumen Technologies</a></strong></td>
@@ -3899,7 +3899,7 @@
 <td>Software Developer Internship - Software Development</td>
 <td>Freeport, ME</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -12370,14 +12370,14 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Backend Software Engineer Intern - Tiktok-Growth-Innovative Growth - 2026 Summer - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Software Development Engineer in Test Intern - Tiktok-Privacy and Security-Business Risk Integrated Control - 2026 Summer - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>

@@ -1399,7 +1399,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Boston, MA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/SRE---Software-Engineering-Intern_JR110931?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1a5e6419-f2c5-4856-aa34-37ce76c335df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Valmont?utm_source=GHList&utm_medium=company">Valmont</a></strong></td>
@@ -15088,7 +15088,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Bellevue, WA</td>
 <td>Fall 2025</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wurl?utm_source=GHList&utm_medium=company">Wurl</a></strong></td>
