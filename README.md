@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 1880 Internship Roles by Category
+### Browse 1881 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (541)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (132)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (133)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (933)
 
@@ -7234,14 +7234,14 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
 <td>Comcast Platform Onboarding and Operationalization Intern</td>
 <td>Mt Laurel Township, NJ</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
+<td>↳</td>
 <td>Comcast Incident Management Intern</td>
 <td>Mt Laurel Township, NJ</td>
 <td>🔒</td>
@@ -13354,6 +13354,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Awardco?utm_source=GHList&utm_medium=company">Awardco</a></strong></td>
+<td>UX Design Intern 🛂</td>
+<td>Lindon, UT</td>
+<td><div align="center"><a href="https://www.awardco.com/position?gh_jid=4137112004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
 <td>Product Manager MBA Intern - Enterprise AI - Summer 2026 🎓</td>
 <td>Santa Clara, CA</td>
@@ -14489,7 +14496,7 @@
 <td>Product Management Intern</td>
 <td>Boca Raton, FL</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Exact-Sciences?utm_source=GHList&utm_medium=company">Exact Sciences</a></strong></td>
@@ -18240,28 +18247,28 @@
 <td>Information Technology Intern, Artificial Intelligence</td>
 <td>Bloomington, IN</td>
 <td><div align="center"><a href="https://americas-cookmedical.icims.com/jobs/17500/information-technology-intern%2c-artificial-intelligence/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Intern, Artificial Intelligence & Innovation</td>
 <td>Bloomington, IN</td>
 <td><div align="center"><a href="https://americas-cookmedical.icims.com/jobs/17536/intern%2c-artificial-intelligence-%26-innovation/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cohesity?utm_source=GHList&utm_medium=company">Cohesity</a></strong></td>
 <td>Data Scientist Intern</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Data-Scientist-Intern--Summer-2026_R01581?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Obsidian-Entertainment?utm_source=GHList&utm_medium=company">Obsidian Entertainment</a></strong></td>
 <td>AI Engineer</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://obsidian.applytojob.com/apply/ze81ARcmta/AI-Engineer-2026-Summer-Internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc476245-57e9-4eaf-bbcb-2b48a9479d60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>BillionToOne</strong></td>
@@ -22675,14 +22682,14 @@
 <td>Cto Pmo Intern - Summer 2026</td>
 <td>Shakopee, MN</br>Remote in USA</br>Longmont, CO</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Wafer Photo Process Engineering Internship - Summer 2026</td>
 <td>Bloomington, MN</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Home-Chef?utm_source=GHList&utm_medium=company">Home Chef</a></strong></td>
@@ -23396,21 +23403,21 @@
 <td>Intern - Multiple Teams</td>
 <td>Wright-Patterson AFB, OH</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ADT?utm_source=GHList&utm_medium=company">ADT</a></strong></td>
 <td>Technical Project Analyst Intern</td>
 <td>Boca Raton, FL</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Small Business Strategy and Analytics Intern - SMB Strategy & Analytics 🎓</td>
 <td>Boca Raton, FL</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CareBridge?utm_source=GHList&utm_medium=company">CareBridge</a></strong></td>
@@ -26861,7 +26868,7 @@
 <td>Digital Data Science Analyst Intern</td>
 <td>Houston, TX</br>Milwaukee, WI</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Kensho?utm_source=GHList&utm_medium=company">Kensho</a></strong></td>
@@ -29181,7 +29188,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
+<td>↳</td>
 <td>Deals – Technology and Data Solutions Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>Washington, DC</br>SF</br>Norridge, IL</br>NYC</details></td>
 <td>🔒</td>
@@ -34233,11 +34240,11 @@
 <td>14d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Celestial AI</strong></td>
 <td>Reliability Engineering Intern - Silicon Photonics 🛂</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LabCorp?utm_source=GHList&utm_medium=company">LabCorp</a></strong></td>
