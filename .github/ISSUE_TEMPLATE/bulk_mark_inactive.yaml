@@ -1,0 +1,58 @@
+name: Bulk Mark Roles as Inactive
+description: Mark multiple job postings as inactive in one batch
+title: "Bulk Marking Roles as Inactive"
+labels: ["bulk_mark_inactive"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bulk Mark Roles as Inactive
+        
+        Use this form to mark multiple job postings as inactive at once. This is useful when you have discovered that several roles are no longer accepting applications.
+        
+        **Important Notes:**
+        - Each URL should be on a separate line
+        - URLs must exactly match the ones in our database
+        - The system will process each URL individually and report success/failure for each
+        - If one URL fails, the others will still be processed
+        - After all URLs are processed, the README will be automatically updated
+        
+  - type: textarea
+    id: urls
+    attributes:
+      label: Job Posting URLs
+      description: |
+        Paste the URLs of job postings you want to mark as inactive.
+        **Put each URL on a separate line.**
+        
+        Example:
+        https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application
+        https://job-boards.greenhouse.io/scaleai/jobs/4537496005
+        https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?nl=1&nl=1&fr=false
+      placeholder: |
+        https://example.com/job1
+        https://example.com/job2
+        https://example.com/job3
+    validations:
+      required: true
+      
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for marking as inactive
+      description: Please explain why these roles should be marked as inactive
+      placeholder: "These roles are no longer accepting applications as confirmed on company websites..."
+    validations:
+      required: true
+      
+  - type: input
+    id: email
+    attributes:
+      label: Email associated with your GitHub account (Optional)
+      description: |
+        If you would like to be listed as the contributor when the GitHub action 
+        commits your changes, please provide your email. If left blank, the 
+        contribution will be made by the bot actions@github.com.
+      placeholder: ex. firstLast@gmail.com
+    validations:
+      required: false
