@@ -9,7 +9,7 @@ concurrency: add_internships
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
-    if: github.event.label.name == 'approved' && !contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
+    if: github.event.label.name == 'approved' && !(contains(github.event.issue.labels.*.name, 'bulk_mark_inactive'))
 
     steps:
       - name: Checkout Repository
