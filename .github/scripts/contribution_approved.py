@@ -213,12 +213,25 @@ def main():
         return
 
     try:
-        # CHECK IF NEW OR OLD INTERNSHIP
-        new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
-        edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
+        # CHECK IF NEW OR OLD INTERNSHIP OR BULK MARK INACTIVE
+        labels = [label["name"] for label in event_data["issue"]["labels"]]
+        new_internship = "new_internship" in labels
+        edit_internship = "edit_internship" in labels
+        bulk_mark_inactive = "bulk_mark_inactive" in labels
+
+        # If it's a bulk_mark_inactive issue, delegate to that script
+        if bulk_mark_inactive:
+            import subprocess
+            result = subprocess.run(
+                ["python", ".github/scripts/bulk_mark_inactive.py", event_file_path],
+                capture_output=True,
+                text=True
+            )
+            # The bulk_mark_inactive script handles all outputs and errors
+            sys.exit(result.returncode)
 
         if not new_internship and not edit_internship:
-            util.fail("Only new_internship and edit_internship issues can be approved")
+            util.fail("Only new_internship, edit_internship, and bulk_mark_inactive issues can be approved")
             return
 
         # GET DATA FROM ISSUE FORM

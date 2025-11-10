@@ -9,7 +9,7 @@ concurrency: add_internships
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
-    if: github.event.label.name == 'approved' && !(contains(github.event.issue.labels.*.name, 'bulk_mark_inactive'))
+    if: github.event.label.name == 'approved'
 
     steps:
       - name: Checkout Repository
@@ -47,9 +47,19 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
 
-      - name: Auto Close Issue
+      - name: Post Summary Comment (Bulk Mark Inactive)
+        run: |
+          cat << 'EOF' > comment.txt
+          ${{ steps.python_script.outputs.summary_comment }}
+          EOF
+          gh issue comment ${{ github.event.issue.number }} --body-file comment.txt
+        if: success() && contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Auto Close Issue (Regular Contributions)
         run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
-        if: success()
+        if: success() && !contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
