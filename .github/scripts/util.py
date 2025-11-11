@@ -42,7 +42,19 @@ CATEGORIES = {
 def setOutput(key, value):
     if output := os.getenv('GITHUB_OUTPUT', None):
         with open(output, 'a') as fh:
-            print(f'{key}={value}', file=fh)
+            # Use delimiter format for multiline values
+            import uuid
+            delimiter = f'ghadelimiter_{uuid.uuid4()}'
+            # Convert value to string and handle multiline
+            value_str = str(value)
+            if '\n' in value_str or any(char in value_str for char in ['*', '#', '`', '[', ']']):
+                # Use heredoc format for multiline or special character values
+                print(f'{key}<<{delimiter}', file=fh)
+                print(value_str, file=fh)
+                print(delimiter, file=fh)
+            else:
+                # Simple format for single-line values
+                print(f'{key}={value_str}', file=fh)
 
 def fail(why):
     setOutput("error_message", why)
