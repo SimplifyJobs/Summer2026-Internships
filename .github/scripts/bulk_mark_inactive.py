@@ -212,7 +212,7 @@ def generate_summary_comment(results, reason):
         comment += "\n"
     
     if successful:
-        comment += "The README will be updated automatically.\n"
+        comment += "✅ **The README has been updated and changes have been committed!**\n"
     
     return comment
 
