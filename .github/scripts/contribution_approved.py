@@ -215,23 +215,28 @@ def main():
     try:
         # CHECK IF NEW OR OLD INTERNSHIP OR BULK MARK INACTIVE
         labels = [label["name"] for label in event_data["issue"]["labels"]]
+        print(f"DEBUG: Issue labels found: {labels}")
+        
         new_internship = "new_internship" in labels
         edit_internship = "edit_internship" in labels
         bulk_mark_inactive = "bulk_mark_inactive" in labels
 
         # If it's a bulk_mark_inactive issue, delegate to that script
         if bulk_mark_inactive:
+            print("DEBUG: Detected bulk_mark_inactive issue, delegating to bulk_mark_inactive.py")
             import subprocess
+            
+            # Run the script without capturing output so it can write directly to GITHUB_OUTPUT
             result = subprocess.run(
-                ["python", ".github/scripts/bulk_mark_inactive.py", event_file_path],
-                capture_output=True,
-                text=True
+                ["python", ".github/scripts/bulk_mark_inactive.py", event_file_path]
             )
-            # The bulk_mark_inactive script handles all outputs and errors
+            print(f"DEBUG: bulk_mark_inactive.py returncode: {result.returncode}")
+            
+            # Exit with the same return code
             sys.exit(result.returncode)
 
         if not new_internship and not edit_internship:
-            util.fail("Only new_internship, edit_internship, and bulk_mark_inactive issues can be approved")
+            util.fail(f"Only new_internship, edit_internship, and bulk_mark_inactive issues can be approved. Found labels: {labels}")
             return
 
         # GET DATA FROM ISSUE FORM
