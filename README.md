@@ -11,7 +11,7 @@
 
 ### Browse 1387 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (411)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (410)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (121)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (50)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (175)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (176)
 
 ---
 
@@ -89,13 +89,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>SRI</strong></td>
-<td>Drexel University Co-op: Software Engineering 🇺🇸</td>
-<td>Princeton, NJ</td>
-<td><div align="center"><a href="https://careers-sri.icims.com/jobs/6262/drexel-university-co-op%3a-embedded-software-engineering/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Smith-Nephew?utm_source=GHList&utm_medium=company">Smith+Nephew</a></strong></td>
 <td>Intern Robotics Software 🛂</td>
@@ -5162,7 +5155,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Verizon-Communications?utm_source=GHList&utm_medium=company">Verizon Communications</a></strong></td>
 <td>Global Technology Solutions Intern - Multiple Teams</td>
 <td>Alpharetta, GA</td>
 <td>🔒</td>
@@ -11202,6 +11195,13 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Austin, TX</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11228,13 +11228,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Austin, TX</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
 <td>Software Engineering Intern</td>
@@ -34998,6 +34991,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SRI</strong></td>
+<td>Drexel University Co-op: Embedded Software Engineering 🇺🇸</td>
+<td>Princeton, NJ</td>
+<td><div align="center"><a href="https://careers-sri.icims.com/jobs/6262/drexel-university-co-op%3a-embedded-software-engineering/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AGCO?utm_source=GHList&utm_medium=company">AGCO</a></strong></td>
 <td>Validation Engineering Co-op</td>
