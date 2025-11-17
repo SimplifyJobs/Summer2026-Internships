@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1374 Internship Roles by Category
+### Browse 1385 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (403)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (408)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (119)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (627)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (633)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (50)
 
@@ -920,7 +920,7 @@
 <td>Internship-Application Development - </td>
 <td>East Lansing, MI</td>
 <td><div align="center"><a href="https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101034?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8640b883-0fa3-403c-966d-954e5413553a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -1784,6 +1784,13 @@
 <td>30d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
+<td>Software Development Intern</td>
+<td>Troy, MI</td>
+<td><div align="center"><a href="https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Software-Development-Intern_J000687918?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Base?utm_source=GHList&utm_medium=company">Base</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>SF</br>NYC</td>
@@ -1956,6 +1963,13 @@
 <td>Flight Software Engineer 🇺🇸</td>
 <td>Mountain View, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/reliable/c03acd82-7f84-43c8-bcf9-e854abeb6104?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Sephora</strong></td>
+<td>Intern, IT Warehouse & Distribution Automation 🇺🇸</td>
+<td>Remote in CA</td>
+<td><div align="center"><a href="https://join.sephora.com/careers/job/790312348148?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -2631,6 +2645,27 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Software Engineer Intern 🛂</td>
+<td>Seattle, WA</td>
+<td><div align="center"><a href="https://www.pinterestcareers.com/jobs/7241510/software-engineer-intern-2026/?gh_jid=7241510&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern 🛂</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://www.pinterestcareers.com/jobs/7202269/software-engineer-intern-2026-remote-us/?gh_jid=7202269&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern 🛂</td>
+<td>San Francisco, CA</br>Palo Alto, CA</td>
+<td><div align="center"><a href="https://www.pinterestcareers.com/jobs/7210881/software-engineer-intern-2026/?gh_jid=7210881&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
 <td>Electronic Trading Platform Software Engineer Co-Op - Global Technology Services</td>
 <td>Quincy, MA</td>
@@ -2915,7 +2950,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1590)</summary>
+<summary>🗃️ Inactive roles (1585)</summary>
 
 <table>
 <thead>
@@ -3783,13 +3818,6 @@
 <td>30d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
-<td>Software Development Intern</td>
-<td>Troy, MI</td>
-<td>🔒</td>
-<td>30d</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">Visa</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
@@ -4052,13 +4080,6 @@
 <td><strong>Hone Health</strong></td>
 <td>Data Science Intern</td>
 <td>Remote in USA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Sephora</strong></td>
-<td>Intern, IT Warehouse & Distribution Automation 🇺🇸</td>
-<td>Remote in CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -5557,27 +5578,6 @@
 <td>↳</td>
 <td>Software Engineer Intern 2026 - Multiple Teams</td>
 <td>Remote in USA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern 🛂</td>
-<td>Seattle, WA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern 🛂</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern 🛂</td>
-<td>San Francisco, CA</br>Palo Alto, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -7444,7 +7444,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Klaviyo?utm_source=GHList&utm_medium=company">Klaviyo</a></strong></td>
 <td>Full-stack Software Engineer Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
@@ -11209,6 +11209,32 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+</tbody>
+</table>
+
+---
+
+<div align="center" id="github-cutoff-warning">
+  <h2>🔗 See Full List</h2>
+  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
+  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
+</div>
+
+---
+
+<table>
+<thead>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Netsmart?utm_source=GHList&utm_medium=company">Netsmart</a></strong></td>
 <td>IT System Administrator Intern</td>
@@ -11258,32 +11284,6 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
-</tbody>
-</table>
-
----
-
-<div align="center" id="github-cutoff-warning">
-  <h2>🔗 See Full List</h2>
-  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
-  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
-  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
-</div>
-
----
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
 <td>Software Engineering Intern 🛂</td>
@@ -17837,6 +17837,27 @@
 <td>13d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
+<td>2026 U.S. Summer Internship Program: Quantitative Clinical Pharmacology (QCP) AI/RAG Intern 🎓 🛂</td>
+<td>Cambridge, MA</td>
+<td><div align="center"><a href="https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Quantitative-Clinical-Pharmacology--QCP--AI-RAG-Intern_R0165988?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern 🎓 🛂</td>
+<td>Cambridge, MA</td>
+<td><div align="center"><a href="https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Data-Scientist-Computational-Biology-Intern_R0165898?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>2026 U.S Summer Internship Program: Cell Line Development Data Science Intern 🎓 🛂</td>
+<td>Cambridge, MA</td>
+<td><div align="center"><a href="https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Cell-Line-Development-Data-Science-Intern_R0166327?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Highmark-Health?utm_source=GHList&utm_medium=company">Highmark Health</a></strong></td>
 <td>Sumer 2026 Analytic Enablement Graduate Intern</td>
 <td><details><summary><strong>50 locations</strong></summary>New Mexico</br>Washington</br>Kansas</br>Pennsylvania</br>North Dakota</br>Oregon</br>Delaware</br>Iowa</br>California</br>Washington, DC</br>Vermont</br>Wyoming</br>Texas</br>Montana</br>Jackson Township, NJ</br>Florida</br>Waterbury, CT</br>Nevada</br>South Carolina</br>South Dakota</br>Georgia</br>Arizona</br>Concord, NH</br>Mississippi</br>Tennessee</br>Virginia</br>Arkansas</br>Colorado</br>Nebraska</br>Rhode Island</br>Utah</br>Kentucky</br>West Virginia</br>NYC</br>Maryland</br>Hawaii</br>Wisconsin</br>Maine</br>Massachusetts</br>North Carolina</br>Oklahoma</br>Missouri</br>Ohio</br>Indiana</br>Louisiana</br>Alaska</br>Michigan</br>Illinois</br>Alabama</br>Idaho</details></td>
@@ -18803,6 +18824,13 @@
 <td>22d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
+<td>Algorithm Developer Intern</td>
+<td>Troy, MI</td>
+<td><div align="center"><a href="https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Algorithm-Developer-Intern_J000685569?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
 <td>Data Analyst Summer Intern 🛂</td>
 <td>Englewood, CO</td>
@@ -18856,6 +18884,13 @@
 <td>AI Engineer</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://obsidian.applytojob.com/apply/ze81ARcmta/AI-Engineer-2026-Summer-Internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc476245-57e9-4eaf-bbcb-2b48a9479d60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>24d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Keystone-Cooperative?utm_source=GHList&utm_medium=company">Keystone Cooperative</a></strong></td>
+<td>Intern - Data Analyst</td>
+<td>Indianapolis, IN</td>
+<td><div align="center"><a href="https://keystone.wd5.myworkdayjobs.com/en-US/keystone/job/Indianapolis-IN/Intern---Data-Analyst_JR102330?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>24d</td>
 </tr>
 <tr>
@@ -20791,6 +20826,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong>Altium</strong></td>
+<td>Legal & Human Resources AI Agent Development Intern</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://ccc.wd5.myworkdayjobs.com/en-US/ccc_External/job/Atlanta-GA/XMLNAME-2026-Legal---Human-Resources-AI-Agent-Development-Intern_R18027?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company">Point72</a></strong></td>
 <td>Data Engineer Intern - Long/Short Equities</td>
 <td>London, UK</td>
@@ -21089,7 +21131,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1666)</summary>
+<summary>🗃️ Inactive roles (1660)</summary>
 
 <table>
 <thead>
@@ -21631,27 +21673,6 @@
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Data Analyst Intern</td>
 <td>Oshkosh, WI</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
-<td>2026 U.S. Summer Internship Program: Quantitative Clinical Pharmacology (QCP) AI/RAG Intern 🎓 🛂</td>
-<td>Cambridge, MA</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern 🎓 🛂</td>
-<td>Cambridge, MA</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 U.S Summer Internship Program: Cell Line Development Data Science Intern 🎓 🛂</td>
-<td>Cambridge, MA</td>
 <td>🔒</td>
 <td>13d</td>
 </tr>
@@ -22951,13 +22972,6 @@
 <td>22d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
-<td>Algorithm Developer Intern</td>
-<td>Troy, MI</td>
-<td>🔒</td>
-<td>23d</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">Visa</a></strong></td>
 <td>Data Science Intern - Summer 2026 🎓</td>
 <td>San Mateo, CA</td>
@@ -22996,13 +23010,6 @@
 <td><strong>BillionToOne</strong></td>
 <td>Oncology AI Associate Intern 🎓</td>
 <td>Menlo Park, CA</td>
-<td>🔒</td>
-<td>24d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Keystone-Cooperative?utm_source=GHList&utm_medium=company">Keystone Cooperative</a></strong></td>
-<td>Intern - Data Analyst</td>
-<td>Indianapolis, IN</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
@@ -25565,13 +25572,6 @@
 <td><strong><a href="https://simplify.jobs/c/Harris-Computer?utm_source=GHList&utm_medium=company">Harris Computer</a></strong></td>
 <td>Software Development and AI Intern - Co-op - R&D - AI</td>
 <td>Remote in Canada</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Altium</strong></td>
-<td>Legal & Human Resources AI Agent Development Intern</td>
-<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
