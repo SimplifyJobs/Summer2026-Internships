@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1285 Internship Roles by Category
+### Browse 1286 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (380)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (381)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (114)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Moog</strong></td>
+<td>Intern, Software Engineering 🛂</td>
+<td>Torrance, CA</td>
+<td><div align="center"><a href="https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-25-14912?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Android Platform Software Engineering Intern 🛂</td>
@@ -374,10 +381,10 @@
 <td>Summer 2026 Software Development Intern</td>
 <td>Hammond, IN</td>
 <td><div align="center"><a href="https://apply.workable.com/altom-transport/j/6C00FDED5C/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Altom-Transport?utm_source=GHList&utm_medium=company">Altom Transport</a></strong></td>
+<td>↳</td>
 <td>Summer 2026 Software Development Intern</td>
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://apply.workable.com/altom-transport/j/04A9461007/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -2989,7 +2996,7 @@
 <td>US SWE Summer Internship</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zurich-Insurance?utm_source=GHList&utm_medium=company">Zurich Insurance</a></strong></td>
@@ -11538,20 +11545,6 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
-<td>Pharma Technical Analyst Internship</td>
-<td>Mississauga, ON, Canada</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Air-Products?utm_source=GHList&utm_medium=company">Air Products</a></strong></td>
-<td>Summer Intern-IT & Cyber Audit</td>
-<td>Allentown, PA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -11578,6 +11571,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
+<td>Pharma Technical Analyst Internship</td>
+<td>Mississauga, ON, Canada</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Air-Products?utm_source=GHList&utm_medium=company">Air Products</a></strong></td>
+<td>Summer Intern-IT & Cyber Audit</td>
+<td>Allentown, PA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sherwin-Williams?utm_source=GHList&utm_medium=company">Sherwin-Williams</a></strong></td>
 <td>IT Engineer Co-Op</td>

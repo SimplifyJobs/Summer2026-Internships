@@ -1778,7 +1778,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Boston, MA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company">Altera Corporation</a></strong></td>
@@ -9795,7 +9795,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Washington, DC</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://www.webershandwick.com/work-at-weber/careers/?gh_jid=8247744002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9b340c74-dd56-49ce-8787-d5db3970db25?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/1x?utm_source=GHList&utm_medium=company">1X</a></strong></td>
