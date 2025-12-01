@@ -11033,6 +11033,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <th>Company</th>
 <th>Role</th>
 <th>Location</th>
+<th>Terms</th>
 <th>Application</th>
 <th>Age</th>
 </tr>
