@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 726 Internship Roles by Category
+### Browse 727 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (209)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (210)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (52)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (51)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (277)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (278)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (15)
 
@@ -335,6 +335,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>LA</br>NYC</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/baccf322-dfd8-4aa2-aae2-011cde94af40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/SSC?utm_source=GHList&utm_medium=company">SS&C</a></strong></td>
+<td>Intern Technical</td>
+<td>Toronto, ON, Canada</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0589d031-9b0a-4c2d-8a05-6a36fc6b8fbc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>8d</td>
 </tr>
 <tr>
@@ -1602,7 +1610,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
 <td>Software Development Intern</td>
 <td>Boston, MA</td>
 <td>Winter 2025</td>
@@ -8639,14 +8647,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>25d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Kabam?utm_source=GHList&utm_medium=company">Kabam</a></strong></td>
-<td>Operations Product Manager Co-op</td>
-<td>Vancouver, BC, Canada</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://jobs.lever.co/kabam/b1ef1ad4-9d2f-4a75-8f35-fd49342233b9/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/77f593f9-ed6f-43b6-8935-2a724294581c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Sezzle?utm_source=GHList&utm_medium=company">Sezzle</a></strong></td>
 <td>Product Intern</td>
 <td>Remote in Canada</td>
@@ -8811,7 +8811,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (103)</summary>
+<summary>🗃️ Inactive roles (104)</summary>
 
 <table>
 <thead>
@@ -8902,6 +8902,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Product Intern - Payments</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026, Spring 2026</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kabam?utm_source=GHList&utm_medium=company">Kabam</a></strong></td>
+<td>Operations Product Manager Co-op</td>
+<td>Vancouver, BC, Canada</td>
+<td>Winter 2025</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
@@ -9677,6 +9685,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sony?utm_source=GHList&utm_medium=company">Sony</a></strong></td>
+<td>Engineering Intern - AI Ethics 🎓</td>
+<td><details><summary><strong>7 locations</strong></summary>California</br>Washington, DC</br>LA</br>Texas</br>San Jose, CA</br>Newark, NJ</br>NYC</details></td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Engineering-Intern--AI-Ethics-_JR-118474?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6fac482f-97c8-49bc-94b9-7088623f5f3f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CLEAResult?utm_source=GHList&utm_medium=company">CLEAResult</a></strong></td>
 <td>Engineering Co-op</td>
@@ -11013,22 +11029,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://seagatecareers.com/job/Bloomington-Characterization-and-Analytics-Internship-Summer-2026-MN/1340597100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2f4ec5b3-d317-45e2-a8da-b0a3aa71a9c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>26d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Verisk?utm_source=GHList&utm_medium=company">Verisk</a></strong></td>
-<td>Data Science – 2026 Summer Internship Program</td>
-<td>London, UK</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2565?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/53eeab36-5afc-4800-a760-e2befba1dc10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Thomson-Reuters?utm_source=GHList&utm_medium=company">Thomson Reuters</a></strong></td>
-<td>Research Engineer Intern</td>
-<td>Toronto, ON, Canada</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Research-Engineer-Intern_JREQ195821?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b0026445-222f-4706-a2e3-e41487d4e5a2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
-</tr>
 </tbody>
 </table>
 
@@ -11055,6 +11055,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Verisk?utm_source=GHList&utm_medium=company">Verisk</a></strong></td>
+<td>Data Science – 2026 Summer Internship Program</td>
+<td>London, UK</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2565?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/53eeab36-5afc-4800-a760-e2befba1dc10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Thomson-Reuters?utm_source=GHList&utm_medium=company">Thomson Reuters</a></strong></td>
+<td>Research Engineer Intern</td>
+<td>Toronto, ON, Canada</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Research-Engineer-Intern_JREQ195821?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b0026445-222f-4706-a2e3-e41487d4e5a2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>26d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Samsung-Research-America?utm_source=GHList&utm_medium=company">Samsung Research America</a></strong></td>
 <td>2026 Intern - Gen AI/LLM Research</td>

@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1189 Internship Roles by Category
+### Browse 1191 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (345)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (116)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (535)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (538)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (43)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (150)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (149)
 
 ---
 
@@ -2744,14 +2744,14 @@
 <td>2026 Summer Software Engineering Internship - Northeast</td>
 <td>SF</td>
 <td>🔒</td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Software Engineering Internship - Northeast</td>
 <td>SF</td>
 <td>🔒</td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amperity?utm_source=GHList&utm_medium=company">Amperity</a></strong></td>
@@ -5047,7 +5047,7 @@
 <td>Release Engineering Intern - Systems Analyst</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/LinkedIn?utm_source=GHList&utm_medium=company">LinkedIn</a></strong></td>
@@ -17914,6 +17914,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/TransUnion?utm_source=GHList&utm_medium=company">TransUnion</a></strong></td>
+<td>Data Science & Analytics Intern</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2026_19038170?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2ae511d6-d808-419c-9db1-0f70e9af5280?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Daikin-Applied?utm_source=GHList&utm_medium=company">Daikin Applied</a></strong></td>
+<td>Energy Analyst Intern</td>
+<td>Tampa, FL</td>
+<td><div align="center"><a href="https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Tampa-FL-33619/Energy-Analyst-Intern_R000297-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/64ff76af-138a-4c64-bf43-6ea642058c4d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Oaktree-Capital-Management?utm_source=GHList&utm_medium=company">Oaktree Capital Management</a></strong></td>
 <td>Undergraduate Intern - Risk - Reporting & Analytics</td>
 <td>LA</td>
@@ -21589,6 +21603,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Data Science Intern - Data Strategy & Information Delivery Division</td>
+<td>Madison, WI</td>
+<td><div align="center"><a href="https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Science-Intern_R-001261?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5d163e58-1ef5-4620-b2db-0cd22b36ab34?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Data Analyst Intern/Co-op - FC Live Service Analytics</td>
 <td>Vancouver, BC, Canada</td>
@@ -21663,7 +21684,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1948)</summary>
+<summary>🗃️ Inactive roles (1947)</summary>
 
 <table>
 <thead>
@@ -24869,7 +24890,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Security Applied AI/ML Research Intern - Microsoft Threat Intelligence Center</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -26108,13 +26129,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Data Science Intern - Data Strategy & Information Delivery Division</td>
-<td>Madison, WI</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Generative AI Digital Characters</td>
 <td>Sausalito, CA</td>
@@ -26329,14 +26343,14 @@
 <td>Sales Analytics Intern</td>
 <td>Milwaukee, WI</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Viking-Global?utm_source=GHList&utm_medium=company">Viking Global</a></strong></td>
 <td>Data Science Intern - Data Science</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -29209,7 +29223,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
+<td>↳</td>
 <td>Data Analyst Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -38645,19 +38659,12 @@
 <td><div align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7485181003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9ce2f16b-188f-409b-9d15-5c35f7238976?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Beta-Technologies?utm_source=GHList&utm_medium=company">Beta Technologies</a></strong></td>
-<td>2026 – 2027 BETA Internship - Vermont</td>
-<td>Burlington, VT</td>
-<td><div align="center"><a href="https://jobs.lever.co/beta/a3cf2927-7c4a-459d-8296-28034dccbee8/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f6472f17-ba4d-4c27-8256-155f1ced033d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (609)</summary>
+<summary>🗃️ Inactive roles (610)</summary>
 
 <table>
 <thead>
@@ -39761,6 +39768,13 @@
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Beta-Technologies?utm_source=GHList&utm_medium=company">Beta Technologies</a></strong></td>
+<td>2026 – 2027 BETA Internship - Vermont</td>
+<td>Burlington, VT</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
