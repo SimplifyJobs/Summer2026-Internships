@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1160 Internship Roles by Category
+### Browse 1161 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (337)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (338)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (113)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pinata</strong></td>
+<td>Summer 2026 Software Engineer Intern, MBC</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://apply.workable.com/pinata/j/8647E8E7C7/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company">ABB</a></strong></td>
 <td>Full Stack Developer Intern- Summer 2026 🛂</td>
@@ -11951,13 +11958,6 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
-<td>Intern - Software Engineer</td>
-<td>Seattle, WA</br>SF</br>Bellevue, WA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -11984,6 +11984,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
+<td>Intern - Software Engineer</td>
+<td>Seattle, WA</br>SF</br>Bellevue, WA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SEP?utm_source=GHList&utm_medium=company">SEP</a></strong></td>
 <td>Software Engineering Intern</td>
@@ -39150,7 +39157,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Lumafield?utm_source=GHList&utm_medium=company">Lumafield</a></strong></td>
 <td>Engineering Intern - Embedded Software</td>
 <td>Cambridge, MA</td>
 <td><div align="center"><a href="https://jobs.lever.co/lumafield/fcef5035-421a-4c2e-a79a-b687401a1efe/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e224f319-f099-4bb1-b360-e659ff0930c0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
