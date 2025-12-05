@@ -1448,7 +1448,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
 <td>Software Engineer Internship</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7455338003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/207bc6eb-6fda-4620-9fd9-5c898e70ec29?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2492,7 +2492,7 @@
 <td>2026 Summer Intern - DB/Application Engineer</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Commerce-Bank?utm_source=GHList&utm_medium=company">Commerce Bank</a></strong></td>
@@ -3454,7 +3454,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>WDI Software Developer Intern - Summer 2026</td>
 <td>Celebration, FL</td>
 <td>🔒</td>
@@ -6450,7 +6450,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Toronto, Canada</td>
 <td>🔒</td>
@@ -11965,13 +11965,6 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
-<td>Cybersecurity – Corporate Internship</td>
-<td>Pittsburgh, PA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -11998,6 +11991,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
+<td>Cybersecurity – Corporate Internship</td>
+<td>Pittsburgh, PA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
 <td>Software Engineering Internship</td>
@@ -18947,7 +18947,7 @@
 <td>Data Engineer Intern</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7568546589788227893?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb549c71-7b62-436b-9a16-21d9da8c69dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -20553,7 +20553,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>↳</td>
 <td>GE Vernova Nuclear Accident Tolerant Fuel – Intern - Atf - Summer 2026</td>
 <td>Wilmington, NC</td>
 <td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Accident-Tolerant-Fuel--ATF--Intern---Summer-2026_R5020435-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/32c1f861-5b53-40e3-b208-dcee57cec509?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -32744,7 +32744,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Inventing-For-Life?utm_source=GHList&utm_medium=company">Inventing for Life</a></strong></td>
 <td>Future Talent Program – Intern - Regulatory Data Science</td>
 <td>North Wales, PA</br>Linden, NJ</td>
 <td>🔒</td>
@@ -38587,7 +38587,7 @@
 <td>Intern - System Testing - MS Only</td>
 <td>Roseville, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000094477331?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5b921ece-9395-4990-af0f-6c4eaec08841?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blue-Origin?utm_source=GHList&utm_medium=company">Blue Origin</a></strong></td>
