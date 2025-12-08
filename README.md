@@ -563,7 +563,7 @@
 <td>Software Engineer Intern</td>
 <td>SF</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/7528020003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0c494f66-1d71-4451-a4fe-1a973be8af10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LabCorp?utm_source=GHList&utm_medium=company">LabCorp</a></strong></td>
@@ -2450,7 +2450,7 @@
 <td>Software Engineering Intern</td>
 <td>Morrisville, NC</br>SF</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company">KLA</a></strong></td>
@@ -8298,7 +8298,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
+<td>↳</td>
 <td>Comcast Software Engineer Intern</td>
 <td>Reston, VA</td>
 <td>🔒</td>
@@ -18576,21 +18576,21 @@
 <td>Data Operations Engineer Intern - Spring/Summer 2026</td>
 <td>Pennsylvania</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/accuweather/jobs/7441161?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a545b5ce-3ef4-45c1-b468-a833e7f67bdc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Engineering Intern - Spring/Summer 2026</td>
 <td>Pennsylvania</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/accuweather/jobs/7441297?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/73e5eb82-f022-4d5c-a659-26e5e6577a70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Applied Meteorologist Intern</td>
 <td>State College, PA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/accuweather/jobs/7441273?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/69bf29c0-b09b-4eb7-95c0-69d5a94f8422?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TransUnion?utm_source=GHList&utm_medium=company">TransUnion</a></strong></td>
@@ -18807,7 +18807,7 @@
 <td>ESPN Research Intern - Summer 2026</td>
 <td>Bristol, CT</td>
 <td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/ESPN-Research-Intern--Summer-2026_10134504?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cc019177-4017-4303-9d58-573cd5d7cbff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Samsung-Research-America?utm_source=GHList&utm_medium=company">Samsung Research America</a></strong></td>
@@ -19101,21 +19101,21 @@
 <td>2026 Summer Internship - Research Scientist - PhD 🎓</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://jobs.lever.co/spotify/753761e8-ecdd-49ba-9b43-b39dbc88f2ab/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/adb1e37b-26b0-499f-91c5-36c89957163e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Internship - Research Scientist - PhD 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.lever.co/spotify/ce5934cb-6be9-478c-a856-49b8189d87e2/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2252c353-bf57-4e48-8d1f-821f46029a94?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company">KLA</a></strong></td>
 <td>Supply Chain Data Science Intern</td>
 <td>Ann Arbor, MI</td>
 <td><div align="center"><a href="https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Supply-Chain-Data-Science-Intern_2532571-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b5006151-258f-4913-94aa-a5c8820e86b5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/US-Conec?utm_source=GHList&utm_medium=company">US Conec</a></strong></td>
@@ -19248,7 +19248,7 @@
 <td>Global Trade & Data Analysis Intern - The Toro Company</td>
 <td>Bloomington, MN</td>
 <td><div align="center"><a href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Global-Trade---Data-Analysis-Intern---The-Toro-Company_JR14489?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bfb50dfc-e802-46d3-90c7-aacca72db54e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Playfly-Sports?utm_source=GHList&utm_medium=company">Playfly Sports</a></strong></td>
@@ -21765,7 +21765,7 @@
 <td>Intern - AI/ML Scientist</td>
 <td>Washington, DC</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RR-Donnelley?utm_source=GHList&utm_medium=company">RR Donnelley</a></strong></td>
@@ -21821,7 +21821,7 @@
 <td>Data Science Intern – Graduate - Summer 2026</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hologic?utm_source=GHList&utm_medium=company">Hologic</a></strong></td>
@@ -22325,7 +22325,7 @@
 <td>Intern - Power BI Developer</td>
 <td>Hartford, CT</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gusto?utm_source=GHList&utm_medium=company">Gusto</a></strong></td>
@@ -33374,7 +33374,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Computational Diffractive Optics - PhD 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
@@ -37097,7 +37097,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/acadian-asset-management?utm_source=GHList&utm_medium=company">Acadian Asset Management</a></strong></td>
+<td>↳</td>
 <td>Quantitative Developer Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
@@ -39543,7 +39543,7 @@
 <td>Intern – Equipment Development and Engineering - Summer 2026</td>
 <td>Newark, CA</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Formlabs?utm_source=GHList&utm_medium=company">Formlabs</a></strong></td>
@@ -42563,7 +42563,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Palm Bay, FL</td>
 <td>🔒</td>
