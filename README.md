@@ -12036,7 +12036,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Internship</td>
 <td>Pittsburgh, PA</td>
 <td>🔒</td>
@@ -12308,6 +12308,13 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/PIMCO?utm_source=GHList&utm_medium=company">PIMCO</a></strong></td>
+<td>Intern - Technology Analyst - Software Engineering</td>
+<td>Newport Beach, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12334,13 +12341,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/PIMCO?utm_source=GHList&utm_medium=company">PIMCO</a></strong></td>
-<td>Intern - Technology Analyst - Software Engineering</td>
-<td>Newport Beach, CA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wavetronix?utm_source=GHList&utm_medium=company">Wavetronix</a></strong></td>
 <td>Computer Science Internship</td>
@@ -18954,7 +18954,7 @@
 <td>AI/ML Engineer Intern - Generative AI</td>
 <td>Mountain View, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000095221125?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/31b5a900-9531-4d1b-b336-9e5e30b1b927?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Direct-Supply?utm_source=GHList&utm_medium=company">Direct Supply</a></strong></td>
@@ -29370,14 +29370,14 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>AIS R&D Systems Engineer Intern - EE - Interns/Graduates - Development</td>
 <td>Roseville, MN</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
+<td>↳</td>
 <td>AIS R&D Systems Engineer Intern - Mechatronics - Interns/Graduates - Development</td>
 <td>Roseville, MN</td>
 <td>🔒</td>
@@ -39550,7 +39550,7 @@
 <td>Cyber Software Engineer Intern</td>
 <td>Annapolis Junction, MD</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lucid-Motors?utm_source=GHList&utm_medium=company">Lucid Motors</a></strong></td>
