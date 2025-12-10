@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1149 Internship Roles by Category
+### Browse 1150 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (301)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (302)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (105)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Viasat</strong></td>
+<td>Software Engineer Intern - Product Development 🛂</td>
+<td>Carlsbad, CA</td>
+<td><div align="center"><a href="https://careers.viasat.com/jobs/5417?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Westinghouse</strong></td>
 <td>Software Engineering Intern 🛂</td>
@@ -12322,20 +12329,6 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
-<td>2026 Summer Intern - Software Engineering</td>
-<td>Redmond, WA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Intern - Software Engineering</td>
-<td>San Jose, CA</br>San Diego, CA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12362,6 +12355,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
+<td>2026 Summer Intern - Software Engineering</td>
+<td>Redmond, WA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>2026 Summer Intern - Software Engineering</td>
+<td>San Jose, CA</br>San Diego, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Edison-International?utm_source=GHList&utm_medium=company">Edison International</a></strong></td>
 <td>Intern - All Engineering</td>
