@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1240 Internship Roles by Category
+### Browse 1241 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (325)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (91)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (642)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (643)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (27)
 
@@ -19404,6 +19404,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard</strong></td>
+<td>AI, Human-Computer Interaction & Future PC Experience Research</td>
+<td>Spring, TX</td>
+<td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME---Summer-Intern---AI--Human-Computer-Interaction---Future-PC-Experience-Research_UNI3539-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>Computational Sciences Center of Excellence - AI-Agentic Bioinformatics Tools for Clinical Biomarker Omics Workflows 🎓 🛂</td>
