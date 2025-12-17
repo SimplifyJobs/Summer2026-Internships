@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 715 Internship Roles by Category
+### Browse 714 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (201)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (52)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (281)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (280)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (17)
 
@@ -11022,14 +11022,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>12d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Massachusetts-School-Building-Authority?utm_source=GHList&utm_medium=company">Massachusetts School Building Authority</a></strong></td>
-<td>Capital Planning Data Assistant – Co-op</td>
-<td>Boston, MA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://jobs.lever.co/massschoolbuildings/fa4bf5f0-2914-4a16-9fe9-89a0958e5fc2/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/add44d05-5842-439c-807e-1f20a4bafd79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Mercedes-Benz?utm_source=GHList&utm_medium=company">Mercedes-Benz</a></strong></td>
 <td>OBD Certification Intern</td>
 <td>Southfield, MI</td>
@@ -11493,6 +11485,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/RedBull/744000095044055?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1d1ac864-cac4-4703-8198-4651618383e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>23d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ASM-Global?utm_source=GHList&utm_medium=company">ASM Global</a></strong></td>
+<td>Business Analytics Intern</td>
+<td>Winston-Salem, NC</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/Wake-Forest-University---Winston-Salem-NC/Business-Analytics-Intern_R100112313?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/edefacf9-57ce-4750-adc0-76eca4534416?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>24d</td>
+</tr>
 </tbody>
 </table>
 
@@ -11519,14 +11519,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ASM-Global?utm_source=GHList&utm_medium=company">ASM Global</a></strong></td>
-<td>Business Analytics Intern</td>
-<td>Winston-Salem, NC</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/Wake-Forest-University---Winston-Salem-NC/Business-Analytics-Intern_R100112313?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/edefacf9-57ce-4750-adc0-76eca4534416?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CVS-Health?utm_source=GHList&utm_medium=company">CVS Health</a></strong></td>
 <td>Innotech AI Critical Skills Intern – Graduate</td>
@@ -12660,7 +12652,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1089)</summary>
+<summary>🗃️ Inactive roles (1090)</summary>
 
 <table>
 <thead>
@@ -12845,6 +12837,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed?utm_source=GHList&utm_medium=company">Brown Brothers Harriman</a></strong></td>
 <td>Transformation Management Intern</td>
+<td>Boston, MA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Massachusetts-School-Building-Authority?utm_source=GHList&utm_medium=company">Massachusetts School Building Authority</a></strong></td>
+<td>Capital Planning Data Assistant – Co-op</td>
 <td>Boston, MA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
