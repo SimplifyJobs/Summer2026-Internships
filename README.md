@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1257 Internship Roles by Category
+### Browse 1258 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (327)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (328)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (96)
 
@@ -89,6 +89,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company">Dexcom</a></strong></td>
+<td>Intern I - Software Test Development Engineering</td>
+<td>San Diego, CA</td>
+<td><div align="center"><a href="https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/San-Diego-California/Intern-I---Software-Test-Development-Engineering_JR115297?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Cadence</strong></td>
 <td>Software R&D Intern 🎓</td>
@@ -11965,20 +11972,6 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Tanium?utm_source=GHList&utm_medium=company">Tanium</a></strong></td>
-<td>Software Engineering Intern</td>
-<td>Oakland, CA</br>Durham, NC</br>Addison, TX</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Gulfstream?utm_source=GHList&utm_medium=company">Gulfstream</a></strong></td>
-<td>Software Engineering College Intern - Ief</td>
-<td>Savannah, GA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12005,6 +11998,20 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tanium?utm_source=GHList&utm_medium=company">Tanium</a></strong></td>
+<td>Software Engineering Intern</td>
+<td>Oakland, CA</br>Durham, NC</br>Addison, TX</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Gulfstream?utm_source=GHList&utm_medium=company">Gulfstream</a></strong></td>
+<td>Software Engineering College Intern - Ief</td>
+<td>Savannah, GA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/United-Launch-Alliance?utm_source=GHList&utm_medium=company">United Launch Alliance</a></strong></td>
 <td>Cyber Security Internship</td>
@@ -27354,7 +27361,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
+<td>↳</td>
 <td>2026 U.S. Summer Internship Program: Quantitative Clinical Pharmacology – AI/RAG Intern - Qcp</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
@@ -43301,14 +43308,14 @@
 <td>11d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Research Intern - FPGA-Based Compute & Memory Modeling</td>
 <td>Redmond, WA</td>
 <td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556636985?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eda00b99-4f40-4d57-8240-371c8cd9ef96?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
+<td>↳</td>
 <td>Research Intern - CXL Memory</td>
 <td>Mountain View, CA</td>
 <td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556628826?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/741bc9af-4673-47f8-98b6-1477425ac22e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
