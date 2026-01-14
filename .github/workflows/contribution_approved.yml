@@ -13,24 +13,27 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.9"
+          python-version: "3.12"
 
-      - name: execute contribution_approved.py
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Process contribution
         id: python_script
         env:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
-        run: python .github/scripts/contribution_approved.py $GITHUB_EVENT_PATH
+        run: uv run main.py contribution process $GITHUB_EVENT_PATH
 
-      - name: execute update_readmes.py
+      - name: Update READMEs
         id: python_script_readme
-        run: python .github/scripts/update_readmes.py
+        run: uv run main.py readme update
 
-      - name: commit files
+      - name: Commit files
         if: success()
         run: |
           git config --local user.email ${{ steps.python_script.outputs.commit_email }}
@@ -40,7 +43,7 @@ jobs:
           git add README-Off-Season.md
           git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
 
-      - name: push changes
+      - name: Push changes
         if: success()
         uses: ad-m/github-push-action@v0.6.0
         with:

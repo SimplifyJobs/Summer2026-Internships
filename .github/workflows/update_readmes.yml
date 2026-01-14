@@ -6,10 +6,9 @@ on:
       - '.github/scripts/listings.json'
   workflow_dispatch:
 
-concurrency: 
+concurrency:
   group: listings_update
   cancel-in-progress: true
-
 
 jobs:
   run-python-script:
@@ -17,16 +16,19 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.9"
+          python-version: "3.12"
 
-      - name: execute update_readmes.py
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Update READMEs
         id: python_script
-        run: python .github/scripts/update_readmes.py
+        run: uv run main.py readme update
 
       - name: Set commit message (with fallback)
         id: final_commit_message
@@ -37,7 +39,7 @@ jobs:
           fi
           echo "message=$msg" >> "$GITHUB_OUTPUT"
 
-      - name: commit files
+      - name: Commit files
         if: success()
         run: |
           git config --local user.email action@github.com
@@ -46,7 +48,7 @@ jobs:
           git diff-index --quiet HEAD || \
             git commit -a -m "${{ steps.final_commit_message.outputs.message }}" --allow-empty
 
-      - name: push changes
+      - name: Push changes
         if: success()
         uses: ad-m/github-push-action@v0.6.0
         with:
