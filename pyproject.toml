@@ -5,7 +5,14 @@ requires-python = ">=3.12"
 dependencies = ["typer>=0.21.1"]
 
 [dependency-groups]
-dev = ["ruff", "mypy"]
+dev = ["ruff>=0.14.11", "mypy>=1.19.1", "taskipy>=1.14.1"]
+
+[tool.taskipy.tasks]
+lint = "ruff check main.py list_updater/"
+format = "ruff format main.py list_updater/"
+format-check = "ruff format --check main.py list_updater/"
+typecheck = "mypy main.py list_updater/"
+check = "task lint && task format-check && task typecheck"
 
 [tool.ruff]
 line-length = 120

@@ -16,7 +16,7 @@ from list_updater.listings import (
     get_listings_from_json,
     sort_listings,
 )
-from list_updater.readme import embed_table
+from list_updater.readme_generator import embed_table
 
 # Constants for contribution processing
 NO_ANSWER: set[str] = {"", "no response", "_no response_", "none", "n/a", "na", "-"}

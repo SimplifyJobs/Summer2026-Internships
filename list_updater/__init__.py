@@ -46,7 +46,7 @@ from list_updater.listings import (
     mark_stale_listings,
     sort_listings,
 )
-from list_updater.readme import check_and_insert_warning, embed_table
+from list_updater.readme_generator import check_and_insert_warning, embed_table
 
 __all__ = [
     # Commands
