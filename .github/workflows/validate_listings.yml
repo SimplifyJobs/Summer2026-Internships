@@ -1,0 +1,36 @@
+name: Validate Internship Listings
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # Runs daily at 2 AM UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  validate-listings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4 selenium
+      
+      - name: Prepare Selenium
+        uses: nanasess/setup-chromedriver@v1.0.5
+
+      - name: Run Listing Validation
+        run: python .github/scripts/validate_listings.py
+
+      - name: Commit Changes if Listings Were Updated
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions@github.com"
+          git add .github/scripts/listings.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Marked closed internships as inactive"
+          git push
