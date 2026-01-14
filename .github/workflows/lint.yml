@@ -29,10 +29,10 @@ jobs:
         uses: astral-sh/setup-uv@v5
 
       - name: Run ruff check
-        run: uv run ruff check main.py list_updater/** pyproject.toml
+        run: uv run ruff check main.py list_updater/**
 
       - name: Run ruff format check
-        run: uv run ruff format --check main.py list_updater/** pyproject.toml
+        run: uv run ruff format --check main.py list_updater/**
 
       - name: Run mypy
-        run: uv run mypy main.py list_updater/** pyproject.toml
+        run: uv run mypy main.py list_updater

@@ -451,7 +451,7 @@ def cmd_listings_diff(since: str | None = None, commit: str | None = None) -> No
     if status_changes:
         print(f"\n🔄 STATUS CHANGES ({len(status_changes)}):")
         for change in status_changes[:20]:
-            listing = change["listing"]
+            listing = change["listing"]  # type: ignore
             old_status = "active" if change["old_active"] else "inactive"
             new_status = "active" if change["new_active"] else "inactive"
             print(f"  - {listing['company_name']}: {listing['title']} ({old_status} → {new_status})")

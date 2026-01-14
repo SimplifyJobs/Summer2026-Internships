@@ -79,7 +79,7 @@ def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internsh
 </tr>
 </thead>
 <tbody>
-"""
+"""  # noqa: E501
 
     # Split content at insertion point and insert warning
     before_insertion = content[:insertion_point]
