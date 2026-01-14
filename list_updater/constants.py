@@ -19,8 +19,8 @@ SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 2
 
 # GitHub README file size limit (500 KiB = 512,000 bytes)
 GITHUB_FILE_SIZE_LIMIT = 512000
-# Smaller buffer to show warning closer to actual cutoff (5 KiB buffer)
-SIZE_BUFFER = 5120
+# Smaller buffer to show warning closer to actual cutoff (2.5 KiB buffer)
+SIZE_BUFFER = 2560
 
 # Set of Simplify company URLs to block from appearing in the README
 BLOCKED_COMPANIES: set[str] = {

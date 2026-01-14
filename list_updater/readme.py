@@ -24,8 +24,9 @@ def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internsh
     if content_size <= (GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER):
         return content
 
-    # Find insertion point well before the GitHub cutoff to warn users early
-    target_size = GITHUB_FILE_SIZE_LIMIT - (2 * SIZE_BUFFER)
+    # Find insertion point right at the GitHub cutoff (with minimal buffer for the warning itself)
+    # Use a smaller buffer so the warning appears right at the cutoff, not before it
+    target_size = GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER
 
     # Convert to bytes for accurate measurement
     content_bytes = content.encode("utf-8")
