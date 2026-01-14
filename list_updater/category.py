@@ -1,11 +1,33 @@
 """Job category classification and management functions."""
 
+import re
 from typing import Any
 
 from list_updater.constants import CATEGORIES
 from list_updater.formatter import create_md_table
 
 type Listing = dict[str, Any]
+
+# Short keywords that need word boundary matching to avoid false positives
+# (e.g., "ai" should not match "maintenance", "ml" should not match "html")
+WORD_BOUNDARY_KEYWORDS = frozenset({"ai", "ml", "rf", "qa", "sre", "swe", "sde", "api"})
+
+
+def _matches_keyword(title: str, keyword: str) -> bool:
+    """Check if a keyword matches in the title.
+
+    Uses word boundary matching for short keywords to avoid false positives.
+
+    Args:
+        title: The lowercased job title.
+        keyword: The keyword to search for.
+
+    Returns:
+        True if the keyword matches in the title.
+    """
+    if keyword in WORD_BOUNDARY_KEYWORDS:
+        return bool(re.search(rf"\b{re.escape(keyword)}\b", title))
+    return keyword in title
 
 
 def classify_job_category(job: Listing) -> str | None:
@@ -21,7 +43,7 @@ def classify_job_category(job: Listing) -> str | None:
 
     # Filter out IT technical support roles that aren't really tech internships
     if any(
-        term in title
+        _matches_keyword(title, term)
         for term in [
             "it technical intern",
             "it technician",
@@ -40,7 +62,7 @@ def classify_job_category(job: Listing) -> str | None:
 
     # Hardware (first priority) - expanded keywords
     if any(
-        term in title
+        _matches_keyword(title, term)
         for term in [
             "hardware",
             "embedded",
@@ -71,7 +93,7 @@ def classify_job_category(job: Listing) -> str | None:
 
     # Quant (second priority) - expanded keywords
     if any(
-        term in title
+        _matches_keyword(title, term)
         for term in [
             "quant",
             "quantitative",
@@ -94,7 +116,7 @@ def classify_job_category(job: Listing) -> str | None:
 
     # Data Science (third priority) - expanded keywords
     if any(
-        term in title
+        _matches_keyword(title, term)
         for term in [
             "data science",
             "artificial intelligence",
@@ -130,7 +152,7 @@ def classify_job_category(job: Listing) -> str | None:
 
     # Product (fourth priority) - check before Software to catch "Software Product Management" roles
     if any(
-        term in title
+        _matches_keyword(title, term)
         for term in [
             "product manag",
             "product analyst",
@@ -149,7 +171,7 @@ def classify_job_category(job: Listing) -> str | None:
 
     # Software Engineering (fifth priority) - greatly expanded keywords
     if any(
-        term in title
+        _matches_keyword(title, term)
         for term in [
             "software",
             "engineer",

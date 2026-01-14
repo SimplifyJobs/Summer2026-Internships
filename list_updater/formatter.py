@@ -18,7 +18,7 @@ def get_locations(listing: Listing) -> str:
     Returns:
         HTML-formatted location string.
     """
-    locations = "</br>".join(listing["locations"])
+    locations = "<br>".join(listing["locations"])
     if len(listing["locations"]) <= 3:
         return locations
     num = str(len(listing["locations"])) + " locations"

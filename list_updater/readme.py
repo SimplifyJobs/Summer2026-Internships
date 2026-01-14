@@ -47,7 +47,7 @@ def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internsh
         insertion_point = len(insertion_content)
 
     # Create the warning notice with anchor link
-    full_list_url = "https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-see-full-list"
+    full_list_url = f"https://github.com/SimplifyJobs/{repo_name}/blob/dev/README.md#-see-full-list"
     simplify_jobs_url = (
         "https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering"
         "%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security"
