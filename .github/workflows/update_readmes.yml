@@ -2,6 +2,8 @@ name: Update READMEs
 
 on:
   push:
+    branches:
+      - dev
     paths:
       - '.github/scripts/listings.json'
   workflow_dispatch:
