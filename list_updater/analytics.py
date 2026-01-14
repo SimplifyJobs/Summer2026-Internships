@@ -2,6 +2,7 @@
 
 import json
 import subprocess
+import sys
 from collections import Counter
 from datetime import datetime
 from typing import Any
@@ -246,6 +247,7 @@ def cmd_listings_validate(fix: bool = False) -> None:
 
     if issues:
         print("\nRun 'listings fix' to interactively fix issues.")
+        sys.exit(1)
 
 
 # =============================================================================
