@@ -307,7 +307,7 @@ def create_category_table(
         return ""
 
     emoji = next((cat["emoji"] for cat in CATEGORIES.values() if cat["name"] == category_name), "")
-    
+
     # Different header for inactive-only page
     if inactive_only:
         header = f"\n\n## {emoji} {category_name} Internship Roles (Inactive)\n\n"
@@ -348,7 +348,7 @@ def create_category_table(
     )
 
     result = header
-    
+
     if inactive_only:
         # Only show inactive listings (for separate inactive README)
         if inactive:

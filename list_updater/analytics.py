@@ -80,8 +80,8 @@ def cmd_listings_stats(json_output: bool = False) -> None:
     print("LISTING STATISTICS")
     print("=" * 60)
     print(f"\nTotal Listings: {total}")
-    print(f"  Active: {active} ({active/total*100:.1f}%)")
-    print(f"  Inactive: {inactive} ({inactive/total*100:.1f}%)")
+    print(f"  Active: {active} ({active / total * 100:.1f}%)")
+    print(f"  Inactive: {inactive} ({inactive / total * 100:.1f}%)")
     print(f"  Visible: {visible}")
     print(f"  Hidden: {hidden}")
 
@@ -517,48 +517,58 @@ def _scan_issues(listings: list[Listing]) -> list[dict[str, Any]]:
     # Check for duplicate URLs
     for url, dupes in url_to_listings.items():
         if len(dupes) > 1:
-            issues.append({
-                "type": "duplicate_url",
-                "url": url,
-                "listings": dupes,
-            })
+            issues.append(
+                {
+                    "type": "duplicate_url",
+                    "url": url,
+                    "listings": dupes,
+                }
+            )
 
     # Check for duplicate IDs
     for listing_id, dupes in id_to_listings.items():
         if len(dupes) > 1:
             # Skip if already covered by duplicate URL
             if not any(i["type"] == "duplicate_url" and dupes[0] in i["listings"] for i in issues):
-                issues.append({
-                    "type": "duplicate_id",
-                    "id": listing_id,
-                    "listings": dupes,
-                })
+                issues.append(
+                    {
+                        "type": "duplicate_id",
+                        "id": listing_id,
+                        "listings": dupes,
+                    }
+                )
 
     # Check individual listings
     for listing in listings:
         # Empty title
         if not listing.get("title", "").strip():
-            issues.append({
-                "type": "empty_title",
-                "listing": listing,
-            })
+            issues.append(
+                {
+                    "type": "empty_title",
+                    "listing": listing,
+                }
+            )
 
         # Missing/None category
         category = listing.get("category")
         if category is None or category == "None" or (category and category not in valid_categories):
-            issues.append({
-                "type": "invalid_category",
-                "listing": listing,
-                "category": category,
-            })
+            issues.append(
+                {
+                    "type": "invalid_category",
+                    "listing": listing,
+                    "category": category,
+                }
+            )
 
         # Blocked company
         company_url = listing.get("company_url", "").lower()
         if any(blocked_url in company_url for blocked_url in blocked_urls_lower):
-            issues.append({
-                "type": "blocked_company",
-                "listing": listing,
-            })
+            issues.append(
+                {
+                    "type": "blocked_company",
+                    "listing": listing,
+                }
+            )
 
     return issues
 
@@ -628,7 +638,7 @@ def cmd_listings_fix(dry_run: bool = False, issue_type: str | None = None, auto:
                 if suggested_title:
                     if not dry_run:
                         listing["title"] = suggested_title
-                    print(f"→ Auto: Set title to \"{suggested_title}\"")
+                    print(f'→ Auto: Set title to "{suggested_title}"')
                     fixed_count += 1
                 else:
                     # No category to generate from, hide instead
@@ -648,14 +658,14 @@ def cmd_listings_fix(dry_run: bool = False, issue_type: str | None = None, auto:
             if choice == "a" and suggested_title:
                 if not dry_run:
                     listing["title"] = suggested_title
-                print(f"→ Fixed: Set title to \"{suggested_title}\"")
+                print(f'→ Fixed: Set title to "{suggested_title}"')
                 fixed_count += 1
             elif choice == "f":
                 new_title = input("Enter title: ").strip()
                 if new_title:
                     if not dry_run:
                         listing["title"] = new_title
-                    print(f"→ Fixed: Set title to \"{new_title}\"")
+                    print(f'→ Fixed: Set title to "{new_title}"')
                     fixed_count += 1
                 else:
                     print("→ Skipped (empty input)")
@@ -695,7 +705,7 @@ def cmd_listings_fix(dry_run: bool = False, issue_type: str | None = None, auto:
                 selected_cat = suggested if suggested else "Other"
                 if not dry_run:
                     listing["category"] = selected_cat
-                print(f"→ Auto: Set category to \"{selected_cat}\"")
+                print(f'→ Auto: Set category to "{selected_cat}"')
                 fixed_count += 1
                 continue
 
@@ -732,7 +742,7 @@ def cmd_listings_fix(dry_run: bool = False, issue_type: str | None = None, auto:
                 selected_cat = category_options[int(choice) - 1]
                 if not dry_run:
                     listing["category"] = selected_cat
-                print(f"→ Fixed: Set category to \"{selected_cat}\"")
+                print(f'→ Fixed: Set category to "{selected_cat}"')
                 fixed_count += 1
             elif choice == "q":
                 print("\nQuitting...")

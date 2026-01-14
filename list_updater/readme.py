@@ -122,15 +122,17 @@ def embed_table(
     for category_info in CATEGORIES.values():
         cat_name = category_info["name"]
         if inactive_only:
-            count = len([
-                listing for listing in listings
-                if listing["category"] == cat_name and not listing.get("active", False)
-            ])
+            count = len(
+                [
+                    listing
+                    for listing in listings
+                    if listing["category"] == cat_name and not listing.get("active", False)
+                ]
+            )
         else:
-            count = len([
-                listing for listing in listings
-                if listing["category"] == cat_name and listing.get("active", False)
-            ])
+            count = len(
+                [listing for listing in listings if listing["category"] == cat_name and listing.get("active", False)]
+            )
         category_counts[cat_name] = count
 
     # Build the category summary for the Browse section
@@ -144,9 +146,7 @@ def embed_table(
         readme_filename = "README-Off-Season.md"
     else:
         readme_filename = "README.md"
-    github_readme_base = (
-        f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/{readme_filename}"
-    )
+    github_readme_base = f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/{readme_filename}"
 
     for category_key in category_order:
         if category_key in CATEGORIES:
