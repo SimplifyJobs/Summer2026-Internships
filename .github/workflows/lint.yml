@@ -1,0 +1,38 @@
+name: Lint
+
+on:
+  push:
+    paths:
+      - 'main.py'
+      - 'list_updater/**'
+      - 'pyproject.toml'
+  pull_request:
+    paths:
+      - 'main.py'
+      - 'list_updater/**'
+      - 'pyproject.toml'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Run ruff check
+        run: uv run ruff check main.py list_updater/**
+
+      - name: Run ruff format check
+        run: uv run ruff format --check main.py list_updater/**
+
+      - name: Run mypy
+        run: uv run mypy main.py list_updater

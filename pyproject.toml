@@ -1,0 +1,23 @@
+[project]
+name = "list-updater"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = ["typer>=0.21.1"]
+
+[dependency-groups]
+dev = ["ruff", "mypy"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_ignores = true
