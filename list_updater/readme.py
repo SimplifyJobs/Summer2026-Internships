@@ -62,7 +62,7 @@ def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internsh
 <div align="center" id="github-cutoff-warning">
   <h2>🔗 See Full List</h2>
   <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
-  <p>📋 <strong><a href="{full_list_url}">Click here to view the complete list!</a></strong> 📋</p>
+  <p>📋 <strong><a href="{full_list_url}">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
   <p><em>To find even more internships in tech, check out <a href="{simplify_jobs_url}">Simplify's website</a>.</em></p>
 </div>
 
@@ -88,35 +88,65 @@ def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internsh
     return before_insertion + warning_notice + after_insertion
 
 
-def embed_table(listings: list[Listing], filepath: str, off_season: bool = False) -> None:
+def embed_table(
+    listings: list[Listing],
+    filepath: str,
+    off_season: bool = False,
+    active_only: bool = False,
+    inactive_only: bool = False,
+) -> None:
     """Embed the listings table into a README file.
 
     Args:
         listings: List of listing dictionaries.
         filepath: Path to the README file to modify.
         off_season: Whether this is for off-season listings.
+        active_only: If True, only include active listings (no inactive sections).
+        inactive_only: If True, only include inactive listings.
     """
     # Ensure all listings have a category
     listings = ensure_categories(listings)
     listings = mark_stale_listings(listings)
 
-    # Filter only active listings
-    active_listings = filter_active(listings)
-    total_active = len(active_listings)
+    # Filter listings based on active/inactive mode
+    if inactive_only:
+        filtered_listings = [listing for listing in listings if not listing.get("active", False)]
+        total_count = len(filtered_listings)
+    else:
+        # For active_only or default, count active listings
+        active_listings = filter_active(listings)
+        total_count = len(active_listings)
 
     # Count listings by category
     category_counts: dict[str, int] = {}
     for category_info in CATEGORIES.values():
-        count = len([listing for listing in active_listings if listing["category"] == category_info["name"]])
-        category_counts[category_info["name"]] = count
+        cat_name = category_info["name"]
+        if inactive_only:
+            count = len([
+                listing for listing in listings
+                if listing["category"] == cat_name and not listing.get("active", False)
+            ])
+        else:
+            count = len([
+                listing for listing in listings
+                if listing["category"] == cat_name and listing.get("active", False)
+            ])
+        category_counts[cat_name] = count
 
     # Build the category summary for the Browse section
     category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware"]
     category_links = []
 
     # Use the appropriate README file based on whether this is off-season or not
-    readme_filename = "README-Off-Season.md" if off_season else "README.md"
-    github_readme_base = f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/{readme_filename}"
+    if inactive_only:
+        readme_filename = "README-Inactive.md"
+    elif off_season:
+        readme_filename = "README-Off-Season.md"
+    else:
+        readme_filename = "README.md"
+    github_readme_base = (
+        f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/{readme_filename}"
+    )
 
     for category_key in category_order:
         if category_key in CATEGORIES:
@@ -125,7 +155,11 @@ def embed_table(listings: list[Listing], filepath: str, off_season: bool = False
             emoji = category_info["emoji"]
             count = category_counts[name]
             anchor = name.lower().replace(" ", "-").replace(",", "").replace("&", "")
-            category_links.append(f"{emoji} **[{name}]({github_readme_base}#-{anchor}-internship-roles)** ({count})")
+            if inactive_only:
+                link = f"{github_readme_base}#-{anchor}-internship-roles-inactive"
+            else:
+                link = f"{github_readme_base}#-{anchor}-internship-roles"
+            category_links.append(f"{emoji} **[{name}]({link})** ({count})")
 
     category_counts_str = "\n\n".join(category_links)
 
@@ -138,7 +172,11 @@ def embed_table(listings: list[Listing], filepath: str, off_season: bool = False
         for line in f.readlines():
             if not browse_section_replaced and line.startswith("### Browse"):
                 in_browse_section = True
-                new_text += f"### Browse {total_active} Internship Roles by Category\n\n{category_counts_str}\n\n---\n"
+                if inactive_only:
+                    header = f"### Browse {total_count} Inactive Internship Roles by Category"
+                else:
+                    header = f"### Browse {total_count} Internship Roles by Category"
+                new_text += f"{header}\n\n{category_counts_str}\n\n---\n"
                 browse_section_replaced = True
                 continue
 
@@ -156,7 +194,13 @@ def embed_table(listings: list[Listing], filepath: str, off_season: bool = False
                 for category_key in category_order:
                     if category_key in CATEGORIES:
                         category_info = CATEGORIES[category_key]
-                        table = create_category_table(listings, category_info["name"], off_season)
+                        table = create_category_table(
+                            listings,
+                            category_info["name"],
+                            off_season,
+                            active_only=active_only,
+                            inactive_only=inactive_only,
+                        )
                         if table:
                             new_text += table
                 continue
@@ -170,8 +214,11 @@ def embed_table(listings: list[Listing], filepath: str, off_season: bool = False
             if not in_browse_section and not in_table_section:
                 new_text += line
 
-    # Check content size and insert warning if necessary
-    final_content = check_and_insert_warning(new_text)
+    # Check content size and insert warning if necessary (only for main README, not inactive)
+    if not inactive_only:
+        final_content = check_and_insert_warning(new_text)
+    else:
+        final_content = new_text
 
     with open(filepath, "w") as f:
         f.write(final_content)

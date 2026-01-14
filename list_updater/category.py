@@ -283,13 +283,21 @@ def ensure_categories(listings: list[Listing], verbose: bool = False) -> list[Li
     return categorized_listings
 
 
-def create_category_table(listings: list[Listing], category_name: str, off_season: bool = False) -> str:
+def create_category_table(
+    listings: list[Listing],
+    category_name: str,
+    off_season: bool = False,
+    active_only: bool = False,
+    inactive_only: bool = False,
+) -> str:
     """Create a table section for a specific category.
 
     Args:
         listings: List of listing dictionaries.
         category_name: The category name to filter by.
         off_season: Whether this is for off-season listings.
+        active_only: If True, only include active listings (no inactive section).
+        inactive_only: If True, only include inactive listings.
 
     Returns:
         HTML/markdown string for the category section.
@@ -299,11 +307,17 @@ def create_category_table(listings: list[Listing], category_name: str, off_seaso
         return ""
 
     emoji = next((cat["emoji"] for cat in CATEGORIES.values() if cat["name"] == category_name), "")
-    header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
-    header += "[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)\n\n"
+    
+    # Different header for inactive-only page
+    if inactive_only:
+        header = f"\n\n## {emoji} {category_name} Internship Roles (Inactive)\n\n"
+        header += "[Back to top](#summer-2026-tech-internships-inactive-listings)\n\n"
+    else:
+        header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
+        header += "[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)\n\n"
 
-    # Optional callout under Data Science section
-    if category_name == "Data Science, AI & Machine Learning":
+    # Optional callout under Data Science section (only for active listings)
+    if not inactive_only and category_name == "Data Science, AI & Machine Learning":
         resume_url = "https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing"
         header += (
             f"> 📄 Here's the [resume template]({resume_url}) "
@@ -313,7 +327,7 @@ def create_category_table(listings: list[Listing], category_name: str, off_seaso
             "Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
         )
 
-    if category_name == "Product Management":
+    if not inactive_only and category_name == "Product Management":
         tracker_url = "https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot"
         header += (
             "> 📅 Curious when Big Tech product internships typically open? Simplify put together an "
@@ -334,15 +348,30 @@ def create_category_table(listings: list[Listing], category_name: str, off_seaso
     )
 
     result = header
-    if active:
-        result += create_md_table(active, off_season) + "\n\n"
+    
+    if inactive_only:
+        # Only show inactive listings (for separate inactive README)
+        if inactive:
+            result += create_md_table(inactive, off_season) + "\n\n"
+        else:
+            return ""  # No inactive listings in this category
+    elif active_only:
+        # Only show active listings (no collapsed inactive section)
+        if active:
+            result += create_md_table(active, off_season) + "\n\n"
+        else:
+            return ""  # No active listings in this category
+    else:
+        # Original behavior: active + collapsed inactive
+        if active:
+            result += create_md_table(active, off_season) + "\n\n"
 
-    if inactive:
-        result += (
-            "<details>\n"
-            f"<summary>🗃️ Inactive roles ({len(inactive)})</summary>\n\n"
-            + create_md_table(inactive, off_season)
-            + "\n\n</details>\n\n"
-        )
+        if inactive:
+            result += (
+                "<details>\n"
+                f"<summary>🗃️ Inactive roles ({len(inactive)})</summary>\n\n"
+                + create_md_table(inactive, off_season)
+                + "\n\n</details>\n\n"
+            )
 
     return result

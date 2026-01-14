@@ -39,7 +39,12 @@ def cmd_readme_update() -> None:
     sort_listings(listings)
 
     summer_2026_listings = filter_summer(listings, "2026", earliest_date=1748761200)
-    embed_table(summer_2026_listings, "README.md")
+    
+    # Generate main README with active listings only
+    embed_table(summer_2026_listings, "README.md", active_only=True)
+    
+    # Generate separate README for inactive listings (same header/ads structure)
+    embed_table(summer_2026_listings, "README-Inactive.md", inactive_only=True)
 
     offseason_listings = filter_off_season(listings)
     embed_table(offseason_listings, "README-Off-Season.md", off_season=True)
