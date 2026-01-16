@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 6610 Inactive Internship Roles by Category
+### Browse 6615 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2310)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2312)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (433)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (2715)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (2718)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (319)
 
@@ -93,6 +93,13 @@
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>1d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>Quantum Computing Software Intern 🎓</td>
+<td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rocket-Mortgage?utm_source=GHList&utm_medium=company">Rocket Mortgage</a></strong></td>
@@ -312,6 +319,13 @@
 <td>9d</td>
 </tr>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
+<td>Software Development Engineer Intern</td>
+<td><details><summary><strong>9 locations</strong></summary>Boston, MA<br>Seattle, WA<br>SF<br>Santa Clara, CA<br>Arlington, VA<br>NYC<br>Bellevue, WA<br>Denver, CO<br>Sunnyvale, CA</details></td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Intapp?utm_source=GHList&utm_medium=company">Intapp</a></strong></td>
 <td>Associate Software Engineer Intern</td>
 <td>Charlotte, NC</td>
@@ -470,7 +484,7 @@
 <td>2026 Summer Internship Program - Platforms & Technology - Software Engineer</td>
 <td>Mt Laurel Township, NJ</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Western-Union?utm_source=GHList&utm_medium=company">Western Union</a></strong></td>
@@ -6578,14 +6592,14 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Full Stack Software Engineer Intern - Multiple Teams</td>
+<td>Native Mobile Software Engineer Intern</td>
 <td>SF</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Native Mobile Software Engineer Intern</td>
+<td>Full Stack Software Engineer Intern - Multiple Teams</td>
 <td>SF</td>
 <td>🔒</td>
 <td>3mo</td>
@@ -15243,7 +15257,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -15264,7 +15278,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Backend Software Engineer Intern - Tiktok-Social-User and Relation - 2026 Summer - BS/MS</td>
 <td>Los Angeles, CA</td>
 <td>🔒</td>
@@ -19331,6 +19345,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Intapp?utm_source=GHList&utm_medium=company">Intapp</a></strong></td>
+<td>Data AI Intern</td>
+<td>Palo Alto, CA</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Crane-Co?utm_source=GHList&utm_medium=company">Crane Co.</a></strong></td>
 <td>IT Data Science Intern</td>
 <td>Lynnwood, WA</td>
@@ -21719,6 +21740,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/allenai?utm_source=GHList&utm_medium=company">The Allen Institute for AI</a></strong></td>
+<td>Research Intern - Prior</td>
+<td>Seattle, WA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Research Intern - Climate Modeling</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -21945,6 +21973,13 @@
 <td><strong><a href="https://simplify.jobs/c/Charter-Manufacturing?utm_source=GHList&utm_medium=company">Charter Manufacturing</a></strong></td>
 <td>Business Intelligence & Analytics Intern</td>
 <td>Milwaukee, WI</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Analytics Engineer Intern - Year Round</td>
+<td>Mequon, WI</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -29187,7 +29222,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>AI Research Scientist Intern - 3D Computer Vision and Graphics - Media</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
@@ -37881,7 +37916,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
