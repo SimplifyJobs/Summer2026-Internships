@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 6697 Inactive Internship Roles by Category
+### Browse 6699 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2343)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (436)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (2758)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (2760)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (322)
 
@@ -7109,7 +7109,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Verizon-Communications?utm_source=GHList&utm_medium=company">Verizon Communications</a></strong></td>
+<td>↳</td>
 <td>Global Technology Solutions Intern - Multiple Teams</td>
 <td>Alpharetta, GA</td>
 <td>🔒</td>
@@ -7599,7 +7599,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Invesco?utm_source=GHList&utm_medium=company">Invesco</a></strong></td>
 <td>Internship - Technology</td>
 <td>Houston, TX</td>
 <td>🔒</td>
@@ -15537,14 +15537,14 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Software Engineer Intern - Recommendation Infrastructure</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>5mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Monetization Technology - Ads Creative</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -19247,14 +19247,14 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
 <td>Product Development Co-op - Ninja</td>
 <td>Needham, MA</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
+<td>↳</td>
 <td>Product Development Co-op - Shark</td>
 <td>Needham, MA</td>
 <td>🔒</td>
@@ -19300,7 +19300,7 @@
 <td>Product Management Intern</td>
 <td>Northridge, LA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
@@ -20070,7 +20070,7 @@
 <td>CX AI & Automation Internship 🛂</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AMC-Networks?utm_source=GHList&utm_medium=company">AMC Networks</a></strong></td>
@@ -20599,6 +20599,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company">Veolia</a></strong></td>
+<td>Capitol Project's Intern</td>
+<td>Milwaukee, WI</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Conveyance Intern</td>
 <td>Milwaukee, WI</td>
 <td>🔒</td>
@@ -22036,6 +22043,13 @@
 <td><strong><a href="https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company">Carrier Global</a></strong></td>
 <td>Digital Technology Intern</td>
 <td>Atlanta, GA<br>Palm Beach Gardens, FL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Geosyntec-Consultants?utm_source=GHList&utm_medium=company">Geosyntec Consultants</a></strong></td>
+<td>Geographic Information Systems – Intern - GIS</td>
+<td><details><summary><strong>5 locations</strong></summary>Raleigh, NC<br>Greenville, SC<br>Charlotte, NC<br>Wilmington, NC<br>Asheville, NC</details></td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -40527,7 +40541,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company">Freddie Mac</a></strong></td>
 <td>Risk Management Graduate Intern - Quantitative-Summer 2026</td>
 <td>McLean, VA</td>
 <td>🔒</td>

@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1123 Internship Roles by Category
+### Browse 1122 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (290)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (83)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (603)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (601)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (16)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (131)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (132)
 
 ---
 
@@ -1047,21 +1047,21 @@
 <td>Technology & Digital Solutions – Digital Innovation & Software Development Internships (Graduate)</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="http://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MCG-Health?utm_source=GHList&utm_medium=company">MCG Health</a></strong></td>
 <td>Software Engineering Intern 🛂</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/mcghealth/jobs/8350486002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AeroVironment?utm_source=GHList&utm_medium=company">AeroVironment</a></strong></td>
 <td>Software Engineering Intern – Hyper-RF Division 🇺🇸</td>
 <td>Germantown, MD</td>
 <td><div align="center"><a href="https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Velera?utm_source=GHList&utm_medium=company">Velera</a></strong></td>
@@ -5135,13 +5135,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company">Veolia</a></strong></td>
-<td>Capitol Project's Intern</td>
-<td>Milwaukee, WI</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099238341?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e068ba59-c4ca-4259-9157-bf4d3be40aab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Velera?utm_source=GHList&utm_medium=company">Velera</a></strong></td>
 <td>Business Intelligence Intern</td>
 <td>Remote in USA</td>
@@ -5946,6 +5939,20 @@
 <td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556621621?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ba6177d8-21b6-4cc6-892f-1c068306457f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Research Intern</td>
+<td><details><summary><strong>4 locations</strong></summary>SF<br>Redmond, WA<br>NYC<br>Baltimore, MD</details></td>
+<td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556621724?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/11153c03-4606-48df-adf3-b6b54aa7a6d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Research Intern - Cloud Reliability and Efficiency</td>
+<td>Redmond, WA</td>
+<td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556621787?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4f6d4a86-41ca-460a-9d9e-327a5516a1bf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -5972,20 +5979,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Research Intern</td>
-<td><details><summary><strong>4 locations</strong></summary>SF<br>Redmond, WA<br>NYC<br>Baltimore, MD</details></td>
-<td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556621724?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/11153c03-4606-48df-adf3-b6b54aa7a6d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Research Intern - Cloud Reliability and Efficiency</td>
-<td>Redmond, WA</td>
-<td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556621787?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4f6d4a86-41ca-460a-9d9e-327a5516a1bf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Research Intern - Artificial Intelligence 🎓</td>
@@ -6736,13 +6729,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Geosyntec-Consultants?utm_source=GHList&utm_medium=company">Geosyntec Consultants</a></strong></td>
-<td>Geographic Information Systems – Intern - GIS</td>
-<td><details><summary><strong>5 locations</strong></summary>Raleigh, NC<br>Greenville, SC<br>Charlotte, NC<br>Wilmington, NC<br>Asheville, NC</details></td>
-<td><div align="center"><a href="https://careers-geosyntec.icims.com/jobs/4092/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1c2841c8-11f7-4844-818e-839078f8228b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Spotify?utm_source=GHList&utm_medium=company">Spotify</a></strong></td>
 <td>2026 Summer Internship - Research Scientist - PhD 🎓</td>
 <td>London, UK</td>
@@ -7012,7 +6998,7 @@
 </table>
 
 
-🔒 **[See 2758 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 2760 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -7166,6 +7152,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
+<td>Co-op - Manufacturing Test Operator</td>
+<td>Ottawa, ON, Canada</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000104272295?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f2830949-d3f4-46e1-a40b-b21191c4d239?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Howmet-Aerospace?utm_source=GHList&utm_medium=company">Howmet Aerospace</a></strong></td>
 <td>Product Engineer Intern</td>
