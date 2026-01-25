@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1130 Internship Roles by Category
+### Browse 1131 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (288)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (289)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (80)
 
@@ -1911,7 +1911,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Marmon-Holdings?utm_source=GHList&utm_medium=company">Marmon Holdings</a></strong></td>
 <td>Engineering Intern</td>
 <td>Decatur, AL</td>
 <td><div align="center"><a href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Cullman-AL/Engineering-Intern---Summer-2026_JR0000037704-4?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f3df3b30-863e-4a3d-9232-9c9ebbdbe858?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2093,6 +2093,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Allstate-Insurance-Company?utm_source=GHList&utm_medium=company">Allstate Insurance Company</a></strong></td>
+<td>ATS Technology Intern Program</td>
+<td>Texas<br>Illinois</td>
+<td><div align="center"><a href="https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/XMLNAME-2026-ATS-Technology-Internship-Program_R21520?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/13b7c241-9713-48a9-9956-7b0189c0e26b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Dandy?utm_source=GHList&utm_medium=company">Dandy</a></strong></td>
 <td>Software Engineer, Intern</td>
 <td>New York, NY</td>
@@ -2110,7 +2117,7 @@
 </table>
 
 
-🔒 **[See 2460 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 2459 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -5862,13 +5869,6 @@
 <td><div align="center"><a href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319673?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f6f4fea2-4de1-4bd4-b90d-70482b1de27e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kensho?utm_source=GHList&utm_medium=company">Kensho</a></strong></td>
-<td>Machine Learning Intern - Summer 2026</td>
-<td>Cambridge, MA<br>NYC</td>
-<td><div align="center"><a href="https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319673-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/919479d7-d064-48fb-8662-57ad177b7e34?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -5895,6 +5895,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kensho?utm_source=GHList&utm_medium=company">Kensho</a></strong></td>
+<td>Machine Learning Intern - Summer 2026</td>
+<td>Cambridge, MA<br>NYC</td>
+<td><div align="center"><a href="https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319673-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/919479d7-d064-48fb-8662-57ad177b7e34?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Westinghouse-Electric-Company?utm_source=GHList&utm_medium=company">Westinghouse Electric Company</a></strong></td>
 <td>Risk Analysis Co-Op 2026</td>
@@ -6372,7 +6379,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Research Intern - Deep Learning Group</td>
 <td>Redmond, WA</td>
 <td><div align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556637090?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5d159621-6295-4707-b416-aa148493a7cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>

@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 7036 Inactive Internship Roles by Category
+### Browse 7035 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2460)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2459)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (470)
 
@@ -2513,13 +2513,6 @@
 <td>↳</td>
 <td>Intern Software Engineer</td>
 <td>Woking, UK</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Allstate-Insurance-Company?utm_source=GHList&utm_medium=company">Allstate Insurance Company</a></strong></td>
-<td>ATS Technology Intern Program</td>
-<td>Texas<br>Illinois</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -18607,10 +18600,10 @@
 <td>Product Management MBA Internship - Summer 2026 🎓</td>
 <td>Delaware<br>Ohio</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
+<td>↳</td>
 <td>Product Management MBA Internship - Summer 2026 🎓</td>
 <td>Delaware<br>Ohio</td>
 <td>🔒</td>
@@ -23244,7 +23237,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Research Intern - Machine Learning - People Centric AI</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
@@ -33282,7 +33275,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Intern - Multiple Teams 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
