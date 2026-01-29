@@ -2815,7 +2815,7 @@
 <td>Product Management Intern - Ultra Low Power CMOS - Summer 2026</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Product-Management-Intern--Ultra-Low-Power-CMOS--Summer-2026-_JR-2502845?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9c887014-6834-4e3d-bdb1-03a1c966ade7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Paramount-Global?utm_source=GHList&utm_medium=company">Paramount Global</a></strong></td>
