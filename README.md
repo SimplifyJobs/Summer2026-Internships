@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1260 Internship Roles by Category
+### Browse 1264 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (323)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (93)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (94)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (678)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (679)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (9)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (157)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (159)
 
 ---
 
@@ -2377,6 +2377,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Flexera?utm_source=GHList&utm_medium=company">Flexera</a></strong></td>
+<td>Product Manager Intern - Agentic AI</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Product-Manager-Intern---Agentic-AI_16910?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f58f5aee-3b14-4e79-85d6-ae23856dc501?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Fiserv?utm_source=GHList&utm_medium=company">Fiserv</a></strong></td>
 <td>Application Development-Summer Intern</td>
 <td>King of Prussia, PA</td>
@@ -3054,6 +3061,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Flexera?utm_source=GHList&utm_medium=company">Flexera</a></strong></td>
+<td>Data Analytics Intern</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Data-Analytics_16909?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/27dc1ee8-d52e-440e-9aa3-53dd2751b3be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>Intern - Data & Digital Catalysts</td>
@@ -5797,7 +5811,7 @@
 <td>Statistician Internship - Year in industry placement - Start mid-2026</td>
 <td>Brize Norton, Carterton, UK</td>
 <td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Statistician-Internship---Year-in-industry-placement---start-mid-2026_31137766?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5aaebf04-6baf-4850-b0c5-769e5aa296d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/APL-Logistics?utm_source=GHList&utm_medium=company">APL Logistics</a></strong></td>
@@ -5869,27 +5883,6 @@
 <td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29670?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a7579b57-241d-433b-9e00-249d85679f89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>23d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Together-AI?utm_source=GHList&utm_medium=company">Together AI</a></strong></td>
-<td>Research Intern RL & Post-Training Systems - Turbo - Summer 2026 🎓</td>
-<td>SF</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5007818007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a5815333-a9ff-42b5-b387-f83930210776?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Research Intern - Model Shaping</td>
-<td>SF</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5015074007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70f35831-cecf-4e93-af61-230854911df1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Frontier Agents Intern - Summer 2026 🎓</td>
-<td>SF</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5012769007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/112a54c4-8a20-477b-b35b-e6a1385f902f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5916,6 +5909,27 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Together-AI?utm_source=GHList&utm_medium=company">Together AI</a></strong></td>
+<td>Research Intern RL & Post-Training Systems - Turbo - Summer 2026 🎓</td>
+<td>SF</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5007818007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a5815333-a9ff-42b5-b387-f83930210776?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Research Intern - Model Shaping</td>
+<td>SF</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5015074007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70f35831-cecf-4e93-af61-230854911df1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Frontier Agents Intern - Summer 2026 🎓</td>
+<td>SF</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5012769007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/112a54c4-8a20-477b-b35b-e6a1385f902f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>23d</td>
+</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
 <td>Data Operations Intern - Summer 2026</td>
@@ -7943,6 +7957,20 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Flextronics-International?utm_source=GHList&utm_medium=company">Flextronics International</a></strong></td>
+<td>Test Engineering Intern - Summer 2026</td>
+<td>Austin, TX</td>
+<td><div align="center"><a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Test-Engineering-Intern---Summer-2026_WD213035?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ffaf9ccc-a7ec-419a-92c7-350fb85d96f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Test Development Engineer Intern</td>
+<td>Austin, TX</td>
+<td><div align="center"><a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Test-Development-Engineering-Intern---Summer-2026_WD214176?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9dc7e916-4b4c-4a90-b9fc-89ac54036885?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company">Astranis</a></strong></td>
 <td>Software Defined Radio Hardware Intern - Summer 2026</td>

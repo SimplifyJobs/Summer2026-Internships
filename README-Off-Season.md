@@ -12,11 +12,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ### Browse 650 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (217)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (216)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (59)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (270)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (271)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (4)
 
@@ -592,14 +592,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/XMLNAME-2026-Specialty-Program---MECOP---Engineering-Internship-Program_JR2026490913?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9c9cab73-bf98-43ff-b524-d75928774425?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>System Software Engineering Intern - Video - Summer 2026</td>
-<td>Santa Clara, CA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--Video---Summer-2026_JR2006997?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fc0f7141-2438-456e-8059-518d22152fa0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
@@ -1814,7 +1806,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1092)</summary>
+<summary>🗃️ Inactive roles (1093)</summary>
 
 <table>
 <thead>
@@ -1896,6 +1888,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Relativity?utm_source=GHList&utm_medium=company">Relativity</a></strong></td>
 <td>Engineering Intern</td>
 <td>Illinois</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>System Software Engineering Intern - Video - Summer 2026</td>
+<td>Santa Clara, CA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
 <td>7d</td>
@@ -10493,7 +10493,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company">Global Relay</a></strong></td>
 <td>Co-op Software Development Engineer in Test - Sdet</td>
 <td>Vancouver, BC, Canada</td>
 <td>Fall 2025</td>
@@ -12693,6 +12693,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Flexera?utm_source=GHList&utm_medium=company">Flexera</a></strong></td>
+<td>AI Operations Intern</td>
+<td>Remote in USA</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/AI-Operations-Intern_16874?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/23df1b1e-8dbd-491b-9cf2-6070295153e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
 <td>Technical Systems Analyst Co-op - 8 months</td>
@@ -18251,7 +18259,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/FlagshipPioneering?utm_source=GHList&utm_medium=company">Flagship Pioneering</a></strong></td>
 <td>Data Scientist Co-op</td>
 <td>Cambridge, MA</td>
 <td>Winter 2025</td>
@@ -32353,7 +32361,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company">Geotab</a></strong></td>
+<td>↳</td>
 <td>Embedded Developer Intern - Kinematics</td>
 <td>Oakville, ON, Canada</td>
 <td>Winter 2026</td>
