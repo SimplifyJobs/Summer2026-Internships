@@ -6,11 +6,11 @@
 
 ---
 
-### Browse 7475 Inactive Internship Roles by Category
+### Browse 7476 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2597)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (506)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (507)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3132)
 
@@ -8642,7 +8642,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>Software Developer Intern - Innovation and Digitalisation</td>
 <td>Solihull, UK</td>
 <td>🔒</td>
@@ -18400,6 +18400,13 @@
 <td>11d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company">Mastercard</a></strong></td>
+<td>Product Management & Customer Solutions Center Intern - Summer 2026 - London, UK</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
 <td>Product Management Intern</td>
 <td>Bellevue, WA</td>
@@ -21858,6 +21865,13 @@
 <td>0d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company">S&P Global </a></strong></td>
+<td>Intern - Empowering Tomorrow's Tech Leaders</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Verizon-Communications?utm_source=GHList&utm_medium=company">Verizon Communications</a></strong></td>
 <td>Verizon Consumer Experience Strategy Summer 2026 Internship: New Jersey Institute of Technology - New York University - & Rutgers University</td>
 <td>Berkeley Heights, NJ</td>
@@ -22205,7 +22219,7 @@
 <td>Intern Data Science and Artificial Intelligence</td>
 <td>Durham, NC</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
@@ -22302,13 +22316,6 @@
 <td>↳</td>
 <td>Intern - Applied Sciences - Engineering</td>
 <td>Reading, UK</td>
-<td>🔒</td>
-<td>10d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - Subsurface - Petrophysics</td>
-<td>Feltham, UK<br>Aberdeen, UK</td>
 <td>🔒</td>
 <td>10d</td>
 </tr>
@@ -49460,7 +49467,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company">Hermeus</a></strong></td>
 <td>Test Engineering Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
