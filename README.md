@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1175 Internship Roles by Category
+### Browse 1172 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (317)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (94)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (595)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (594)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (7)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (162)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (160)
 
 ---
 
@@ -2374,7 +2374,7 @@
 <td>Intern - Product Operations</td>
 <td>Decatur, GA</td>
 <td><div align="center"><a href="https://careers.acuityinc.com/job/Decatur-Summer-Internship-Product-Operations-(Hybrid-Decatur,-GA)-GA-30035/1360879400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4638175c-de01-4fcd-9e3f-f3ea0b6947d0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
@@ -3703,13 +3703,6 @@
 <td>Innovation Summer Advanced Degree Intern 🎓</td>
 <td>SF</td>
 <td><div align="center"><a href="https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/Innovation-Summer-Advanced-Degree-Intern---Digital-Experience--NAELFY26_R00305076?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bbd53a77-a5dc-44d7-8bed-4d0165023d33?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Biogen?utm_source=GHList&utm_medium=company">Biogen</a></strong></td>
-<td>Automation</td>
-<td>Research Triangle, Durham, NC</td>
-<td><div align="center"><a href="https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Automation_REQ22442?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6a8a51b1-dac3-4e45-b60a-13f690d1253a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -5889,6 +5882,13 @@
 <td><div align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Intern---Structured-Perception--PhD-_JR-202524667?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8bb28d7a-1978-404e-8794-44f266c0c365?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD 🎓</td>
+<td>Sunnyvale, CA</td>
+<td><div align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Autonomous-Vehicle-Engineering--PhD-_JR-202524568?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c2afc32b-aa6f-4047-ad82-7e91cec8791b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -5915,13 +5915,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD 🎓</td>
-<td>Sunnyvale, CA</td>
-<td><div align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Autonomous-Vehicle-Engineering--PhD-_JR-202524568?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c2afc32b-aa6f-4047-ad82-7e91cec8791b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble (P&G)</a></strong></td>
 <td>R&D PhD Intern - Machine Learning / AI 🎓</td>
@@ -7214,7 +7207,7 @@
 </table>
 
 
-🔒 **[See 3130 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 3131 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -7331,7 +7324,7 @@
 <td>Test Process & Firmware Engineering Intern - Summer 2026</td>
 <td>Shakopee, MN</td>
 <td><div align="center"><a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/317838ca-c784-4a2a-b2b1-be0014d9b2bf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company">Astranis</a></strong></td>
@@ -7642,13 +7635,6 @@
 <td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
-<td>Graduate Media Systems Engineer Intern</td>
-<td>SF</td>
-<td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Industrial-Light---Magic--Graduate-Media-Systems-Engineer-Intern--Summer-2026_10134292?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0502aacd-72fd-4de3-9c81-37528d2b56b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Sphere-Entertainment-Co?utm_source=GHList&utm_medium=company">Sphere Entertainment Co.</a></strong></td>
 <td>Sphere Technical Production Summer 2026 Student Associate Program - Las Vegas</td>
 <td>Las Vegas, NV</td>
@@ -7667,13 +7653,6 @@
 <td>Design Engineer Intern</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20532-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc6a7ea9-c6f3-4ba7-b791-4a6a15668572?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
-<td>Glendale System Software Engineering Internship - Fall 2026</td>
-<td>Glendale, CA</td>
-<td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ee798c88-b063-4923-acde-913cc541d801?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -8443,7 +8422,7 @@
 </table>
 
 
-🔒 **[See 902 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 904 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
