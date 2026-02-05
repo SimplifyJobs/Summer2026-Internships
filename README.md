@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 1390 Internship Roles by Category
+### Browse 1387 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (367)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (366)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (111)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (109)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (714)
 
@@ -893,13 +893,6 @@
 <td>Intern – Software Engineer 🎓</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer_R19186?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dce6f43d-94a1-4ed9-9db1-458f003a92e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
-<td>AI Developer – Co-op/Intern</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Summer-2026--Co-op-Internship----4-Months_R260001993?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/33d02daf-35ab-443c-960a-a72a59882679?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -2663,7 +2656,7 @@
 </table>
 
 
-🔒 **[See 2649 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 2650 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -2938,13 +2931,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
-<td>Product Owner Intern</td>
-<td>Frisco, TX<br>Bellevue, WA</td>
-<td><div align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Product-Owner-Internship_REQ343401?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ddc4d457-5317-4d2f-839d-f20568dde3d6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>T-Shop Product Development Intern</td>
 <td>Bellevue, WA</td>
 <td><div align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-T-Shop-Product-Development-Internship_REQ343280?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c63d7ce0-ca6b-4798-93aa-4f9f8a259c02?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2990,13 +2976,6 @@
 <td>Product Owner - AI Engineering Intern</td>
 <td>Frisco, TX<br>Overland Park, KS</td>
 <td><div align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Product-Owner---AI-Engineering-Internship_REQ343860?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/62d17d76-28ff-4c0d-a7f5-298855a13995?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Product Owner Intern</td>
-<td>Frisco, TX<br>Bellevue, WA</td>
-<td><div align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Product-Owner-Internship_REQ343400?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f7e16d13-98e7-40eb-b429-092cc1b259c5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -3465,7 +3444,7 @@
 </table>
 
 
-🔒 **[See 520 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 522 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -5903,6 +5882,27 @@
 <td><div align="center"><a href="https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Undergraduate-Graduate--Summer--Intern---Cyber-Mission-Assurance_R14131?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7a5ca637-f7bb-446f-a991-09783f15e090?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>12d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
+<td>Intern - Subsurface - Geology</td>
+<td>Feltham, UK<br>Aberdeen, UK</td>
+<td><div align="center"><a href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-Aberdeen---Dyce-Complex/Summer-Internship---Subsurface---Geology---Aberdeen_RQ101319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb249542-4d80-44cc-9c5e-bf1c922af892?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Intern - Subsurface - Petrophysics</td>
+<td>Feltham, UK<br>Aberdeen, UK</td>
+<td><div align="center"><a href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface---Petrophysics---UK_RQ101328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/abc78282-a8a5-40e1-832e-03546295430a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Westgate-Resorts?utm_source=GHList&utm_medium=company">Westgate Resorts</a></strong></td>
+<td>Mortgage Analytics Intern</td>
+<td>Winter Garden, FL</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/WestgateResorts/744000105034865?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/701e8177-9557-44c2-a882-1a39d0b2a4a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>13d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5929,27 +5929,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
-<td>Intern - Subsurface - Geology</td>
-<td>Feltham, UK<br>Aberdeen, UK</td>
-<td><div align="center"><a href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-Aberdeen---Dyce-Complex/Summer-Internship---Subsurface---Geology---Aberdeen_RQ101319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb249542-4d80-44cc-9c5e-bf1c922af892?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - Subsurface - Petrophysics</td>
-<td>Feltham, UK<br>Aberdeen, UK</td>
-<td><div align="center"><a href="https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface---Petrophysics---UK_RQ101328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/abc78282-a8a5-40e1-832e-03546295430a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Westgate-Resorts?utm_source=GHList&utm_medium=company">Westgate Resorts</a></strong></td>
-<td>Mortgage Analytics Intern</td>
-<td>Winter Garden, FL</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/WestgateResorts/744000105034865?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/701e8177-9557-44c2-a882-1a39d0b2a4a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
 <td>Enterprise Engineering Systems Intern - Summer</td>
