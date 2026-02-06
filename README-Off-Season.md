@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 544 Internship Roles by Category
+### Browse 541 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (182)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (181)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (52)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (51)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (226)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (225)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (3)
 
@@ -970,14 +970,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Software Engineering Intern - C++ Development</td>
-<td>San Antonio, TX</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/70090/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a4ee4f97-7a12-4bb9-b7fa-d8deb3c0e6af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Field-AI?utm_source=GHList&utm_medium=company">Field AI</a></strong></td>
 <td>Field Application Engineer / Intern - Mineral - Virginia</td>
 <td>Palmyra, VA</td>
@@ -1534,7 +1526,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1142)</summary>
+<summary>🗃️ Inactive roles (1143)</summary>
 
 <table>
 <thead>
@@ -2041,6 +2033,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Software Developer – Database Admin Intern - C#</td>
 <td>Remote in USA</td>
 <td>Winter 2026</td>
+<td>🔒</td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Software Engineering Intern - C++ Development</td>
+<td>San Antonio, TX</td>
+<td>Spring 2026</td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
@@ -4478,16 +4478,16 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Software Engineer Intern - Software Engineering</td>
-<td>Scottsdale, AZ</td>
+<td>Intern Engineer</td>
+<td>Annapolis Junction, MD</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Intern Engineer</td>
-<td>Annapolis Junction, MD</td>
+<td>Software Engineer Intern - Software Engineering</td>
+<td>Scottsdale, AZ</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -6413,7 +6413,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
 <td>Software Development Intern</td>
 <td>Boston, MA</td>
 <td>Winter 2025</td>
@@ -10855,15 +10855,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
-<td>MBA Intern - APD Product Management 🎓</td>
-<td>Bentonville, AR</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/MBA-Intern---APD-Product-Management_R-2379864?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1bd85e62-5e99-43d4-bcff-c3adf67a2ad6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
+<td>↳</td>
 <td>Fall 2026: Product Development Co-op - Shark - July to December</td>
 <td>Needham, MA</td>
 <td>Fall 2026</td>
@@ -11131,7 +11123,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (208)</summary>
+<summary>🗃️ Inactive roles (209)</summary>
 
 <table>
 <thead>
@@ -11200,6 +11192,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Spring 2026</td>
 <td>🔒</td>
 <td>14d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
+<td>MBA Intern - APD Product Management 🎓</td>
+<td>Bentonville, AR</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Associated-Bank?utm_source=GHList&utm_medium=company">Associated Bank</a></strong></td>
@@ -13078,14 +13078,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Abacus-Insights?utm_source=GHList&utm_medium=company">Abacus Insights</a></strong></td>
-<td>Data Operations Engineer Intern – Internship 🎓</td>
-<td>Remote in USA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://boards.greenhouse.io/abacusinsights/jobs/8394769002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e7d79226-67e1-48b4-a94d-1cdccc013c2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/APEX-Analytix?utm_source=GHList&utm_medium=company">APEX Analytix</a></strong></td>
 <td>Data Engineering Intern</td>
 <td>Greensboro, NC</td>
@@ -13173,6 +13165,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://jobdetails.nestle.com/job/Bridgewater-Nestl%C3%A9-Health-Science-Engineering-Intern-NJ-08807/1288239201/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a3fdae0e-0985-4611-86e7-d60be0e1bc79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>8d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td>Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal</td>
+<td>Palo Alto, CA</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R106830-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/91b07df6-1f63-4382-b551-e391c05e5809?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Virtua-Health?utm_source=GHList&utm_medium=company">Virtua Health</a></strong></td>
+<td>IT Informatics Intern</td>
+<td>Mt Laurel Township, NJ</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ee2a623-56ae-4f2b-816e-375a1dbd874e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>9d</td>
+</tr>
 </tbody>
 </table>
 
@@ -13199,22 +13207,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
-<td>Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal</td>
-<td>Palo Alto, CA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R106830-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/91b07df6-1f63-4382-b551-e391c05e5809?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Virtua-Health?utm_source=GHList&utm_medium=company">Virtua Health</a></strong></td>
-<td>IT Informatics Intern</td>
-<td>Mt Laurel Township, NJ</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ee2a623-56ae-4f2b-816e-375a1dbd874e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LMI?utm_source=GHList&utm_medium=company">LMI </a></strong></td>
 <td>Data Science-Intern - FIU Students</td>
@@ -14676,7 +14668,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1496)</summary>
+<summary>🗃️ Inactive roles (1497)</summary>
 
 <table>
 <thead>
@@ -14766,6 +14758,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>↳</td>
 <td>Data Analyst Co-op</td>
 <td>Toronto, ON, Canada</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Abacus-Insights?utm_source=GHList&utm_medium=company">Abacus Insights</a></strong></td>
+<td>Data Operations Engineer Intern – Internship 🎓</td>
+<td>Remote in USA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
 <td>7d</td>
@@ -28342,7 +28342,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Edinburgh, UK</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
