@@ -1296,7 +1296,7 @@
 <td>Summer 2026 Software Developer Intern - Vokey</td>
 <td>Carlsbad, CA</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
@@ -9972,7 +9972,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Toronto, Canada</td>
 <td>🔒</td>
@@ -42271,7 +42271,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Inventing-For-Life?utm_source=GHList&utm_medium=company">Inventing for Life</a></strong></td>
 <td>Future Talent Program – Intern - Regulatory Data Science</td>
 <td>North Wales, PA<br>Linden, NJ</td>
 <td>🔒</td>

@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1395 Internship Roles by Category
+### Browse 1396 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (374)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (16)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (182)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (183)
 
 ---
 
@@ -8794,6 +8794,13 @@
 <td>Intern - Advanced System Development Engineering - Hardware/Software</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000107565711?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e7253bd6-d4fc-482f-a6e7-a88869ef0057?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694?utm_source=GHList&utm_medium=company">Regal Rexnord</a></strong></td>
+<td>Application Team Co-Op</td>
+<td>Vandalia, OH</td>
+<td><div align="center"><a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0ecfcf90-e463-426e-8f3b-87962cb1461d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
