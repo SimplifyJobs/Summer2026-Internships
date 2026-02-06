@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 7739 Inactive Internship Roles by Category
+### Browse 7747 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2666)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (527)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (529)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3272)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3275)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (336)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (938)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (941)
 
 ---
 
@@ -7872,7 +7872,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>Internship - Software Engineering - Siri Developer Productivity</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
@@ -10343,7 +10343,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Intern - Strategic Deterrent Systems Division</td>
 <td>Hill AFB, UT</td>
 <td>🔒</td>
@@ -12212,7 +12212,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Cyber Security Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>NYC<br>Mountain View, CA<br>Atlanta, GA<br>San Diego, CA</details></td>
 <td>🔒</td>
@@ -12226,7 +12226,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
+<td>↳</td>
 <td>Full Stack Engineering Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>NYC<br>Mountain View, CA<br>Atlanta, GA<br>San Diego, CA</details></td>
 <td>🔒</td>
@@ -18834,6 +18834,13 @@
 <td>8d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>Product Analyst</td>
+<td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Product Management Intern - Rbcx - 4 months 🎓</td>
 <td>Toronto, ON, Canada</td>
@@ -18874,6 +18881,13 @@
 <td>St. Louis, MO</td>
 <td>🔒</td>
 <td>10d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>Product Consultant – Summer 2026 co-op</td>
+<td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
@@ -22747,6 +22761,13 @@
 <td>6d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>Data Analytics Co-op - Summer 2026</td>
+<td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company">S&P Global </a></strong></td>
 <td>Intern - Empowering Tomorrow's Tech Leaders</td>
 <td>NYC</td>
@@ -22911,6 +22932,13 @@
 <td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
 <td>Intern - Asset Management AI 🎓</td>
 <td>Boston, MA</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>Data Engineering Intern/Co-op</td>
+<td>Toronto, ON, Canada</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
@@ -24564,6 +24592,13 @@
 <td><strong><a href="https://simplify.jobs/c/Bloom-Energy?utm_source=GHList&utm_medium=company">Bloom Energy</a></strong></td>
 <td>RMCC Data Science Engineering Intern</td>
 <td>San Jose, CA</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cinemark-Theatres?utm_source=GHList&utm_medium=company">Cinemark Theatres</a></strong></td>
+<td>Data Science Intern</td>
+<td>Plano, TX</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -34872,7 +34907,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>Internship - Applied Machine Learning - Developer Publications Intelligence</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -47794,7 +47829,21 @@
 <td>2d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>2026 Engineering Intern - Lake Charles - LA</td>
+<td>Lake Charles, LA</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
 <td>↳</td>
+<td>2026 Returning Hardware Internship - Rolling Meadows IL</td>
+<td>Palatine, IL</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineering Intern - Summer 2026</td>
 <td>Cedar Rapids, IA</td>
 <td>🔒</td>
@@ -47937,6 +47986,13 @@
 <td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
 <td>Intern - Sequencing Hardware Development</td>
 <td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>WDW Computer Science / Computer Engineering Interns - Fall 2026</td>
+<td>Celebration, FL</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -50825,7 +50881,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>PMU Design Verification Intern - Design Verification - PMU Hardware Tech</td>
 <td>Swindon, UK</td>
 <td>🔒</td>
