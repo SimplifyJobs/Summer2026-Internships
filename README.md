@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1328 Internship Roles by Category
+### Browse 1327 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (381)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (111)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (647)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (646)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (15)
 
@@ -5540,13 +5540,6 @@
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Verizon-Communications?utm_source=GHList&utm_medium=company">Verizon Communications</a></strong></td>
-<td>Verizon Consumer Experience Strategy Summer 2026 Internship: New Jersey Institute of Technology - New York University - & Rutgers University</td>
-<td>Berkeley Heights, NJ</td>
-<td><div align="center"><a href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Experience-Strategy-Summer-2026-Internship--New-Jersey-Institute-of-Technology--New-York-University----Rutgers-University_R-1090518?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/df1acfa6-86d1-47f9-90aa-1a2b4c63fc79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company">ABB</a></strong></td>
 <td>AI Developer for Supply Chain Optimization & Data Analytics Intern</td>
 <td>Morrisville, NC<br>Memphis, TN</td>
@@ -5889,6 +5882,13 @@
 <td><div align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Physics-Based-Character-Motion-Research_26WD95074?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b0969977-82f9-42be-a3cb-08033a636069?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>12d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AskBio?utm_source=GHList&utm_medium=company">AskBio</a></strong></td>
+<td>Intern-IT – AI Team - Data</td>
+<td>Durham, NC</td>
+<td><div align="center"><a href="https://askbio.wd12.myworkdayjobs.com/AskBio/job/Durham-NC/Intern--IT--AI-Team--Data_R26-27?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f8a720fb-0236-4d2a-bad4-5e8e43a0c640?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>12d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5915,13 +5915,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/AskBio?utm_source=GHList&utm_medium=company">AskBio</a></strong></td>
-<td>Intern-IT – AI Team - Data</td>
-<td>Durham, NC</td>
-<td><div align="center"><a href="https://askbio.wd12.myworkdayjobs.com/AskBio/job/Durham-NC/Intern--IT--AI-Team--Data_R26-27?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f8a720fb-0236-4d2a-bad4-5e8e43a0c640?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Intern-IT – Enterprise Architecture</td>
@@ -7257,7 +7250,7 @@
 <td>Machine Learning Intern - Autolabeling 🎓</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/woven-by-toyota/24cceda1-b852-413c-8e60-039280a1c849/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/66ef628d-4eae-4d7b-9d03-896f837927c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Exiger?utm_source=GHList&utm_medium=company">Exiger</a></strong></td>
@@ -8145,7 +8138,7 @@
 </table>
 
 
-🔒 **[See 3399 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 3400 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
