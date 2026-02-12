@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1423 Internship Roles by Category
+### Browse 1422 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (415)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (118)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (696)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (695)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (19)
 
@@ -5253,13 +5253,6 @@
 <td>6d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Data Science Intern 🎓</td>
-<td>Atlanta, GA</td>
-<td><div align="center"><a href="http://prizepicks.com/position?gh_jid=7608674003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/11f14bee-f156-44b4-bc52-ce1935a772e3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
 <td>Multimedia Codec Development Intern</td>
 <td>Palo Alto, CA</td>
@@ -5875,6 +5868,13 @@
 <td><div align="center"><a href="https://jobs.lever.co/QuantumWorkplace/4d7a3559-6293-44f9-8731-d07b81a6cc3e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e30e429f-888c-4629-90ec-2e97fa3a5754?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>8d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kaiser-Permanente?utm_source=GHList&utm_medium=company">Kaiser Permanente</a></strong></td>
+<td>Data Analytics Intern - Multiple Teams</td>
+<td>Pasadena, CA</td>
+<td><div align="center"><a href="https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/74898e32-8129-465d-93cc-5cf1e2cbcd3f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>8d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5901,13 +5901,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kaiser-Permanente?utm_source=GHList&utm_medium=company">Kaiser Permanente</a></strong></td>
-<td>Data Analytics Intern - Multiple Teams</td>
-<td>Pasadena, CA</td>
-<td><div align="center"><a href="https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1406480&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/74898e32-8129-465d-93cc-5cf1e2cbcd3f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Spotify?utm_source=GHList&utm_medium=company">Spotify</a></strong></td>
 <td>Research Scientist Intern 🎓</td>
@@ -8775,7 +8768,7 @@
 </table>
 
 
-🔒 **[See 3476 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 3477 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
