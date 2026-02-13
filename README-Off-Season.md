@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 435 Internship Roles by Category
+### Browse 433 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (146)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (36)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (35)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (182)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (181)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (3)
 
@@ -8189,7 +8189,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Intact?utm_source=GHList&utm_medium=company">Intact</a></strong></td>
 <td>Software Developer I</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026</td>
@@ -10856,14 +10856,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Digital Product Manager Apprentice - Edinburgh</td>
-<td>Edinburgh, UK</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Digital-Product-Manager-Apprentice--Edinburgh-_150287?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fea47136-4cfc-4632-8cf7-9b1b003789a7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Digital Product Manager Apprentice - Manchester</td>
 <td>Manchester, UK</td>
 <td>Fall 2026</td>
@@ -10995,7 +10987,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (229)</summary>
+<summary>🗃️ Inactive roles (230)</summary>
 
 <table>
 <thead>
@@ -11152,6 +11144,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Spring 2026</td>
 <td>🔒</td>
 <td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Lloyds-Bank?utm_source=GHList&utm_medium=company">Lloyds Bank</a></strong></td>
+<td>Digital Product Manager Apprentice - Edinburgh</td>
+<td>Edinburgh, UK</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Relativity?utm_source=GHList&utm_medium=company">Relativity</a></strong></td>
@@ -12578,7 +12578,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Emerson-Electric?utm_source=GHList&utm_medium=company">Emerson Electric</a></strong></td>
 <td>Product Management Co-op</td>
 <td>Shakopee, MN<br>Eden Prairie, MN</td>
 <td>Winter 2026, Spring 2026</td>
@@ -12948,14 +12948,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7605353124442343733?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f27a5872-0669-4ba7-b0f2-a1a330f75855?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
-<td>Machine learning applied to Quantitative Pharmacology Small molecules Intern/Co-op 🎓</td>
-<td>Cambridge, MA</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Machine-learning-applied-to-Quantitative-Pharmacology---Small-molecules-Fall-2026-Co-op_R2841323-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4508ac06-d507-44f2-984f-94cc54fd2903?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
@@ -13445,6 +13437,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Support-Co-op---Enterprise-Technology---Business-Management_2602032-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d97fb5a6-70bd-4d91-8b41-634213e86e3a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>20d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/TDS?utm_source=GHList&utm_medium=company">TDS</a></strong></td>
+<td>GIS Intern</td>
+<td>Remote in USA</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://external-telecom-teldta.icims.com/jobs/28618/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/de0a36a5-68f3-4aa6-8e7b-b43ce2dbde1b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>20d</td>
+</tr>
 </tbody>
 </table>
 
@@ -13471,14 +13471,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/TDS?utm_source=GHList&utm_medium=company">TDS</a></strong></td>
-<td>GIS Intern</td>
-<td>Remote in USA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://external-telecom-teldta.icims.com/jobs/28618/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/de0a36a5-68f3-4aa6-8e7b-b43ce2dbde1b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Premier?utm_source=GHList&utm_medium=company">Premier</a></strong></td>
 <td>Quality Data Management Intern</td>
@@ -14370,6 +14362,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
+<td>Machine learning applied to Quantitative Pharmacology Small molecules Intern/Co-op 🎓</td>
+<td>Cambridge, MA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cintas?utm_source=GHList&utm_medium=company">Cintas</a></strong></td>
 <td>Data Analytics Intern</td>
@@ -26734,14 +26734,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/DNC?utm_source=GHList&utm_medium=company">Democratic National Committee</a></strong></td>
 <td>DNC Technology Internship</td>
 <td>Washington, DC</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>Technical Marketing Engineer Intern - AI Platform Software</td>
-<td>Santa Clara, CA</td>
 <td>Fall 2025</td>
 <td>🔒</td>
 <td>7mo</td>
