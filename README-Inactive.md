@@ -1177,7 +1177,7 @@
 <td>Software Engineer Intern</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
@@ -2031,7 +2031,7 @@
 <td>Systems Engineer Intern - Huntsville AL and Linthicum MD</td>
 <td>Halethorpe, MD<br>Huntsville, AL</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Webster-Bank?utm_source=GHList&utm_medium=company">Webster Bank</a></strong></td>
@@ -12734,7 +12734,7 @@
 <td>Intern Developer - Clients - Front End Technologies</td>
 <td>Ottawa, ON, Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
@@ -13066,7 +13066,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
 <td>Comcast Software Engineer Intern</td>
 <td>Reston, VA</td>
 <td>🔒</td>
@@ -15313,7 +15313,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/DevTechGrp?utm_source=GHList&utm_medium=company">Dev Technology Group</a></strong></td>
 <td>React/Node Application Developer Intern</td>
 <td>Reston, VA</td>
 <td>🔒</td>
@@ -23531,7 +23531,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company">DIRECTV</a></strong></td>
+<td>↳</td>
 <td>Product Content Internship</td>
 <td>Remote in USA</td>
 <td>🔒</td>
@@ -23769,7 +23769,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
+<td>↳</td>
 <td>Product Development Co-op - Ninja</td>
 <td>Needham, MA</td>
 <td>🔒</td>
@@ -43024,14 +43024,14 @@
 <td>Engineering Summer Internship 2026</td>
 <td>Nottingham, UK</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arcadis?utm_source=GHList&utm_medium=company">Arcadis</a></strong></td>
 <td>Product Analyst Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ingredion?utm_source=GHList&utm_medium=company">Ingredion</a></strong></td>
@@ -45442,7 +45442,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ernst-And-Young?utm_source=GHList&utm_medium=company">Ernst & Young</a></strong></td>
+<td>↳</td>
 <td>JD/LLM Intern - Tax - Indirect Tax - Credits & Incentives</td>
 <td><details><summary><strong>5 locations</strong></summary>SF<br>Detroit, MI<br>Dallas, TX<br>Chicago, IL<br>Columbus, OH</details></td>
 <td>🔒</td>
@@ -50356,7 +50356,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/acadian-asset-management?utm_source=GHList&utm_medium=company">Acadian Asset Management</a></strong></td>
 <td>Quantitative Developer Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
@@ -56852,7 +56852,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Burnsville, MN</td>
 <td>🔒</td>
