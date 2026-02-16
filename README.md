@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1434 Internship Roles by Category
+### Browse 1432 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (402)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (119)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (704)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (703)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (20)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (189)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (188)
 
 ---
 
@@ -4371,13 +4371,6 @@
 <td>3d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Snap?utm_source=GHList&utm_medium=company">Snap</a></strong></td>
-<td>Machine Learning Engineer Intern - Generative ML 🎓</td>
-<td>LA</td>
-<td><div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Machine-Learing-Engineer-Intern--Generative-ML_R0044279-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d7c2f74b-665c-4595-8d23-e005d3af04c5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Upstart?utm_source=GHList&utm_medium=company">Upstart</a></strong></td>
 <td>Research Scientist Intern</td>
 <td>Remote in USA</td>
@@ -5868,6 +5861,13 @@
 <td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/AI-ML-Summer-Intern---Statistics---Decision-Sciences--SDS-_R-056470?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/affaf0b1-b73a-481b-bc78-c115f4b5823a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>11d</td>
 </tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>Data Analyst Project Intern - Tiktok Shop-Business Product - 2026 Start</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://lifeattiktok.com/search/7602847490429274421?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b2832e86-40bd-4ad4-94c5-0e1f1d49b188?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>11d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5894,13 +5894,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
-<td>Data Analyst Project Intern - Tiktok Shop-Business Product - 2026 Start</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://lifeattiktok.com/search/7602847490429274421?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b2832e86-40bd-4ad4-94c5-0e1f1d49b188?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jain-Global?utm_source=GHList&utm_medium=company">Jain Global</a></strong></td>
 <td>Data Engineer Intern - London - Summer 2026 🎓</td>
@@ -8747,7 +8740,7 @@
 </table>
 
 
-🔒 **[See 3560 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 3561 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -9393,13 +9386,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Turion-Space?utm_source=GHList&utm_medium=company">Turion Space</a></strong></td>
-<td>Hardware Engineering Intern</td>
-<td>Irvine, CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/turion-space/650d46de-3bec-45b9-b062-6a9154064277/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fca0ca94-a10b-48c7-91eb-ec73da3fe475?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Software Engineering Intern</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/turion-space/a0fc3dae-26f0-44f4-a255-1a15e3b9f307/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ccc3e5e-1b00-4b72-9f04-d84f47eb139a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -10256,7 +10242,7 @@
 </table>
 
 
-🔒 **[See 1024 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1025 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

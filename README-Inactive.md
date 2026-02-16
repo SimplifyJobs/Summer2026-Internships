@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 8334 Inactive Internship Roles by Category
+### Browse 8336 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2846)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (564)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3560)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3561)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (340)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1024)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1025)
 
 ---
 
@@ -10700,7 +10700,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Software Engineer Intern - Recommendation Systems</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
@@ -18813,7 +18813,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Tool Software Engineer Intern - Tiktok-Intelligent Creation-Effect House</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -23174,7 +23174,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company">LPL Financial Holdings</a></strong></td>
+<td>↳</td>
 <td>Internship - Technology - Program Management - Research Team</td>
 <td>Fort Mill, SC<br>San Diego, CA</td>
 <td>🔒</td>
@@ -24010,6 +24010,13 @@
 <td><strong><a href="https://simplify.jobs/c/Kaiser-Permanente?utm_source=GHList&utm_medium=company">Kaiser Permanente</a></strong></td>
 <td>Data Analytics Master Intern 🎓</td>
 <td>Pleasanton, CA<br>Pasadena, CA</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Snap?utm_source=GHList&utm_medium=company">Snap</a></strong></td>
+<td>Machine Learning Engineer Intern - Generative ML 🎓</td>
+<td>LA</td>
 <td>🔒</td>
 <td>3d</td>
 </tr>
@@ -41284,7 +41291,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Data Engineer Intern - Advanced Analytics 🎓</td>
 <td>Oshkosh, WI</td>
 <td>🔒</td>
@@ -42093,7 +42100,7 @@
 <td>2026 Intern - Research Scientist/Engineer 🎓</td>
 <td><details><summary><strong>7 locations</strong></summary>Cambridge, MA<br>Seattle, WA<br>Toronto, ON, Canada<br>SF<br>San Jose, CA<br>Hyattsville, MD<br>NYC</details></td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -44910,7 +44917,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Intern - BS/MS - Test Engineering - Motion Control</td>
 <td>SF</td>
 <td>🔒</td>
@@ -47220,7 +47227,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - E-commerce Governance Algorithms - BS/MS</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -48361,7 +48368,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Research Scientist Intern - Tiktok-Recommendation-Content Intelligence - PhD 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -51444,6 +51451,13 @@
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Plantation, FL</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Turion-Space?utm_source=GHList&utm_medium=company">Turion Space</a></strong></td>
+<td>Hardware Engineering Intern</td>
+<td>Irvine, CA</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -55375,7 +55389,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
 <td>Firmware Engineering Intern - Firmware Engineering</td>
 <td>Shakopee, MN</td>
 <td>🔒</td>
