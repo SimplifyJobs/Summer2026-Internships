@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1465 Internship Roles by Category
+### Browse 1463 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (415)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (131)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (130)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (710)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (709)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (18)
 
@@ -3287,13 +3287,6 @@
 <td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/alcon?utm_source=GHList&utm_medium=company">Alcon</a></strong></td>
-<td>Digital Product Management Intern - Digital Product Management</td>
-<td>Fort Worth, TX</td>
-<td><div align="center"><a href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Summer-2026-Intern---Digital-Product-Management_R-2026-44984?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6255584d-cac0-4555-a03a-4c35a53a2746?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/SuccessKPI?utm_source=GHList&utm_medium=company">SuccessKPI </a></strong></td>
 <td>Product Management Intern - New Innovation</td>
 <td>Remote in USA</td>
@@ -3941,7 +3934,7 @@
 </table>
 
 
-🔒 **[See 577 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 578 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -4144,13 +4137,6 @@
 <td>Business Acumen Intern</td>
 <td>Culver City, CA</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/aloyoga/jobs/5803408004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/aafcc977-5ab5-44b6-bca4-6a6d73bfe186?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company">Caterpillar Inc.</a></strong></td>
-<td>Part Time Intern Digital & Analytics</td>
-<td>Chicago, IL<br>Peoria, IL</td>
-<td><div align="center"><a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Part-Time-Intern-Digital---Analytics_R0000349624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8fc39d3e-6de6-4170-b82b-fe5a064e23dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5847,6 +5833,20 @@
 <td><div align="center"><a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8424?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9e10cfd5-2e1b-4e6c-86e1-8d91ba43958c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>9d</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Intern – Dto - Enterprise Analytics - 8 Months</td>
+<td>Vancouver, BC, Canada</td>
+<td><div align="center"><a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8373?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b21aba8-7ecd-4267-a368-7cabf69aaf6f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Lynker?utm_source=GHList&utm_medium=company">Lynker</a></strong></td>
+<td>National Data Buoy Center – Summer 2026 Paid Internship or Apprenticeship - Ndbc</td>
+<td>John C. Stennis Space Center, MS</td>
+<td><div align="center"><a href="https://careers-lynker.icims.com/jobs/1491/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2ec493b2-67d5-41d2-b6cc-3c9e65867ea6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>9d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5873,20 +5873,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Intern – Dto - Enterprise Analytics - 8 Months</td>
-<td>Vancouver, BC, Canada</td>
-<td><div align="center"><a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8373?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b21aba8-7ecd-4267-a368-7cabf69aaf6f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Lynker?utm_source=GHList&utm_medium=company">Lynker</a></strong></td>
-<td>National Data Buoy Center – Summer 2026 Paid Internship or Apprenticeship - Ndbc</td>
-<td>John C. Stennis Space Center, MS</td>
-<td><div align="center"><a href="https://careers-lynker.icims.com/jobs/1491/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2ec493b2-67d5-41d2-b6cc-3c9e65867ea6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KCI-Technologies?utm_source=GHList&utm_medium=company">KCI Technologies</a></strong></td>
 <td>Technology Intern</td>
@@ -8964,7 +8950,7 @@
 </table>
 
 
-🔒 **[See 3678 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 3679 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
