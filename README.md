@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 1456 Internship Roles by Category
+### Browse 1457 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (415)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (133)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (134)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (705)
 
@@ -3189,6 +3189,13 @@
 <td>2d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Fresenius-Kabi?utm_source=GHList&utm_medium=company">Fresenius Kabi</a></strong></td>
+<td>Intern – Research & Development</td>
+<td>Lake Zurich, IL</td>
+<td><div align="center"><a href="https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---R---D_R-10210290?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/acfb0e9b-b599-4e51-a95e-25a05e2307f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Alo-Yoga?utm_source=GHList&utm_medium=company">Alo Yoga</a></strong></td>
 <td>Product Development Intern</td>
 <td>Montebello, CA</td>
@@ -5847,13 +5854,6 @@
 <td><div align="center"><a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8424?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9e10cfd5-2e1b-4e6c-86e1-8d91ba43958c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>9d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Intern – Dto - Enterprise Analytics - 8 Months</td>
-<td>Vancouver, BC, Canada</td>
-<td><div align="center"><a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8373?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b21aba8-7ecd-4267-a368-7cabf69aaf6f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5880,6 +5880,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Intern – Dto - Enterprise Analytics - 8 Months</td>
+<td>Vancouver, BC, Canada</td>
+<td><div align="center"><a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8373?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b21aba8-7ecd-4267-a368-7cabf69aaf6f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>9d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lynker?utm_source=GHList&utm_medium=company">Lynker</a></strong></td>
 <td>National Data Buoy Center – Summer 2026 Paid Internship or Apprenticeship - Ndbc</td>
