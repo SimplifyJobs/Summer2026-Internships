@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1481 Internship Roles by Category
+### Browse 1480 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (446)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (18)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (195)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (194)
 
 ---
 
@@ -9959,14 +9959,7 @@
 <td>16d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Etched?utm_source=GHList&utm_medium=company">Etched</a></strong></td>
-<td>PD Intern</td>
-<td>San Jose, CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2e947349-323e-4e5a-af34-b79087418d65?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Etched-AI?utm_source=GHList&utm_medium=company">Etched.ai</a></strong></td>
+<td>↳</td>
 <td>Platform Intern - ME</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dde46a10-b1d7-43b9-bdee-f6a980d3c435?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -10585,7 +10578,7 @@
 </table>
 
 
-🔒 **[See 1114 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1115 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
