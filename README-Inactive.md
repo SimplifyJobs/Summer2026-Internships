@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 8945 Inactive Internship Roles by Category
+### Browse 8946 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3007)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (598)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3863)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3864)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (349)
 
@@ -12331,7 +12331,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Toronto, Canada</td>
 <td>🔒</td>
@@ -23311,7 +23311,7 @@
 <td>Nike – Inc. Product Business Integration Graduate Internship</td>
 <td>Beaverton, OR</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
@@ -27776,6 +27776,13 @@
 <td><strong><a href="https://simplify.jobs/c/Gordon-Food-Service?utm_source=GHList&utm_medium=company">Gordon Food Service</a></strong></td>
 <td>Marketing Strategy and Analytics Intern</td>
 <td>Wyoming<br>Michigan</td>
+<td>🔒</td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Stage – Science des données et Analytique d’affaires / Internship - Été 2026 - Summer 2026</td>
+<td>Longueuil, QC, Canada</td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
@@ -39825,7 +39832,7 @@
 <td>Nike – Inc. Product Business Integration Undergraduate Internship</td>
 <td>Beaverton, OR</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bloom-Energy?utm_source=GHList&utm_medium=company">Bloom Energy</a></strong></td>
@@ -49145,7 +49152,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Inventing-For-Life?utm_source=GHList&utm_medium=company">Inventing for Life</a></strong></td>
 <td>Future Talent Program – Intern - Regulatory Data Science</td>
 <td>North Wales, PA<br>Linden, NJ</td>
 <td>🔒</td>
