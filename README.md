@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1612 Internship Roles by Category
+### Browse 1611 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (482)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (481)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (148)
 
@@ -2744,13 +2744,6 @@
 <td>26d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC?utm_source=GHList&utm_medium=company">National Information Solutions Cooperative (NISC)</a></strong></td>
-<td>Intern Software Developer</td>
-<td>Bismarck, ND<br>Lake St Louis, MO</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/7574562?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fb67548d-da3b-417a-9fe9-e8db9973f72b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Ercot?utm_source=GHList&utm_medium=company">Ercot</a></strong></td>
 <td>Engineering Intern</td>
 <td>Austin, TX<br>Pflugerville, TX</td>
@@ -3468,7 +3461,7 @@
 </table>
 
 
-🔒 **[See 2999 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3000 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -5924,6 +5917,13 @@
 <td><div align="center"><a href="https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10272?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c947498c-696c-4157-9c98-39369b0c0d93?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Appen?utm_source=GHList&utm_medium=company">Appen</a></strong></td>
+<td>Engineer Intern – Summer Internship - GenAI Research 🎓</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://jobs.lever.co/appen-2/798e2ee1-9c3e-4f33-b22f-a0b2dfbccdf4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7dfd986-f7d4-4492-9ec3-a7c87de2ca90?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5950,13 +5950,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Appen?utm_source=GHList&utm_medium=company">Appen</a></strong></td>
-<td>Engineer Intern – Summer Internship - GenAI Research 🎓</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://jobs.lever.co/appen-2/798e2ee1-9c3e-4f33-b22f-a0b2dfbccdf4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7dfd986-f7d4-4492-9ec3-a7c87de2ca90?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sanctuary-AI?utm_source=GHList&utm_medium=company">Sanctuary AI</a></strong></td>
 <td>Machine Learning Research Intern - Reinforcement/Imitation Learning 🎓</td>

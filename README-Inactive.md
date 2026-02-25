@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 8919 Inactive Internship Roles by Category
+### Browse 8920 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2999)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3000)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (598)
 
@@ -1953,6 +1953,13 @@
 <td><strong><a href="https://simplify.jobs/c/SprinterHealth?utm_source=GHList&utm_medium=company">Sprinter Health</a></strong></td>
 <td>Software Engineer – Intern</td>
 <td>Menlo Park, CA</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC?utm_source=GHList&utm_medium=company">National Information Solutions Cooperative (NISC)</a></strong></td>
+<td>Intern Software Developer</td>
+<td>Bismarck, ND<br>Lake St Louis, MO</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -9087,7 +9094,7 @@
 <td>Undergrad Software Engineer Intern - Oracle Health and Analytics</td>
 <td><details><summary><strong>5 locations</strong></summary>Seattle, WA<br>San Carlos, CA<br>Pleasanton, CA<br>Santa Clara, CA<br>Kansas City, MO</details></td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BAE-Systems?utm_source=GHList&utm_medium=company">BAE Systems</a></strong></td>
@@ -14081,7 +14088,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
+<td>↳</td>
 <td>Comcast Software Engineer Intern</td>
 <td>Reston, VA</td>
 <td>🔒</td>
@@ -17560,7 +17567,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/NextGen-Federal-Systems?utm_source=GHList&utm_medium=company">NextGen Federal Systems</a></strong></td>
 <td>Cybersecurity Intern</td>
 <td>Remote in USA</td>
 <td>🔒</td>
@@ -35149,14 +35156,14 @@
 <td>Supply Chain Data Science Intern</td>
 <td>Ann Arbor, MI</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Supply Chain Data Science Intern 🎓</td>
 <td>Ann Arbor, MI</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/US-Conec?utm_source=GHList&utm_medium=company">US Conec</a></strong></td>
@@ -39720,7 +39727,7 @@
 <td>OCI GenAI PhD Research Intern – Return Internship - Summer 2025 🎓</td>
 <td>United States</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
@@ -49404,7 +49411,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Computational Diffractive Optics - PhD 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
@@ -53331,7 +53338,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/acadian-asset-management?utm_source=GHList&utm_medium=company">Acadian Asset Management</a></strong></td>
+<td>↳</td>
 <td>Quantitative Developer Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
@@ -60450,7 +60457,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Intern</td>
 <td>Burnsville, MN</td>
 <td>🔒</td>
