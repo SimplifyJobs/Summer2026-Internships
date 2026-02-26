@@ -2253,7 +2253,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Intelcom-Dragonfly?utm_source=GHList&utm_medium=company">Intelcom | Dragonfly</a></strong></td>
+<td>↳</td>
 <td>Software Development Intern - Last Mile</td>
 <td>Montreal, QC, Canada</td>
 <td>Spring 2026</td>
@@ -5978,7 +5978,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Milpitas, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AsteraLabs?utm_source=GHList&utm_medium=company">Astera Labs</a></strong></td>
@@ -7821,7 +7821,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>↳</td>
 <td>Network Operations Intern</td>
 <td>Hill AFB, UT</td>
 <td>Winter 2025</td>
@@ -9986,7 +9986,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Toronto, ON, Canada<br>NYC</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/t-rowe-price?utm_source=GHList&utm_medium=company">T. Rowe Price</a></strong></td>
@@ -13709,6 +13709,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Marketing-Applications-Development-Intern_2532181?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/81974415-b148-4b5f-a2b3-88490d3920e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td>Milpitas, CA</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2532589-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/579a1f1e-a7a3-4027-ae92-915808f0dad1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -13735,14 +13743,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern</td>
-<td>Milpitas, CA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2532589-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/579a1f1e-a7a3-4027-ae92-915808f0dad1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Applications Engineering Intern</td>
@@ -21040,7 +21040,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Atlanta, GA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Manifold-AI?utm_source=GHList&utm_medium=company">Manifold AI</a></strong></td>
