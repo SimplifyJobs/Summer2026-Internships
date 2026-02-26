@@ -10,6 +10,7 @@ from list_updater import (
     cmd_listings_diff,
     cmd_listings_fix,
     cmd_listings_mark_inactive,
+    cmd_listings_remove,
     cmd_listings_search,
     cmd_listings_stats,
     cmd_listings_validate,
@@ -66,6 +67,18 @@ def listings_mark_inactive(
 ) -> None:
     """Bulk mark listings as inactive from a GitHub issue."""
     cmd_listings_mark_inactive(str(event_file))
+
+
+@listings_app.command("remove")
+def listings_remove(
+    url: str | None = typer.Option(None, "--url", help="URL of the listing to remove"),
+    listing_id: str | None = typer.Option(None, "--id", help="UUID of the listing to remove"),
+    hide: bool = typer.Option(False, "--hide", help="Hide from all READMEs (set is_visible=false)"),
+    permanent: bool = typer.Option(False, "--permanent", help="Permanently delete from listings.json"),
+    confirm: bool = typer.Option(False, "--confirm", help="Required with --permanent to confirm deletion"),
+) -> None:
+    """Remove a listing by URL or ID. Default: mark inactive."""
+    cmd_listings_remove(url=url, listing_id=listing_id, hide=hide, permanent=permanent, confirm=confirm)
 
 
 @listings_app.command("stats")

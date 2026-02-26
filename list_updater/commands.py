@@ -584,3 +584,66 @@ def cmd_listings_mark_inactive(event_file: str) -> None:
     except Exception as e:
         fail(f"Error processing bulk mark inactive: {e!s}")
         return
+
+
+def cmd_listings_remove(
+    url: str | None = None,
+    listing_id: str | None = None,
+    hide: bool = False,
+    permanent: bool = False,
+    confirm: bool = False,
+) -> None:
+    """Remove a listing by URL or ID.
+
+    Default: mark inactive. --hide: set is_visible=false. --permanent: delete from JSON.
+    """
+    if not url and not listing_id:
+        fail("Must provide --url or --id")
+        return
+    if url and listing_id:
+        fail("Provide only one of --url or --id, not both")
+        return
+
+    if permanent and not confirm:
+        fail("--permanent requires --confirm flag (this permanently deletes the listing from listings.json)")
+        return
+
+    try:
+        with open(".github/scripts/listings.json") as f:
+            listings: list[dict[str, Any]] = json.load(f)
+    except Exception as e:
+        fail(f"Failed to load listings.json: {e!s}")
+        return
+
+    match_key = "url" if url else "id"
+    match_value = url or listing_id
+
+    matching = [lst for lst in listings if lst.get(match_key) == match_value]
+    if not matching:
+        fail(f"No listing found with {match_key}={match_value}")
+        return
+
+    listing = matching[0]
+    label = f"{listing['company_name']} - {listing['title']}"
+
+    if permanent:
+        listings.remove(listing)
+        print(f"Permanently deleted: {label}")
+    elif hide:
+        listing["is_visible"] = False
+        listing["date_updated"] = int(datetime.now().timestamp())
+        print(f"Hidden from READMEs: {label}")
+    else:
+        if not listing.get("active", True):
+            print(f"Already inactive: {label}")
+            return
+        listing["active"] = False
+        listing["date_updated"] = int(datetime.now().timestamp())
+        print(f"Marked inactive: {label}")
+
+    try:
+        with open(".github/scripts/listings.json", "w") as f:
+            json.dump(listings, f, indent=4)
+        print("listings.json updated successfully.")
+    except Exception as e:
+        fail(f"Failed to save listings.json: {e!s}")

@@ -11,6 +11,7 @@ from list_updater.category import classify_job_category, create_category_table, 
 from list_updater.commands import (
     cmd_contribution_process,
     cmd_listings_mark_inactive,
+    cmd_listings_remove,
     cmd_readme_update,
 )
 from list_updater.constants import (
@@ -54,6 +55,7 @@ __all__ = [
     "cmd_listings_diff",
     "cmd_listings_fix",
     "cmd_listings_mark_inactive",
+    "cmd_listings_remove",
     "cmd_listings_search",
     "cmd_listings_stats",
     "cmd_listings_validate",
