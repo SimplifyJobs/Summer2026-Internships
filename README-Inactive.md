@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 9372 Inactive Internship Roles by Category
+### Browse 9375 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3158)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3160)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (636)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (331)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1185)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1186)
 
 ---
 
@@ -91,6 +91,13 @@
 <td><strong><a href="https://simplify.jobs/c/Live-Nation-Entertainment?utm_source=GHList&utm_medium=company">Live Nation Entertainment</a></strong></td>
 <td>Intern Software Engineering</td>
 <td>Reston, VA</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company">Alarm.com</a></strong></td>
+<td>Software Engineer</td>
+<td>Vienna, VA</td>
 <td>🔒</td>
 <td>0d</td>
 </tr>
@@ -546,6 +553,13 @@
 <td><strong><a href="https://simplify.jobs/c/Elsevier?utm_source=GHList&utm_medium=company">Elsevier</a></strong></td>
 <td>Software Engineer Intern - Compass</td>
 <td><details><summary><strong>6 locations</strong></summary>NYC<br>Florida<br>Massachusetts<br>Georgia<br>Pennsylvania<br>North Carolina</details></td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td><details><summary><strong>7 locations</strong></summary>NYC<br>Louisiana<br>Florida<br>Massachusetts<br>Georgia<br>Pennsylvania<br>North Carolina</details></td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -11568,7 +11582,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Internship - Debugger Compiler Integration Intern - Debugger Compiler Integration</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -44644,7 +44658,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Intern - Privacy Preserving Machine Learning Engineering</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
@@ -54833,7 +54847,7 @@
 <td>Digital Analytics Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
@@ -57611,6 +57625,13 @@
 <td>↳</td>
 <td>Embedded Software Engineer</td>
 <td>Ottawa, ON, Canada</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Test Engineering Specialist Co-op</td>
+<td>Andover, MA</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
