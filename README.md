@@ -6571,7 +6571,7 @@
 <td>Intern, Data Science</td>
 <td>Princeton, NJ</td>
 <td><div align="center"><a href="https://jobs.dayforcehcm.com/en-US/taiho/CANDIDATEPORTAL/jobs/4707?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Voyager-Technologies?utm_source=GHList&utm_medium=company">Voyager Technologies</a></strong></td>
