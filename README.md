@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1765 Internship Roles by Category
+### Browse 1759 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (470)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (468)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (154)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (876)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (874)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (25)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (240)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (238)
 
 ---
 
@@ -162,13 +162,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CWAN?utm_source=GHList&utm_medium=company">CWAN</a></strong></td>
-<td>Software Development Intern</td>
-<td>Boise, ID</td>
-<td><div align="center"><a href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R11649?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/646083a8-0696-494f-b1a4-e39794341d55?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>AI Intern</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/AI-Intern_R11659?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a75c0643-23b2-4fc4-9e4d-3dc6bea7b18a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2359,13 +2352,6 @@
 <td>28d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Twilio?utm_source=GHList&utm_medium=company">Twilio</a></strong></td>
-<td>Software Engineer Intern - Canada</td>
-<td>Remote in Canada</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/twilio/jobs/7560248?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f3fdae49-f4e4-4692-a5d0-ecd731b783e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Perchwell?utm_source=GHList&utm_medium=company">Perchwell</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>NYC</td>
@@ -3384,7 +3370,7 @@
 </table>
 
 
-🔒 **[See 3262 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3264 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -5917,6 +5903,20 @@
 <td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Insights-Intern_R100120704?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/60bdef1d-571d-4869-88d3-ec21747a38c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Hospitality and Merchandise Insights Intern</td>
+<td>Frisco, TX</td>
+<td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Hospitality-and-Merchandise-Insights-Intern_R100120706?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6e140634-2528-4d97-8807-fb3ea4f79246?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Hospitality and Merchandise Insights Intern</td>
+<td>Toronto, ON, Canada</td>
+<td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/Toronto-ON-Canada/Hospitality-and-Merchandise-Insights-Intern_R100120701?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/42d4a2f4-b060-4dcf-b820-ab8a2ee85ef3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5943,20 +5943,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Hospitality and Merchandise Insights Intern</td>
-<td>Frisco, TX</td>
-<td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Hospitality-and-Merchandise-Insights-Intern_R100120706?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6e140634-2528-4d97-8807-fb3ea4f79246?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Hospitality and Merchandise Insights Intern</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/Toronto-ON-Canada/Hospitality-and-Merchandise-Insights-Intern_R100120701?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/42d4a2f4-b060-4dcf-b820-ab8a2ee85ef3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dentsu?utm_source=GHList&utm_medium=company">Dentsu</a></strong></td>
 <td>Dentsu Summer Experience Program – Internships in Data Experience - AI</td>
@@ -7537,7 +7523,7 @@
 <td>Intern - College of Engineering - Electrical and Computer Engineering</td>
 <td>Pittsburgh, PA</td>
 <td><div align="center"><a href="https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a40b0d99-edce-488b-89cb-90e7f91cc828?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Entegris?utm_source=GHList&utm_medium=company">Entegris</a></strong></td>
@@ -8118,13 +8104,6 @@
 <td>Intern Computational Materials Engineer</td>
 <td>Golden, CO</td>
 <td><div align="center"><a href="https://coorstek.wd1.myworkdayjobs.com/CoorsTekCareers/job/Golden-CO/Computational-Materials-Engineering-Intern_R-113293?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a2a85fbe-decd-47ca-8fb1-ba9e1acecab9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/HCAD?utm_source=GHList&utm_medium=company">Harris Central Appraisal District</a></strong></td>
-<td>GIS Summer Internship</td>
-<td>Houston, TX</td>
-<td><div align="center"><a href="https://hcad.wd5.myworkdayjobs.com/HCADCareers/job/Houston-Texas/GIS-Summer-Internship_JR417?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fcfe74a4-dc6b-46cf-9d1c-6018ef936a45?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>20d</td>
 </tr>
 <tr>
@@ -8881,13 +8860,6 @@
 <td>National Data Buoy Center – Summer 2026 Paid Internship or Apprenticeship - Ndbc</td>
 <td>John C. Stennis Space Center, MS</td>
 <td><div align="center"><a href="https://careers-lynker.icims.com/jobs/1491/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2ec493b2-67d5-41d2-b6cc-3c9e65867ea6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/KCI-Technologies?utm_source=GHList&utm_medium=company">KCI Technologies</a></strong></td>
-<td>Technology Intern</td>
-<td>Sparks, MD</td>
-<td><div align="center"><a href="https://careers-kci.icims.com/jobs/7456/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4dd75b01-f1d5-4464-896f-2351e5e29dac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
 </tr>
 <tr>
@@ -10672,7 +10644,7 @@
 </table>
 
 
-🔒 **[See 4231 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4233 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -11241,20 +11213,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company">Hewlett Packard (HP)</a></strong></td>
-<td>Software Engineering Intern - Systems - Hp IQ</td>
-<td>SF</td>
-<td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Systems---HP-IQ_3160452?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/38ced6de-e479-4d99-8b56-c9d48f2d17ca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineering Intern - Firmware</td>
-<td>SF</td>
-<td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Firmware---HP-IQ_3160498-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/495cd309-2833-45c1-8585-f726a282aecf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Software Engineering Intern - Wireless - HP IQ</td>
 <td>SF</td>
 <td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Wireless---HP-IQ_3160499-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/19bd8d17-158a-424d-825d-6162409f4046?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -12573,7 +12531,7 @@
 </table>
 
 
-🔒 **[See 1242 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1244 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
