@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1804 Internship Roles by Category
+### Browse 1805 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (479)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (148)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (904)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (905)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (25)
 
@@ -4532,6 +4532,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
+<td>Robotics AI Software- R&D 🎓</td>
+<td>Troy, MI</td>
+<td><div align="center"><a href="https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Software--R-D-Summer-2026_R00232838?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company">Veolia</a></strong></td>
 <td>AI Engineering Intern (LLM) 🎓</td>
 <td>Paramus, NJ</td>
@@ -5938,13 +5945,6 @@
 <td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Data-Science-Intern--PAI_R-058714?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4e71f929-c3df-402a-807d-f80ce0baead0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cardinal-Health?utm_source=GHList&utm_medium=company">Cardinal Health</a></strong></td>
-<td>Clinical Data & Analytics Intern</td>
-<td>Dublin, OH</td>
-<td><div align="center"><a href="https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Clinical-Data---Analytics-Internship--Summer-2026-_20176199?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8a77ca82-29a9-496b-a49f-2934c5c4451d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5971,6 +5971,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cardinal-Health?utm_source=GHList&utm_medium=company">Cardinal Health</a></strong></td>
+<td>Clinical Data & Analytics Intern</td>
+<td>Dublin, OH</td>
+<td><div align="center"><a href="https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Clinical-Data---Analytics-Internship--Summer-2026-_20176199?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8a77ca82-29a9-496b-a49f-2934c5c4451d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fidelity-Investments?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
 <td>Co-op Machine Learning 🎓</td>
