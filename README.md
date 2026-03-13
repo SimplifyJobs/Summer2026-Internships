@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1837 Internship Roles by Category
+### Browse 1835 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (492)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (491)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (151)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (894)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (893)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (25)
 
@@ -1670,13 +1670,6 @@
 <td>Software Engineer</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/deliveroo/3e0440a9-7abc-45b0-8520-d3e13083d0f3/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/84b3d819-d418-47e7-bba9-614ba0ff333e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
-<td>Software Engineering Intern - AI Agents</td>
-<td>Draper, UT</td>
-<td><div align="center"><a href="https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Software-Engineering-Intern---AI-Agents_R13776?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3ba52902-b7c1-4e4a-ab25-abd55f2ad58c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>15d</td>
 </tr>
 <tr>
@@ -3538,7 +3531,7 @@
 </table>
 
 
-🔒 **[See 3341 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3342 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -4669,13 +4662,6 @@
 <td>Intern – Data Science - Theatrical Marketing</td>
 <td>Culver City, CA</td>
 <td><div align="center"><a href="https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Data-Science--Theatrical-Marketing---Summer-2026_JR111734?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/db3e1e9a-e358-4fb9-81d9-83223c1e727f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/VSP-Vision?utm_source=GHList&utm_medium=company">VSP Vision</a></strong></td>
-<td>Intern - Agentic/Machine Learning Development</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Agentic-Machine-Learning-Development_R-9216-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/26825bdf-8880-4197-a81b-bc9b99fdb01b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5945,6 +5931,27 @@
 <td><div align="center"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38913?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2ab9d8f6-fb32-4f66-9b18-be92d39bbf31?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tuesday-Lab?utm_source=GHList&utm_medium=company">Tuesday Lab</a></strong></td>
+<td>Reinforcement Learning Intern - Bipedal Locomotion 🎓</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/tuesday-lab/18bd51cd-ee37-4d4b-b48e-9fefa2e5be3d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a6ecbc28-332e-48ba-82e5-895c9cb4c467?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Coherent?utm_source=GHList&utm_medium=company">Coherent </a></strong></td>
+<td>Intern - AI and Machine Learning</td>
+<td>Tarentum, PA</td>
+<td><div align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010408?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a01fe5c8-36dc-4b6c-92f5-664d6dd7604b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Proxima-Bio?utm_source=GHList&utm_medium=company">Proxima</a></strong></td>
+<td>Target Prioritization CS Intern</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/proxima/efacdf8d-966b-47a9-9ea7-07958050ecea/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a4388a3e-cea8-4514-b572-a8874746ee53?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>7d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5971,27 +5978,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Tuesday-Lab?utm_source=GHList&utm_medium=company">Tuesday Lab</a></strong></td>
-<td>Reinforcement Learning Intern - Bipedal Locomotion 🎓</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/tuesday-lab/18bd51cd-ee37-4d4b-b48e-9fefa2e5be3d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a6ecbc28-332e-48ba-82e5-895c9cb4c467?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Coherent?utm_source=GHList&utm_medium=company">Coherent </a></strong></td>
-<td>Intern - AI and Machine Learning</td>
-<td>Tarentum, PA</td>
-<td><div align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010408?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a01fe5c8-36dc-4b6c-92f5-664d6dd7604b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Proxima-Bio?utm_source=GHList&utm_medium=company">Proxima</a></strong></td>
-<td>Target Prioritization CS Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/proxima/efacdf8d-966b-47a9-9ea7-07958050ecea/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a4388a3e-cea8-4514-b572-a8874746ee53?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KLA-Corporation?utm_source=GHList&utm_medium=company">KLA Corporation</a></strong></td>
 <td>Optical Intern</td>
@@ -10931,7 +10917,7 @@
 </table>
 
 
-🔒 **[See 4349 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4350 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
