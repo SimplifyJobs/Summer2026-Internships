@@ -4869,7 +4869,7 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>https://www.ensono.com/careers/intern-capacity-management-data-analyst/</td>
+<td>Intern – Capacity Management Data Analyst</td>
 <td>Remote in US</td>
 <td><div align="center"><a href="https://www.ensono.com/careers/intern-capacity-management-data-analyst/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>1d</td>
