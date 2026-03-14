@@ -18,8 +18,9 @@ def get_locations(listing: Listing) -> str:
     Returns:
         HTML-formatted location string.
     """
-    locations = "<br>".join(listing["locations"])
-    if len(listing["locations"]) <= 3:
+    locations_list = listing.get("locations", [])
+    locations = "<br>".join(locations_list)
+    if len(locations_list) <= 3:
         return locations
     num = str(len(listing["locations"])) + " locations"
     return f"<details><summary><strong>{num}</strong></summary>{locations}</details>"
@@ -183,7 +184,7 @@ def create_md_table(listings: list[Listing], off_season: bool = False) -> str:
         link = get_link(listing)
 
         # Calculate days active
-        days_active = (datetime.now() - datetime.fromtimestamp(listing["date_posted"])).days
+        days_active = (datetime.utcnow() - datetime.fromtimestamp(listing["date_posted"])).days
         days_active = max(days_active, 0)  # in case somehow negative
         if days_active == 0:
             days_display = "0d"
