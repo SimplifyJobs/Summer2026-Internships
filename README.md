@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1856 Internship Roles by Category
+### Browse 1857 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (501)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (502)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (157)
 
@@ -92,6 +92,13 @@
 <tbody>
 <tr>
 <td><strong>HERE</strong></td>
+<td>Software Engineer Intern</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://careers-here.icims.com/jobs/80772/software-engineer-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://careers-here.icims.com/jobs/80793/software-engineer-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
