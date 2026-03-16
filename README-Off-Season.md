@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 255 Internship Roles by Category
+### Browse 254 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (74)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (20)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (113)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (112)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (3)
 
@@ -1738,7 +1738,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Pittsburgh, PA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PA-Consulting?utm_source=GHList&utm_medium=company">PA Consulting</a></strong></td>
@@ -1746,7 +1746,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Manchester, UK</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -2733,7 +2733,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Oak Ridge, TN</td>
 <td>Spring 2026</td>
@@ -2797,12 +2797,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Intern Engineer - Clearance Required</td>
 <td>Kitsap County, WA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/By-Light-Professional-IT-Services?utm_source=GHList&utm_medium=company">By Light Professional IT Services</a></strong></td>
@@ -2810,7 +2810,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Orlando, FL</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO-Bank?utm_source=GHList&utm_medium=company">BMO </a></strong></td>
@@ -2818,7 +2818,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Apex-Fintech-Solutions?utm_source=GHList&utm_medium=company">Apex Fintech Solutions</a></strong></td>
@@ -3973,7 +3973,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Root-Access?utm_source=GHList&utm_medium=company">Root Access</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>New York City, NY</td>
 <td>Spring 2026</td>
@@ -6610,7 +6610,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Boston, MA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nelnet?utm_source=GHList&utm_medium=company">Nelnet</a></strong></td>
@@ -6618,7 +6618,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Lincoln, NE</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Valmont?utm_source=GHList&utm_medium=company">Valmont</a></strong></td>
@@ -13509,20 +13509,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a843b74c-a97a-4fa8-a497-da14a8caaa1f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/PA-Consulting?utm_source=GHList&utm_medium=company">PA Consulting</a></strong></td>
-<td>2026 Apprentice - Digital - Data Science</td>
-<td>Belfast, UK</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000103726585?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a6c20ee9-648a-4a18-a7f4-af646dcdf7ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (1615)</summary>
+<summary>🗃️ Inactive roles (1616)</summary>
 
 <table>
 <thead>
@@ -13606,7 +13598,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Indianapolis, IN</td>
 <td>Winter 2026</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Legal-And-General?utm_source=GHList&utm_medium=company">Legal & General</a></strong></td>
@@ -14048,6 +14040,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Energy-Northwest?utm_source=GHList&utm_medium=company">Energy Northwest</a></strong></td>
+<td>Engineering Intern</td>
+<td>Richland, WA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -14074,14 +14074,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Energy-Northwest?utm_source=GHList&utm_medium=company">Energy Northwest</a></strong></td>
-<td>Engineering Intern</td>
-<td>Richland, WA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DraftKings?utm_source=GHList&utm_medium=company">DraftKings</a></strong></td>
 <td>Data Science Co-Op</td>
@@ -14880,7 +14872,15 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Austin, TX</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/PA-Consulting?utm_source=GHList&utm_medium=company">PA Consulting</a></strong></td>
+<td>2026 Apprentice - Digital - Data Science</td>
+<td>Belfast, UK</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ryan?utm_source=GHList&utm_medium=company">Ryan</a></strong></td>
@@ -16480,7 +16480,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Florence, KY</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Schreiber-Foods?utm_source=GHList&utm_medium=company">Schreiber Foods</a></strong></td>
@@ -16488,7 +16488,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Green Bay, WI</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -16496,7 +16496,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Mountain View, CA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
@@ -16504,7 +16504,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>London, UK</td>
 <td>Winter 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SolarWinds?utm_source=GHList&utm_medium=company">SolarWinds</a></strong></td>
@@ -29457,7 +29457,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Root-Access?utm_source=GHList&utm_medium=company">Root Access</a></strong></td>
 <td>Firmware Engineer Intern</td>
 <td>New York City, NY</td>
 <td>Spring 2026</td>
@@ -31897,7 +31897,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>Embedded Software Developer Intern - Multiple Teams</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026</td>
