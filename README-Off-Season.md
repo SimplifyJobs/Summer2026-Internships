@@ -4485,7 +4485,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cintas?utm_source=GHList&utm_medium=company">Cintas</a></strong></td>
 <td>IT Intern Middleware - Integrations</td>
 <td>Mason, OH</td>
 <td>Winter 2025</td>
