@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 2052 Internship Roles by Category
+### Browse 2051 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (560)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (180)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (963)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (962)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (28)
 
@@ -7068,7 +7068,7 @@
 <td>Process Engineer Intern-Master's 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineer-Intern--Master-s--Santa-Clara--CA-_R2612748-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4bb610a3-89e0-438b-9de1-3d9cbbf69eca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
@@ -10480,13 +10480,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
-<td>Software Developer – Co-op/Internship - Summer 2026 - Weeks</td>
-<td>Georgia</td>
-<td><div align="center"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Virtual-GA-USA/Software-Developer--Summer-2026---Co-op-Internship----10-Weeks_R260004443?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/da2fc1cd-55df-400c-80dc-766efc5245fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/CFD-Research-Corporation?utm_source=GHList&utm_medium=company">CFD Research Corporation</a></strong></td>
 <td>Intern – Hypersonic Research Engineer - Experiment Data Analysis Summer 2026 - Huntsville</td>
 <td>Huntsville, AL</td>
@@ -12093,7 +12086,7 @@
 </table>
 
 
-🔒 **[See 4406 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4407 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
