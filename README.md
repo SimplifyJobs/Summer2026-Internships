@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2154 Internship Roles by Category
+### Browse 2155 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (609)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (610)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (185)
 
@@ -90,6 +90,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Intern Software Engineer 🇺🇸</td>
+<td>Orlando, FL</td>
+<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/71415/intern-software-engineer---orlando/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
 <td>Software Operations Intern</td>
@@ -5952,13 +5959,6 @@
 <td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Planning-Analyst---Summer-Student_R-0000164329?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/903b006e-4dc6-4ffe-958c-09395fe2c97f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Wealth Management Data Analyst</td>
-<td>Norwell, MA</td>
-<td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Norwell-Massachusetts-United-States-of-America/XMLNAME-2026-Wealth-Management-Summer-Data-Analyst--4-Months-_R-0000163505-3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6c17c321-0cf1-42f7-b8f5-1020d208f509?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5985,6 +5985,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Wealth Management Data Analyst</td>
+<td>Norwell, MA</td>
+<td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Norwell-Massachusetts-United-States-of-America/XMLNAME-2026-Wealth-Management-Summer-Data-Analyst--4-Months-_R-0000163505-3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6c17c321-0cf1-42f7-b8f5-1020d208f509?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Business Systems – Tools & AI Solutions Intern</td>
