@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2156 Internship Roles by Category
+### Browse 2157 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (611)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (612)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (185)
 
@@ -92,6 +92,13 @@
 <tbody>
 <tr>
 <td><strong>GameChanger</strong></td>
+<td>Software Engineer Summer Intern, Revenue Growth</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/gamechanger/e782e817-22d9-4524-a653-b94913001dae?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Summer Intern, Fan Experience</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/gamechanger/6087eacc-a1d0-41ec-af26-0d1cf1e9e9a1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
