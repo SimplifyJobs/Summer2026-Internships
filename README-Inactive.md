@@ -11309,7 +11309,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Obsidian-Entertainment?utm_source=GHList&utm_medium=company">Obsidian Entertainment</a></strong></td>
+<td>↳</td>
 <td>Area Designer Intern - Area Design</td>
 <td>Irvine, CA</td>
 <td>🔒</td>
