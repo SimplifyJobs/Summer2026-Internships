@@ -20235,7 +20235,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Agilent-Technologies?utm_source=GHList&utm_medium=company">Agilent Technologies</a></strong></td>
+<td>↳</td>
 <td>Intern – Predictive Sales Prospecting</td>
 <td>Wilmington, DE</td>
 <td>Winter 2025</td>
