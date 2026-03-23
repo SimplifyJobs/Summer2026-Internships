@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2269 Internship Roles by Category
+### Browse 2270 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (655)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (656)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (204)
 
@@ -90,6 +90,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Avnet?utm_source=GHList&utm_medium=company">Avnet</a></strong></td>
+<td>Cloud Operations Intern 🛂</td>
+<td>Chandler, AZ</td>
+<td><div align="center"><a href="https://avnet.wd1.myworkdayjobs.com/external/job/Chandler-Arizona-United-States-Of-America/Cloud-Operations-Intern_JR-022103?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Treefera?utm_source=GHList&utm_medium=company">Treefera</a></strong></td>
 <td>Treefera Intern Programme</td>
@@ -445,7 +452,7 @@
 <td>Intern Software Engineer 🇺🇸</td>
 <td>Orlando, FL</td>
 <td><div align="center"><a href="https://careers-gdms.icims.com/jobs/71415/intern-software-engineer---orlando/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
@@ -1180,28 +1187,28 @@
 <td>Software Imaging Intern 🛂</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://external-canoncareers.icims.com/jobs/34091/software-imaging-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
 <td>Software Product Owner Intern</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://careers-biorad.icims.com/jobs/38272/software-product-owner%2c-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong>OnLogic</strong></td>
 <td>Firmware Engineering Co-Op 🇺🇸</td>
 <td>Cary, NC</td>
 <td><div align="center"><a href="https://apply.workable.com/onlogic-inc/j/3216896A90/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Firmware Engineering Internship 🇺🇸</td>
 <td>South Burlington, VT</td>
 <td><div align="center"><a href="https://apply.workable.com/onlogic-inc/j/8291FD6903/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company">Alarm.com</a></strong></td>
@@ -6578,28 +6585,28 @@
 <td>AI Engineer Intern</td>
 <td>Milford, MA</td>
 <td><div align="center"><a href="https://uscareers-waters.icims.com/jobs/25802/2026-25802/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
 <td>Data Science Intern</td>
 <td>Pleasanton, CA</td>
 <td><div align="center"><a href="https://careers-biorad.icims.com/jobs/38291/data-science-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>AI/ML Intern</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://careers-biorad.icims.com/jobs/38297/ai-ml-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong>Arvinas</strong></td>
 <td>Computational Chemistry & Artificial Intelligence 🛂</td>
 <td>New Haven, CT</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/arvinas/jobs/7667612003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
@@ -7362,7 +7369,7 @@
 <td>Intern, AI Engineering</td>
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://careers-powerschool.icims.com/jobs/52599/intern%2c-ai-engineering/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Of-Nebraska?utm_source=GHList&utm_medium=company">State of Nebraska</a></strong></td>
