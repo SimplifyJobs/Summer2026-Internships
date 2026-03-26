@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 10891 Inactive Internship Roles by Category
+### Browse 10898 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3587)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3590)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (754)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4790)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4794)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (335)
 
@@ -163,6 +163,20 @@
 <td>London, UK</td>
 <td>🔒</td>
 <td>2d</td>
+</tr>
+<tr>
+<td><strong>Erickson Senior Living</strong></td>
+<td>Intern – Software Engineer</td>
+<td>Baltimore, MD</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Avnet?utm_source=GHList&utm_medium=company">Avnet</a></strong></td>
+<td>Cloud Operations Intern 🛂</td>
+<td>Chandler, AZ</td>
+<td>🔒</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Treefera?utm_source=GHList&utm_medium=company">Treefera</a></strong></td>
@@ -1232,6 +1246,13 @@
 <td><strong><a href="https://simplify.jobs/c/SSOE-Group?utm_source=GHList&utm_medium=company">SSOE Group</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Toledo, OH</td>
+<td>🔒</td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Jabil?utm_source=GHList&utm_medium=company">Jabil</a></strong></td>
+<td>Quality Assurance Intern – Cloud Applications</td>
+<td>Lexington, KY</td>
 <td>🔒</td>
 <td>19d</td>
 </tr>
@@ -16458,7 +16479,7 @@
 <td>Research Intern - Security Research Group 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Computershare?utm_source=GHList&utm_medium=company">Computershare</a></strong></td>
@@ -30601,6 +30622,13 @@
 <td>2d</td>
 </tr>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
+<td>Intern - Applied AI Strategy & Research</td>
+<td>San Francisco, CA</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
 <td>Materials Simulation Engineering Intern</td>
 <td>Santa Clara, CA</td>
@@ -31350,6 +31378,13 @@
 <td>13d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Analytical-Mechanics-Associates?utm_source=GHList&utm_medium=company">Analytical Mechanics Associates</a></strong></td>
+<td>Algorithm Development - Intern 🛂</td>
+<td>Remote in US</td>
+<td>🔒</td>
+<td>13d</td>
+</tr>
+<tr>
 <td><strong>Bosch Group</strong></td>
 <td>Sales Data Science & Analytics Intern 🛂</td>
 <td>Farmington Hills, MI</td>
@@ -31997,6 +32032,20 @@
 <td><strong><a href="https://simplify.jobs/c/Zayo?utm_source=GHList&utm_medium=company">Zayo</a></strong></td>
 <td>Intern - AI and Analytics COE</td>
 <td>Denver, CO</td>
+<td>🔒</td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sandisk?utm_source=GHList&utm_medium=company">Sandisk</a></strong></td>
+<td>IT Data Science Intern (Business / Operations / Strategy) 🎓</td>
+<td>Milpitas, CA</td>
+<td>🔒</td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>Robert Bosch</strong></td>
+<td>Foundation Models for Autonomous Driving - AI Engineering Intern 🎓</td>
+<td>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>19d</td>
 </tr>
@@ -56100,7 +56149,7 @@
 <td>Biomarker Data Analysis Intern - Biomarker Data Analysis</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
