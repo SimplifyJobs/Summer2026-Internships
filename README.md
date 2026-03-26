@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1798 Internship Roles by Category
+### Browse 1796 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (540)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (168)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (790)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (788)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (26)
 
@@ -6693,13 +6693,6 @@
 <td>11d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Axos-Bank?utm_source=GHList&utm_medium=company">Axos Bank</a></strong></td>
-<td>Strategy & Data Analyst Intern</td>
-<td>San Diego, CA</td>
-<td><div align="center"><a href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Strategy---Data-Analyst-Intern_JR3588?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/db973373-1f37-4a28-a35f-0636e8d7e859?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Maersk?utm_source=GHList&utm_medium=company">Maersk</a></strong></td>
 <td>Product Analyst Intern</td>
 <td>Downey, CA</td>
@@ -7425,13 +7418,6 @@
 <td>IT SAP Analyst</td>
 <td><details><summary><strong>4 locations</strong></summary>Waterbury, CT<br>Rhode Island<br>Massachusetts<br>Manchester, CT</details></td>
 <td><div align="center"><a href="https://bobsdf.wd1.myworkdayjobs.com/bobs_careers/job/Corporate-Headquarters-Manchester-CT/IT-SAP-Intern_R-30874?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/13dca38f-d493-4065-8dcf-1f42665509a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
-<td>Millennium Space Systems Intern Program – Data Engineer Intern</td>
-<td>El Segundo, CA</td>
-<td><div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Data-Engineer-Intern_JR2026499816-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/244a9909-1c91-4de8-96e5-23987daa7e2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>16d</td>
 </tr>
 <tr>
@@ -10658,7 +10644,7 @@
 </table>
 
 
-🔒 **[See 4786 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4788 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
