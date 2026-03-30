@@ -51739,14 +51739,14 @@
 <td>Business Insights and Analytics Intern - Business Analytics</td>
 <td>Annapolis Junction, MD</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Merck?utm_source=GHList&utm_medium=company">Merck</a></strong></td>
 <td>2026 Future Talent Program – Operational Excellence Intern - Environmental Health and Safety - Ehs</td>
 <td>North Wales, PA<br>Linden, NJ<br>Dublin, Ireland</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
