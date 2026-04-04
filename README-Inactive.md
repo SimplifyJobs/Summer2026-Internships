@@ -6,11 +6,11 @@
 
 ---
 
-### Browse 11554 Inactive Internship Roles by Category
+### Browse 11553 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3758)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (812)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (811)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5113)
 
@@ -1411,13 +1411,6 @@
 <td>18d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Technology Intern</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>18d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra-Space?utm_source=GHList&utm_medium=company">Sierra Space</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Centennial, CO<br>Lafayette, CO</td>
@@ -1957,6 +1950,13 @@
 <td>24d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Assurant?utm_source=GHList&utm_medium=company">Assurant</a></strong></td>
+<td>Software Engineering Intern</td>
+<td>Florida<br>Georgia</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Precisely?utm_source=GHList&utm_medium=company">Precisely</a></strong></td>
 <td>AI Engineering Intern</td>
 <td>Remote in USA</td>
@@ -2332,21 +2332,21 @@
 <td>Software Developer Intern</td>
 <td>Fort Lauderdale, FL</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Developer Intern</td>
 <td>Exton, PA</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jabil?utm_source=GHList&utm_medium=company">Jabil</a></strong></td>
 <td>Quality Assurance Intern – Cloud Applications</td>
 <td>Lexington, KY</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arch-Capital-Group?utm_source=GHList&utm_medium=company">Arch Capital Group</a></strong></td>
@@ -17266,7 +17266,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CH-Robinson?utm_source=GHList&utm_medium=company">C.H. Robinson</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Eden Prairie, MN</td>
 <td>🔒</td>
@@ -26842,13 +26842,6 @@
 <td>24d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Circle?utm_source=GHList&utm_medium=company">Circle</a></strong></td>
-<td>Intern – Product Management</td>
-<td>SF</td>
-<td>🔒</td>
-<td>25d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Henry-Schein?utm_source=GHList&utm_medium=company">Henry Schein</a></strong></td>
 <td>Intern - Product Category Management Operations</td>
 <td>Remote in USA</td>
@@ -26944,7 +26937,7 @@
 <td>Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -32155,13 +32148,6 @@
 <td>1d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Machine Learning Intern 🎓</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>1d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Hartford-Financial-Services?utm_source=GHList&utm_medium=company">The Hartford </a></strong></td>
 <td>Intern Data - Multiple Teams</td>
 <td>Columbus, OH</td>
@@ -34871,25 +34857,32 @@
 <td>28d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/aaf65e1d-f377-4a72-8fee-8cabad030ec6?utm_source=GHList&utm_medium=company">Universal Music Group Careers</a></strong></td>
+<td>Universal Music Group Creative & Operations</td>
+<td>Nashville, TN<br>Franklin, TN</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Zayo?utm_source=GHList&utm_medium=company">Zayo</a></strong></td>
 <td>Intern - AI and Analytics COE</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sandisk?utm_source=GHList&utm_medium=company">Sandisk</a></strong></td>
 <td>IT Data Science Intern (Business / Operations / Strategy) 🎓</td>
 <td>Milpitas, CA</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong>Robert Bosch</strong></td>
 <td>Foundation Models for Autonomous Driving - AI Engineering Intern 🎓</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -46793,7 +46786,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/DC-Water?utm_source=GHList&utm_medium=company">DC Water</a></strong></td>
+<td>↳</td>
 <td>Intern</td>
 <td>Washington, DC</td>
 <td>🔒</td>
@@ -54648,6 +54641,13 @@
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>Machine Learning Engineer Intern - Monetization Technology - Ads Creative</td>
+<td>San Jose, CA</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - TikTok Search E-Commerce Team</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -67911,13 +67911,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Data Scientist Intern - Tiktok-Search</td>
-<td>San Jose, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -77201,7 +77194,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Lumafield?utm_source=GHList&utm_medium=company">Lumafield</a></strong></td>
+<td>↳</td>
 <td>Engineering Intern - Process</td>
 <td>Cambridge, MA<br>Boston, MA</td>
 <td>🔒</td>
@@ -78118,7 +78111,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>Intern - Software Engineering - Multiple Teams 🎓</td>
 <td>SF</td>
 <td>🔒</td>
