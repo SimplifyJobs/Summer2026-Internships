@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11500 Inactive Internship Roles by Category
+### Browse 11513 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3736)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3742)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (804)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5098)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5105)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (329)
 
@@ -228,6 +228,20 @@
 <td>5d</td>
 </tr>
 <tr>
+<td><strong>Palomar Products</strong></td>
+<td>Software Engineering Intern - Onsite 🇺🇸</td>
+<td>Rancho Santa Margarita, CA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Creatify</strong></td>
+<td>Software Engineer Intern 🛂</td>
+<td>Mountain View, CA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Myriad-Genetics?utm_source=GHList&utm_medium=company">Myriad Genetics</a></strong></td>
 <td>Software Engineer Technology</td>
 <td>Remote in USA</td>
@@ -317,6 +331,13 @@
 <td>Boston, MA</td>
 <td>🔒</td>
 <td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Johnson-Controls?utm_source=GHList&utm_medium=company">Johnson Controls</a></strong></td>
+<td>Software Engineering Intern</td>
+<td>Milwaukee, WI</td>
+<td>🔒</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Guidewire?utm_source=GHList&utm_medium=company">Guidewire</a></strong></td>
@@ -1530,6 +1551,13 @@
 <td>21d</td>
 </tr>
 <tr>
+<td><strong>Bio-Rad Laboratories</strong></td>
+<td>Software Product Owner Intern</td>
+<td>Irvine, CA</td>
+<td>🔒</td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company">DotDash Meredith</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Remote in Canada</td>
@@ -1787,6 +1815,13 @@
 <td>Bellevue, WA</td>
 <td>🔒</td>
 <td>24d</td>
+</tr>
+<tr>
+<td><strong>FanThreeSixty</strong></td>
+<td>Software Engineer Intern</td>
+<td>Leawood, KS</td>
+<td>🔒</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nightwing-Intelligence-Solutions?utm_source=GHList&utm_medium=company">Nightwing Intelligence Solutions</a></strong></td>
@@ -2674,6 +2709,13 @@
 <td>↳</td>
 <td>Software Development Intern</td>
 <td>Markham, IL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Idaho Housing and Finance Assocication</strong></td>
+<td>Information Technology Intern 🛂</td>
+<td>Boise, ID</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -24231,7 +24273,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Internship</td>
 <td>Pittsburgh, PA</td>
 <td>🔒</td>
@@ -30304,7 +30346,7 @@
 <td>Intern - Product Marketing - Product Marketing</td>
 <td>Denmark, WI</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Exact-Sciences?utm_source=GHList&utm_medium=company">Exact Sciences</a></strong></td>
@@ -32064,6 +32106,20 @@
 <td>5d</td>
 </tr>
 <tr>
+<td><strong>TALON</strong></td>
+<td>AI/ML Engineering Intern 🇺🇸</td>
+<td>Reston, VA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Terabase</strong></td>
+<td>Robotics & Autonomy Engineering Intern</td>
+<td>Davis, CA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
 <td>Market Intelligence Intern</td>
 <td>Santa Clara, CA<br>Hillsboro, OR</td>
@@ -32125,6 +32181,13 @@
 <td>Little Rock, AR</td>
 <td>🔒</td>
 <td>6d</td>
+</tr>
+<tr>
+<td><strong>DEKA Research & Development</strong></td>
+<td>Machine Learning- Internship- Generative AI and Computer Vision 🎓</td>
+<td>Manchester, NH</td>
+<td>🔒</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company">Altera Corporation</a></strong></td>
@@ -32652,6 +32715,13 @@
 <td>14d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/City-Of-Philadelphia?utm_source=GHList&utm_medium=company">City of Philadelphia</a></strong></td>
+<td>Data Analyst Intern 🇺🇸</td>
+<td>Philadelphia, PA</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
 <td>Intern - Applied AI Strategy & Research</td>
 <td>San Francisco, CA</td>
@@ -32914,6 +32984,20 @@
 <td><strong><a href="https://simplify.jobs/c/Riverside-Research?utm_source=GHList&utm_medium=company">Riverside Research</a></strong></td>
 <td>AI/ML Intern 🇺🇸</td>
 <td>Dayton, OH</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>Bio-Rad Laboratories</strong></td>
+<td>Data Science Intern</td>
+<td>Pleasanton, CA</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>AI/ML Intern</td>
+<td>Irvine, CA</td>
 <td>🔒</td>
 <td>18d</td>
 </tr>
@@ -33259,6 +33343,13 @@
 <td>United States</td>
 <td>🔒</td>
 <td>19d</td>
+</tr>
+<tr>
+<td><strong>Bio-Rad Laboratories</strong></td>
+<td>Data Scientist Intern</td>
+<td>Irvine, CA</td>
+<td>🔒</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Interdigital?utm_source=GHList&utm_medium=company">Interdigital</a></strong></td>
@@ -38469,7 +38560,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026</td>
 <td>Glendale, CA</td>
 <td>🔒</td>
@@ -53576,7 +53667,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
 <td>2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern 🎓 🛂</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
@@ -75388,7 +75479,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>↳</td>
 <td>Computer Engineer Intern</td>
 <td>Beavercreek, OH</td>
 <td>🔒</td>
