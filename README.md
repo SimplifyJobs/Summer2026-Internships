@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1494 Internship Roles by Category
+### Browse 1493 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (430)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (429)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (152)
 
@@ -305,13 +305,6 @@
 <td>Software Engineer Intern</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/7774167?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dff947d1-40bd-4f5e-8076-ee60983486f8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Automation Engineer Intern</td>
-<td>Austin, TX</td>
-<td><div align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/7774224?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/52e7a29c-bb91-4fe3-8f65-57227508e5a8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -2041,7 +2034,7 @@
 <td>Embedded Software Engineering Intern 🇺🇸</td>
 <td>Columbia City, IN</td>
 <td><div align="center"><a href="https://ultra.wd3.myworkdayjobs.com/en-US/ultra-careers/job/Columbia-City-IN-United-States/Embedded-Software-Engineering-Intern--Summer-2026-_REQ-11562?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tilde-Research?utm_source=GHList&utm_medium=company">Tilde Research</a></strong></td>
@@ -3104,7 +3097,7 @@
 </table>
 
 
-🔒 **[See 3749 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3750 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -6050,6 +6043,13 @@
 <td><div align="center"><a href="https://careers-berkley.icims.com/jobs/13628/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/55ce5d94-9f4d-4ea4-a7bc-b0da872bbdcc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>19d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Dordt-University?utm_source=GHList&utm_medium=company">Dordt University</a></strong></td>
+<td>AI & Automation Data Scientist Intern</td>
+<td>Montreal, QC, Canada<br>Toronto, ON, Canada<br>Ottawa, ON, Canada</td>
+<td><div align="center"><a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=103328&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb92bc87-4a8a-489c-b71c-269f42f8171b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>19d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6076,13 +6076,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dordt-University?utm_source=GHList&utm_medium=company">Dordt University</a></strong></td>
-<td>AI & Automation Data Scientist Intern</td>
-<td>Montreal, QC, Canada<br>Toronto, ON, Canada<br>Ottawa, ON, Canada</td>
-<td><div align="center"><a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=103328&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb92bc87-4a8a-489c-b71c-269f42f8171b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c?utm_source=GHList&utm_medium=company">EverCommerce</a></strong></td>
 <td>Evercommerce – Data Engineering Intern</td>
@@ -6956,7 +6949,7 @@
 <td>Data Science Intern 🛂</td>
 <td>Madison, WI</td>
 <td><div align="center"><a href="https://accuray.wd5.myworkdayjobs.com/en-US/external/job/Madison-WI/Data-Science-Intern_3081?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tuesday-Lab?utm_source=GHList&utm_medium=company">Tuesday Lab</a></strong></td>
@@ -10124,7 +10117,7 @@
 <td>Flight Software Engineering Intern 🇺🇸</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>

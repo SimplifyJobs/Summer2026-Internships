@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11528 Inactive Internship Roles by Category
+### Browse 11529 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3749)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3750)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (805)
 
@@ -93,6 +93,13 @@
 <td>San Diego, CA</td>
 <td>🔒</td>
 <td>2d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
+<td>Automation Engineer Intern</td>
+<td>Austin, TX</td>
+<td>🔒</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Revvity?utm_source=GHList&utm_medium=company">Revvity</a></strong></td>
@@ -2381,21 +2388,21 @@
 <td>Software Developer Intern</td>
 <td>Fort Lauderdale, FL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Developer Intern</td>
 <td>Exton, PA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jabil?utm_source=GHList&utm_medium=company">Jabil</a></strong></td>
 <td>Quality Assurance Intern – Cloud Applications</td>
 <td>Lexington, KY</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arch-Capital-Group?utm_source=GHList&utm_medium=company">Arch Capital Group</a></strong></td>
@@ -14008,14 +14015,14 @@
 <td>Simulation Software Engineering Intern - Summer 2026</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blue-Shield-Of-California?utm_source=GHList&utm_medium=company">Blue Shield of California</a></strong></td>
 <td>Mobile Developer Internship - MDCC Applications - Mobile App Development (iOS/Android)</td>
 <td><details><summary><strong>8 locations</strong></summary>Redding, CA<br>Long Beach, CA<br>Rancho Cordova, CA<br>Galt, CA<br>Canoga Park, LA<br>Oakland, CA<br>El Dorado Hills, CA<br>San Diego, CA</details></td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MongoDB?utm_source=GHList&utm_medium=company">MongoDB</a></strong></td>
@@ -17011,7 +17018,7 @@
 <td>Enterprise Application Intern - Technology</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -17504,7 +17511,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CH-Robinson?utm_source=GHList&utm_medium=company">C.H. Robinson</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Eden Prairie, MN</td>
 <td>🔒</td>
@@ -34749,21 +34756,21 @@
 <td>Intern - AI and Analytics COE</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sandisk?utm_source=GHList&utm_medium=company">Sandisk</a></strong></td>
 <td>IT Data Science Intern (Business / Operations / Strategy) 🎓</td>
 <td>Milpitas, CA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong>Robert Bosch</strong></td>
 <td>Foundation Models for Autonomous Driving - AI Engineering Intern 🎓</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -46786,7 +46793,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/DC-Water?utm_source=GHList&utm_medium=company">DC Water</a></strong></td>
+<td>↳</td>
 <td>Intern</td>
 <td>Washington, DC</td>
 <td>🔒</td>
@@ -53062,7 +53069,7 @@
 <td>2026 Summer GIS Intern - Hybrid Schedule</td>
 <td>Manchester, NH<br>Dartmouth, MA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bloom-Energy?utm_source=GHList&utm_medium=company">Bloom Energy</a></strong></td>
@@ -76407,7 +76414,7 @@
 <td>Summer 2026 Internship - Engineering</td>
 <td>Cape Canaveral, FL<br>Quincy, WA<br>Kent, WA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Moog?utm_source=GHList&utm_medium=company">Moog </a></strong></td>
@@ -77054,7 +77061,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Lumafield?utm_source=GHList&utm_medium=company">Lumafield</a></strong></td>
+<td>↳</td>
 <td>Engineering Intern - Process</td>
 <td>Cambridge, MA<br>Boston, MA</td>
 <td>🔒</td>
@@ -77971,7 +77978,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>Intern - Software Engineering - Multiple Teams 🎓</td>
 <td>SF</td>
 <td>🔒</td>
