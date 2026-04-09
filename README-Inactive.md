@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11762 Inactive Internship Roles by Category
+### Browse 11764 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3828)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (828)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5205)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5207)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (330)
 
@@ -2199,7 +2199,7 @@
 <td>Year-Round Intern - Software Engineering Risk Analytics 🛂</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
@@ -12503,7 +12503,7 @@
 <td>ZOETIS Tech & Digital – Solutions Architecture & Engineering Intern - Ztd - Gms</td>
 <td>Parsippany-Troy Hills, NJ</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c?utm_source=GHList&utm_medium=company">HCSC</a></strong></td>
@@ -29786,7 +29786,7 @@
 <td>Product Development Intern - Peace of Mind</td>
 <td>Frisco, TX<br>Bellevue, WA<br>Overland Park, KS</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Codal?utm_source=GHList&utm_medium=company">Codal</a></strong></td>
@@ -32736,6 +32736,13 @@
 <td>0d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Calix?utm_source=GHList&utm_medium=company">Calix</a></strong></td>
+<td>AI / Machine Learning Intern</td>
+<td>Remote in USA<br>Remote in Canada</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/AAA-Club-Alliance?utm_source=GHList&utm_medium=company">AAA Club Alliance</a></strong></td>
 <td>Data Science Intern</td>
 <td>Newport Beach, CA</td>
@@ -32772,6 +32779,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DNV?utm_source=GHList&utm_medium=company">DNV</a></strong></td>
+<td>Software Engineer Intern - MLOps - LLM & Agent Systems</td>
+<td>Houston, TX</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Data Science Intern</td>
 <td>Houston, TX</td>
 <td>🔒</td>
@@ -33097,7 +33111,7 @@
 <td>AMI Data Strategist Intern</td>
 <td>Hartford, CT<br>Norwood, MA</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong>TALON</strong></td>
@@ -35011,6 +35025,13 @@
 <td>27d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Schnucks?utm_source=GHList&utm_medium=company">Schnucks</a></strong></td>
+<td>Data Science Intern 🎓</td>
+<td>Remote in USA<br>St. Louis, MO</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
 <td>BTS Innovation Analyst Intern</td>
 <td>Atlanta, GA</td>
@@ -35022,14 +35043,14 @@
 <td>Algorithm Development - Intern 🛂</td>
 <td>Remote in US</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Bosch Group</strong></td>
 <td>Sales Data Science & Analytics Intern 🛂</td>
 <td>Farmington Hills, MI</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Environmental-Defense-Fund?utm_source=GHList&utm_medium=company">Environmental Defense Fund</a></strong></td>
@@ -61108,7 +61129,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/FOX?utm_source=GHList&utm_medium=company">FOX</a></strong></td>
 <td>Business Operations Intern/Co-op - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -62942,7 +62963,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
+<td>↳</td>
 <td>AIS R&D Systems Engineer Intern - EE - Interns/Graduates - Development</td>
 <td>Roseville, MN</td>
 <td>🔒</td>
@@ -64710,7 +64731,7 @@
 <td>Autonomy Research Intern - Applied Research</td>
 <td>Calgary, AB, Canada</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bartlett-And-West?utm_source=GHList&utm_medium=company">Bartlett & West</a></strong></td>
@@ -69154,13 +69175,6 @@
 <td><strong>Motional AD</strong></td>
 <td>Machine Learning Internship, Behaviors Research 🛂</td>
 <td>Boston, MA<br>Pittsburgh, PA<br>Remote in USA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>🔥 <strong>Databricks</strong></td>
-<td>Data Science Intern</td>
-<td>Mountain View, CA<br>San Francisco, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -79672,7 +79686,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company">Hermeus</a></strong></td>
+<td>↳</td>
 <td>Test Engineering Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
