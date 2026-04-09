@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1486 Internship Roles by Category
+### Browse 1485 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (439)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (143)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (634)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (633)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (16)
 
@@ -4308,13 +4308,6 @@
 <td>0d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Bloom-Energy?utm_source=GHList&utm_medium=company">Bloom Energy</a></strong></td>
-<td>Economics Data Analyst Intern</td>
-<td>San Jose, CA</td>
-<td><div align="center"><a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Economics-Data-Analyst-Intern_JR-22266?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/02109679-9dff-4178-927a-aca6b573bca1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Bosch?utm_source=GHList&utm_medium=company">Robert Bosch Venture Capital</a></strong></td>
 <td>Autonomous Driving – Intern in Machine Learning 🎓</td>
 <td>Sunnyvale, CA</td>
@@ -6078,6 +6071,13 @@
 <td><div align="center"><a href="https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5142981008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/10ebccb4-749a-419d-a92c-50ffcd6547a2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>19d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Howden?utm_source=GHList&utm_medium=company">Howden</a></strong></td>
+<td>Data Analyst Intern</td>
+<td>Dallas, TX<br>Chicago, IL<br>San Diego, CA</td>
+<td><div align="center"><a href="https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/DUAL---Dallas-Office/Data-Analyst-Intern_R0016629?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4f6ac5a5-5338-438a-b021-01d34f2ddfb8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>20d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6104,13 +6104,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Howden?utm_source=GHList&utm_medium=company">Howden</a></strong></td>
-<td>Data Analyst Intern</td>
-<td>Dallas, TX<br>Chicago, IL<br>San Diego, CA</td>
-<td><div align="center"><a href="https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/DUAL---Dallas-Office/Data-Analyst-Intern_R0016629?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4f6ac5a5-5338-438a-b021-01d34f2ddfb8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Logitech?utm_source=GHList&utm_medium=company">Logitech</a></strong></td>
 <td>Data Analytics Intern</td>
@@ -6984,7 +6977,7 @@
 <td>Agentic AI Workflows Intern</td>
 <td>Sunnyvale, CA</td>
 <td><div align="center"><a href="https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Agentic-AI-Workflows-Intern_R13877?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/821a022d-864a-4695-a711-15f6bcb8e26a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fortera?utm_source=GHList&utm_medium=company">Fortera</a></strong></td>
@@ -8684,7 +8677,7 @@
 </table>
 
 
-🔒 **[See 5202 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 5203 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
