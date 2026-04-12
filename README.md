@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1444 Internship Roles by Category
+### Browse 1443 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (425)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (424)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (141)
 
@@ -2548,13 +2548,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Software Engineer - Tiktok-Growth-Innovative Growth - BS/MS</td>
-<td>San Jose, CA</td>
-<td><div align="center"><a href="https://lifeattiktok.com/search/7532748736225904903?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1176e63c-eb58-40bb-b17f-9d948c9da798?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae?utm_source=GHList&utm_medium=company">RF-SMART</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Highlands Ranch, CO</td>
@@ -3069,7 +3062,7 @@
 </table>
 
 
-🔒 **[See 3871 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3872 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -6057,6 +6050,13 @@
 <td><div align="center"><a href="https://careers-lmi.icims.com/jobs/13807/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/30f389eb-f354-4fdb-a532-1b8ef424ce8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>22d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Lumos-Fiber?utm_source=GHList&utm_medium=company">Lumos</a></strong></td>
+<td>GIS Intern</td>
+<td>High Point, NC</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/lumosfiber/jobs/5160789008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4fc5c7e6-0478-417d-9f6b-82d0fae3fc1c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>22d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6083,13 +6083,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Lumos-Fiber?utm_source=GHList&utm_medium=company">Lumos</a></strong></td>
-<td>GIS Intern</td>
-<td>High Point, NC</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/lumosfiber/jobs/5160789008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4fc5c7e6-0478-417d-9f6b-82d0fae3fc1c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nasuni?utm_source=GHList&utm_medium=company">Nasuni</a></strong></td>
 <td>Data Science Intern 🎓</td>
