@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1424 Internship Roles by Category
+### Browse 1425 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (422)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (423)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (137)
 
@@ -90,6 +90,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hyundai Motor Company</strong></td>
+<td>Infotainment Software Engineering Intern 🛂</td>
+<td>Superior Charter Township, MI</td>
+<td><div align="center"><a href="https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-%28Internship-Summer-2026%29-MI-48198/1335957800?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>HealthStream</strong></td>
 <td>Intern, Software Developer</td>
@@ -3473,7 +3480,7 @@
 <td>Product Manager Project Intern</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7620569902743406901?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d7297bc9-b982-4d12-9a1a-ea5d22b7eba6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Shake-Shack?utm_source=GHList&utm_medium=company">Shake Shack</a></strong></td>
@@ -6064,13 +6071,6 @@
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/Assent/744000109933874?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9875af04-6db2-435e-b420-9ca4d4690f43?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>25d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company">Spot & Tango</a></strong></td>
-<td>Product Analyst Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="http://www.spotandtango.com/careers?gh_jid=4674928005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/11566f6d-b2bd-4ff2-a16c-a79ddb0652fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
-</tr>
 </tbody>
 </table>
 
@@ -6097,6 +6097,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company">Spot & Tango</a></strong></td>
+<td>Product Analyst Intern</td>
+<td>NYC</td>
+<td><div align="center"><a href="http://www.spotandtango.com/careers?gh_jid=4674928005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/11566f6d-b2bd-4ff2-a16c-a79ddb0652fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>25d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Guidewire?utm_source=GHList&utm_medium=company">Guidewire</a></strong></td>
 <td>Data Developer Intern 🎓</td>

@@ -2157,14 +2157,14 @@
 <td>Software Engineer Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
