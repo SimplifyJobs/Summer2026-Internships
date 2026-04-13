@@ -22163,14 +22163,14 @@
 <td>Front-end Software Engineer Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Full-stack Software Engineer Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rilla?utm_source=GHList&utm_medium=company">Rilla</a></strong></td>
@@ -63831,7 +63831,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/30f50907-d22b-40aa-a394-d75e18dcb37f?utm_source=GHList&utm_medium=company">Live Oak Bank</a></strong></td>
+<td>↳</td>
 <td>Data Science Intern - Analytics Team</td>
 <td>Wilmington, NC</td>
 <td>🔒</td>
@@ -65116,7 +65116,7 @@
 <td>ML Software Engineer Intern - AI/CAD Integration</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>

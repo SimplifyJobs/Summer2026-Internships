@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1384 Internship Roles by Category
+### Browse 1385 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (412)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (136)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (576)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (577)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (16)
 
@@ -3979,11 +3979,18 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>GAINS</strong></td>
+<td>Data Science Intern</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://gainsystems.applytojob.com/apply/LYgorNYL2m/Data-Science-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
 <td>AI/ML Intern - Machine Learning Engineer 🎓</td>
 <td><details><summary><strong>7 locations</strong></summary>Seattle, WA<br>SF<br>Austin, TX<br>San Jose, CA<br>Waltham, MA<br>NYC<br>Lehi, UT</details></td>
 <td><div align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -6078,13 +6085,6 @@
 <td><div align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011194?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b65f6740-6286-469a-a2c5-9104e032a5d8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>27d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Vertex-Pharmaceuticals?utm_source=GHList&utm_medium=company">Vertex Pharmaceuticals</a></strong></td>
-<td>Vertex Co-op - G&A Treasury Applications</td>
-<td>Boston, MA</td>
-<td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--G-A-Treasury-Applications_REQ-28422-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dd0dcae5-8655-4c37-bb3a-246416461db7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
 </tbody>
 </table>
 
@@ -6111,6 +6111,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Vertex-Pharmaceuticals?utm_source=GHList&utm_medium=company">Vertex Pharmaceuticals</a></strong></td>
+<td>Vertex Co-op - G&A Treasury Applications</td>
+<td>Boston, MA</td>
+<td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--G-A-Treasury-Applications_REQ-28422-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dd0dcae5-8655-4c37-bb3a-246416461db7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>27d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
 <td>Supervision – And Statistics Intern - Credit Risk</td>
@@ -9042,14 +9049,14 @@
 <td>24d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>Embedded Systems / Firmware Engineering Intern-2</td>
 <td>Stoke-on-Trent, UK</td>
 <td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-2_R5035163-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/136d869b-8dc8-4e38-b522-305c8541fdc1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>↳</td>
 <td>Embedded Systems / Firmware Engineering Intern-2</td>
 <td>Stoke-on-Trent, UK</td>
 <td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-2_R5035163-3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6328f229-b8d7-4fb8-80e8-d2bab2297996?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -9284,7 +9291,7 @@
 <td>Product Development Engineering Intern</td>
 <td>Hartford, CT</td>
 <td><div align="center"><a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/Product-Development-Engineering-Intern---Summer-2026_JR00012836?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d4c97bb6-bdb6-4409-bb00-d998c5e7df2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company">Rockwell Automation</a></strong></td>
