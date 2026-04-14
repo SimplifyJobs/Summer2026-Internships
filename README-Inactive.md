@@ -34927,11 +34927,11 @@
 <td>25d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Bio-Rad Laboratories</strong></td>
 <td>AI/ML Intern</td>
 <td>Irvine, CA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong>esVolta</strong></td>
@@ -83778,7 +83778,7 @@
 <td>AI and Robotics Intern 🇺🇸</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
