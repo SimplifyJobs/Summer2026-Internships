@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1405 Internship Roles by Category
+### Browse 1406 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (426)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (132)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (587)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (588)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (16)
 
@@ -2132,7 +2132,7 @@
 <td>Backend Software Engineer Intern - Foundation Platform</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7538307729329277202?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/00e70c4e-9171-45b8-a583-f063356c94e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Circle?utm_source=GHList&utm_medium=company">Circle</a></strong></td>
@@ -4049,6 +4049,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company">ATPCO</a></strong></td>
+<td>Platform Engineering Intern – AI & Data Enablement</td>
+<td>Herndon, VA</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/ATPCO1/9750ac8f-eda9-44b6-bf34-b3feab4dbab7?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong>JK Moving Services</strong></td>
 <td>Data Science and AI Intern</td>
 <td>Sterling, VA</td>
@@ -5712,7 +5719,7 @@
 <td>Machine Learning Intern</td>
 <td>San Bruno, CA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/insitro/785db2de-c425-401c-869c-fff3e14fcdea/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/21f55edc-715b-44a3-87fe-ffbb071bbf22?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Live-Nation-Entertainment?utm_source=GHList&utm_medium=company">Live Nation Entertainment</a></strong></td>
@@ -6106,13 +6113,6 @@
 <td><div align="center"><a href="https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Engineer-Intern_R040788?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/53d6f59a-95c8-4057-acc8-ce4bbb0a64a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>25d</td>
 </tr>
-<tr>
-<td><strong>Arvinas</strong></td>
-<td>Computational Chemistry & Artificial Intelligence 🛂</td>
-<td>New Haven, CT</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/arvinas/jobs/7667612003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
 </tbody>
 </table>
 
@@ -6139,6 +6139,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong>Arvinas</strong></td>
+<td>Computational Chemistry & Artificial Intelligence 🛂</td>
+<td>New Haven, CT</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/arvinas/jobs/7667612003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hendrick-Motorsports?utm_source=GHList&utm_medium=company">Hendrick Motorsports</a></strong></td>
 <td>Project and Race Support Engineer</td>

@@ -414,7 +414,7 @@
 <td>Intern System Support</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genuine-Parts-Company?utm_source=GHList&utm_medium=company">Genuine Parts Company</a></strong></td>
@@ -1464,7 +1464,7 @@
 <td>Software Engineer Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong>Erickson Senior Living</strong></td>
@@ -72126,7 +72126,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Citigroup?utm_source=GHList&utm_medium=company">Citi</a></strong></td>
+<td>↳</td>
 <td>Functions - Quantitative Risk Management 🎓</td>
 <td>Irving, TX</td>
 <td>🔒</td>
@@ -72308,7 +72308,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Arrowstreet-Capital?utm_source=GHList&utm_medium=company">Arrowstreet Capital</a></strong></td>
 <td>Quantitative Developer Intern 🛂</td>
 <td>Boston, MA</td>
 <td>🔒</td>
