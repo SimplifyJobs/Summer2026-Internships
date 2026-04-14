@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11943 Inactive Internship Roles by Category
+### Browse 11945 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3875)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3877)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (847)
 
@@ -342,6 +342,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RA-Capital-Management?utm_source=GHList&utm_medium=company">RA Capital Management</a></strong></td>
 <td>AI Engineering Intern</td>
+<td>Boston, MA</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Fidelity-Investments?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
+<td>Co-op – Software Engineer</td>
 <td>Boston, MA</td>
 <td>🔒</td>
 <td>7d</td>
@@ -1666,6 +1673,13 @@
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
 <td>Compensation Systems Intelligence Intern</td>
 <td>Bellevue, WA</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Planet?utm_source=GHList&utm_medium=company">Planet</a></strong></td>
+<td>Intern Software Engineer - Mission Systems</td>
+<td>SF</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
@@ -34482,6 +34496,13 @@
 <td><strong><a href="https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company">Veolia</a></strong></td>
 <td>Data Science Intern/Co-op</td>
 <td>Boston, MA</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Planet?utm_source=GHList&utm_medium=company">Planet</a></strong></td>
+<td>Intern AI/ML Engineer</td>
+<td>SF</td>
 <td>🔒</td>
 <td>20d</td>
 </tr>
@@ -70228,13 +70249,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
-<td>AI/ML Intern - Machine Learning Engineer</td>
-<td><details><summary><strong>7 locations</strong></summary>San Jose, CA<br>San Francisco, CA<br>Austin, TX<br>Seattle, WA<br>Waltham, MA<br>New York, NY<br>Lehi, UT</details></td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -71356,7 +71370,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Barclays?utm_source=GHList&utm_medium=company">Barclays</a></strong></td>
 <td>Sales - Trading and Structuring Summer Internship Programme 2026 - Multiple Teams</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -72612,6 +72626,13 @@
 <td><strong><a href="https://simplify.jobs/c/Moog?utm_source=GHList&utm_medium=company">Moog </a></strong></td>
 <td>Intern - Design Engineering</td>
 <td>Cleveland, OH</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>System & Electronics Engineering</td>
+<td>Belfast, UK</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
@@ -83772,13 +83793,6 @@
 <td>Spring, TX</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
-<td>AI and Robotics Intern 🇺🇸</td>
-<td>Huntsville, AL</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
