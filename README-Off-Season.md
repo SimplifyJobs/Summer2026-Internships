@@ -12754,7 +12754,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1586)</summary>
+<summary>🗃️ Inactive roles (1585)</summary>
 
 <table>
 <thead>
@@ -18752,7 +18752,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Richardson, TX</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Axalta?utm_source=GHList&utm_medium=company">Axalta</a></strong></td>
@@ -24524,7 +24524,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>NVIDIA Internships: Deep Learning Computer Architecture</td>
+<td>Internships: Deep Learning</td>
 <td>Santa Clara, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
@@ -24532,7 +24532,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Internships: Deep Learning</td>
+<td>NVIDIA Internships: Deep Learning Computer Architecture</td>
 <td>Santa Clara, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
@@ -25474,14 +25474,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
-<td>Test Engineering/SW Co-Op</td>
-<td>Irvine, CA</td>
-<td>Winter 2026, Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -25747,7 +25739,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Apopka, FL</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Apex-Fintech-Solutions?utm_source=GHList&utm_medium=company">Apex Fintech Solutions</a></strong></td>
@@ -28982,7 +28974,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Greensboro, NC</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SRI-International?utm_source=GHList&utm_medium=company">SRI International</a></strong></td>
