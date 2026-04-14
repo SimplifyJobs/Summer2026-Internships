@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1396 Internship Roles by Category
+### Browse 1397 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (423)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (424)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (132)
 
@@ -90,6 +90,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Berkley Technology Services</strong></td>
+<td>Cloud Team Intern 🛂</td>
+<td>Wilmington, DE</td>
+<td><div align="center"><a href="https://careers-berkley.icims.com/jobs/13838/cloud-team-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Advanced Space</strong></td>
 <td>Software Engineering Summer Intern 🇺🇸</td>
