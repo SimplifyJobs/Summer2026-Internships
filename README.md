@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1390 Internship Roles by Category
+### Browse 1391 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (423)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (136)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (584)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (585)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (15)
 
@@ -270,14 +270,14 @@
 <td>Software Engineering Summer Intern 🇺🇸</td>
 <td>Westminster, CO</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/advancedspace/jobs/4212371009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td>Intern - Embedded Software, System, and Test Engineer 🇺🇸</td>
 <td>Los Angeles, CA</td>
 <td><div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Los-Angeles-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R63804?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company">Tenstorrent</a></strong></td>
@@ -445,7 +445,7 @@
 <td>Software Engineering Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jbb.applytojob.com/apply/SCtkdVCvur/Software-Engineering-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong>On the Go</strong></td>
@@ -1782,42 +1782,42 @@
 <td>Intern Software Engineer 🇺🇸</td>
 <td>Orlando, FL</td>
 <td><div align="center"><a href="https://careers-gdms.icims.com/jobs/71415/intern-software-engineer---orlando/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
 <td>Software Operations Intern</td>
 <td>Hercules, CA</td>
 <td><div align="center"><a href="https://careers-biorad.icims.com/jobs/38301/software-operations-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Intern</td>
 <td>Hercules, CA</td>
 <td><div align="center"><a href="https://careers-biorad.icims.com/jobs/38302/software-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Operations Intern</td>
 <td>Hercules, CA</td>
 <td><div align="center"><a href="https://careers-biorad.icims.com/jobs/38300/software-operations-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Intern</td>
 <td>Hercules, CA</td>
 <td><div align="center"><a href="https://careers-biorad.icims.com/jobs/38293/software-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong>Intrepid Direct Insurance</strong></td>
 <td>Software Engineer Intern 🛂</td>
 <td>Overland Park, KS</td>
 <td><div align="center"><a href="https://careers-berkley.icims.com/jobs/13671/software-engineer-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -2132,14 +2132,14 @@
 <td>Firmware Engineering Internship 🇺🇸</td>
 <td>South Burlington, VT</td>
 <td><div align="center"><a href="https://apply.workable.com/onlogic-inc/j/8291FD6903/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company">Alarm.com</a></strong></td>
 <td>Cloud Operations Intern-DevOps 🛂</td>
 <td>Tysons, VA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/alarmcom/jobs/8440261002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -4032,7 +4032,7 @@
 </table>
 
 
-🔒 **[See 849 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 848 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -4390,6 +4390,13 @@
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7519768631745087752?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1df8808f-a878-46a2-ba15-70c3fbeae304?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
+<td>Tax LLM Associate 🎓</td>
+<td>Washington, DC<br>Norridge, IL</td>
+<td><div align="center"><a href="https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-LLM-Associate---Summer---Fall-2026_657577WD?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bbe5b5aa-3fd1-464c-a4d2-d4280818c0f9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
@@ -6085,13 +6092,6 @@
 <td><div align="center"><a href="https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Power-BI-Intern_R114046?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d5f83f04-50ba-4449-81ea-401538aba80b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>25d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Coherent?utm_source=GHList&utm_medium=company">Coherent </a></strong></td>
-<td>Intern Program Manager</td>
-<td>Horsham, PA</td>
-<td><div align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011483?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d9b3c620-2460-4293-8887-d5387e9825be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
-</tr>
 </tbody>
 </table>
 
@@ -6118,6 +6118,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Coherent?utm_source=GHList&utm_medium=company">Coherent </a></strong></td>
+<td>Intern Program Manager</td>
+<td>Horsham, PA</td>
+<td><div align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011483?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d9b3c620-2460-4293-8887-d5387e9825be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>25d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LMI?utm_source=GHList&utm_medium=company">LMI </a></strong></td>
 <td>Data Scientist Intern - Passport Demand Forecasting 🎓</td>
