@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1377 Internship Roles by Category
+### Browse 1378 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (432)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (433)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (130)
 
@@ -90,6 +90,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nielsen</strong></td>
+<td>Information Security AI Strategy Intern</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/TheNielsenCompany/6f74ca95-24db-47c7-8306-2429031bee8c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>ScentAir</strong></td>
 <td>Technology & Data Science Intern 🛂</td>
@@ -4732,7 +4739,7 @@
 <td>Data Science-Intern</td>
 <td>Maryland</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5102561007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/92a2528a-e204-4a3d-a973-8c96db0503e8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Phillips-66?utm_source=GHList&utm_medium=company">Phillips 66</a></strong></td>
@@ -5831,7 +5838,7 @@
 <td>Digital Governance and Policy Intern</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001IF&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f33deafa-a6df-4112-b056-c1309541ae79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Insitro?utm_source=GHList&utm_medium=company">Insitro</a></strong></td>
@@ -6438,7 +6445,7 @@
 <td>Manufacturing Systems & Data Analytics Intern</td>
 <td>Salt Lake City, UT</td>
 <td><div align="center"><a href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/Salt-Lake-City-UT/Manufacturing-Systems---Data-Analytics-Intern_R10915?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6ea6b16e-6f67-4bef-aabc-b643e671b0cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Accuray?utm_source=GHList&utm_medium=company">Accuray</a></strong></td>

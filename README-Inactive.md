@@ -1919,7 +1919,7 @@
 <td>Member of Technical Staff Intern 🎓</td>
 <td>Palo Alto, CA<br>Austin, TX</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DriveWealth?utm_source=GHList&utm_medium=company">DriveWealth</a></strong></td>
@@ -2507,7 +2507,7 @@
 <td>Software Engineering Intern</td>
 <td>Arlington, TX</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CMTelematics?utm_source=GHList&utm_medium=company">Cambridge Mobile Telematics</a></strong></td>
@@ -19863,7 +19863,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Verizon-Communications?utm_source=GHList&utm_medium=company">Verizon Communications</a></strong></td>
 <td>Global Technology Solutions Intern - Multiple Teams</td>
 <td>Alpharetta, GA</td>
 <td>🔒</td>
@@ -44391,7 +44391,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
+<td>↳</td>
 <td>Intern Machine Learning Developer</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -74300,28 +74300,28 @@
 <td>Software / Systems Engineering Intern</td>
 <td>Stoke-on-Trent, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Controls Application Engineering Intern</td>
 <td>Stoke-on-Trent, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Controls Application Engineering Intern</td>
 <td>Stoke-on-Trent, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Controls Application Engineering Intern</td>
 <td>Stoke-on-Trent, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Healthcare?utm_source=GHList&utm_medium=company">GE Healthcare</a></strong></td>
