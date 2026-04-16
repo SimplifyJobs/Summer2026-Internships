@@ -610,14 +610,14 @@
 <td>Software Application Developer – Co-op/Intern - 8 months</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer - Co-op/Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong>AllTrails</strong></td>
@@ -2549,7 +2549,7 @@
 <td>Software Developer Intern</td>
 <td>Liberty Lake, WA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sprinklr?utm_source=GHList&utm_medium=company">Sprinklr</a></strong></td>
@@ -33482,7 +33482,7 @@
 <td>Co-op Student - AI Engineer</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Seurat-Technologies?utm_source=GHList&utm_medium=company">Seurat Technologies</a></strong></td>
@@ -34546,7 +34546,7 @@
 <td>Data Analytics Intern</td>
 <td>Little Rock, AR</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong>DEKA Research & Development</strong></td>

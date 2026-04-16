@@ -26342,7 +26342,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Poughkeepsie, NY</td>
 <td>Winter 2026</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/572291ba-c453-4709-8614-8b784da19fdd?utm_source=GHList&utm_medium=company">ENOVIS</a></strong></td>
