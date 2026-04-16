@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1366 Internship Roles by Category
+### Browse 1367 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (421)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (422)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (130)
 
@@ -90,6 +90,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
+<td>Intern - Software Systems Engineer 🇺🇸</td>
+<td>Huntsville, AL</td>
+<td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---Software-Systems-Engineer_R0159110?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Equinix?utm_source=GHList&utm_medium=company">Equinix</a></strong></td>
 <td>Enterprise AI Intern</td>
@@ -4956,7 +4963,7 @@
 <td>Data Engineering Student Intern</td>
 <td>Charlottesville, VA</td>
 <td><div align="center"><a href="https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Data-Engineering-Student-Intern--Student-Wage-_R0082207?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3e05ba21-dfb7-4545-9f4c-cb1ec8241137?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
@@ -5334,7 +5341,7 @@
 <td>Data Science Intern</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://welocalize.wd1.myworkdayjobs.com/welocalize/job/US-remote/Data-Science-Intern_R0007551?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5688263e-4d2c-427e-a597-e6bc10e89aab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CME-Group?utm_source=GHList&utm_medium=company">CME Group</a></strong></td>
@@ -6078,13 +6085,6 @@
 <td><div align="center"><a href="https://boards.greenhouse.io/apptronik/jobs/5832647004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fbd5951f-f918-4a9d-b8ea-62d62418aacb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>27d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Rakuten-Advertising?utm_source=GHList&utm_medium=company">Rakuten Advertising</a></strong></td>
-<td>Intern Software Engineer</td>
-<td>Salt Lake City, UT</td>
-<td><div align="center"><a href="https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/Salt-Lake-City-Utah/Intern---Software-Engineering_1031659?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2383b843-69f4-464c-9533-85f1021d8688?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
 </tbody>
 </table>
 
@@ -6111,6 +6111,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Rakuten-Advertising?utm_source=GHList&utm_medium=company">Rakuten Advertising</a></strong></td>
+<td>Intern Software Engineer</td>
+<td>Salt Lake City, UT</td>
+<td><div align="center"><a href="https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/Salt-Lake-City-Utah/Intern---Software-Engineering_1031659?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2383b843-69f4-464c-9533-85f1021d8688?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>27d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hendrick-Motorsports?utm_source=GHList&utm_medium=company">Hendrick Motorsports</a></strong></td>
 <td>Project and Race Support Engineer</td>
