@@ -7501,7 +7501,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
 <td>PhD Software Engineer Intern - Data Storage 🎓</td>
 <td>Sunnyvale, CA</td>
 <td>Winter 2026</td>
@@ -15368,14 +15368,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Ramboll?utm_source=GHList&utm_medium=company">Ramboll</a></strong></td>
-<td>Intern – Air Quality</td>
-<td>SF</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -15402,6 +15394,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ramboll?utm_source=GHList&utm_medium=company">Ramboll</a></strong></td>
+<td>Intern – Air Quality</td>
+<td>SF</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/First-Bank-And-Trust?utm_source=GHList&utm_medium=company">First Bank & Trust</a></strong></td>
 <td>Data Analyst Intern</td>
@@ -22763,7 +22763,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
+<td>↳</td>
 <td>Solutions Architecture Intern - PhD 🎓</td>
 <td>Santa Clara, CA</td>
 <td>Winter 2025</td>
@@ -26190,7 +26190,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Ottawa, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
