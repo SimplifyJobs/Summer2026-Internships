@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1301 Internship Roles by Category
+### Browse 1300 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (409)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (408)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (119)
 
@@ -1519,13 +1519,6 @@
 <td>20d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Accenture-FS?utm_source=GHList&utm_medium=company">Accenture</a></strong></td>
-<td>Youth Apprenticeship 2 - Technology NAELFY26</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/CareerWise-Youth-Apprenticeship-2---Technology-NAELFY26_R00321766?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1a5e2252-f2cb-450b-8782-563753e360d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company">Samsung</a></strong></td>
 <td>Software Engineer Backend Intern</td>
 <td>Mountain View, CA</td>
@@ -2957,7 +2950,7 @@
 </table>
 
 
-🔒 **[See 3932 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3933 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -6085,6 +6078,13 @@
 <td><div align="center"><a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/National-Security-Solutions--NSS--Internship---Cognitive-Electronic-Warfare--EW--Simulation---AI_R2120563?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e3166364-874f-4c67-9589-0e8e9847425e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/University-Of-Chicago?utm_source=GHList&utm_medium=company">University of Chicago</a></strong></td>
+<td>Data Science Intern</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Temporary-Data-Science-Intern_JR33013?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/83e2ea51-029e-46c3-9976-c1e5867a86ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6111,13 +6111,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/University-Of-Chicago?utm_source=GHList&utm_medium=company">University of Chicago</a></strong></td>
-<td>Data Science Intern</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Temporary-Data-Science-Intern_JR33013?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/83e2ea51-029e-46c3-9976-c1e5867a86ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tahoe-Therapeutics?utm_source=GHList&utm_medium=company">Tahoe Therapeutics</a></strong></td>
 <td>Machine Learning Research Intern</td>
