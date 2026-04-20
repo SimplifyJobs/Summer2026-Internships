@@ -37356,7 +37356,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Netflix?utm_source=GHList&utm_medium=company">Netflix</a></strong></td>
+<td>↳</td>
 <td>Data Engineering Intern 🎓</td>
 <td>LA<br>Los Gatos, CA</td>
 <td>🔒</td>
@@ -56327,7 +56327,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company">Zoox</a></strong></td>
 <td>Machine Learning Engineer Intern - Autonomy Behavior</td>
 <td>San Mateo, CA</td>
 <td>🔒</td>
