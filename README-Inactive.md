@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 12166 Inactive Internship Roles by Category
+### Browse 12172 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3933)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3938)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (867)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5398)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5399)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (314)
 
@@ -2363,7 +2363,28 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Intern Software Engineer 🇺🇸</td>
+<td>Orlando, FL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
+<td>Software Operations Intern</td>
+<td>Hercules, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Intern</td>
+<td>Hercules, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Operations Intern</td>
 <td>Hercules, CA</td>
 <td>🔒</td>
@@ -3178,6 +3199,20 @@
 <td><strong><a href="https://simplify.jobs/c/OptionsClearingCorporation?utm_source=GHList&utm_medium=company">OCC</a></strong></td>
 <td>Year-Round Intern - Software Engineering Risk Analytics 🛂</td>
 <td>Dallas, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/BAE-Systems?utm_source=GHList&utm_medium=company">BAE Systems</a></strong></td>
+<td>GXP Software Intern 🇺🇸</td>
+<td>San Diego, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Transcarent?utm_source=GHList&utm_medium=company">Transcarent</a></strong></td>
+<td>Software Engineering Intern - Virtual Primary Care</td>
+<td>Seattle, W</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -21291,7 +21326,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Intern - Strategic Deterrent Systems Division</td>
 <td>Hill AFB, UT</td>
 <td>🔒</td>
@@ -33866,6 +33901,13 @@
 <td><strong><a href="https://simplify.jobs/c/Fairstone-Financial?utm_source=GHList&utm_medium=company">Fairstone Financial</a></strong></td>
 <td>Co-op Student - AI Engineer</td>
 <td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>UL Standards & Engagement</strong></td>
+<td>Data Science & Engineering Intern</td>
+<td>Raleigh-Durham, NC<br>Evanston, IL</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
@@ -69942,7 +69984,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Synthetic Image Generation - PhD 🎓</td>
 <td>Burlingame, CA<br>Redmond, WA<br>Sunnyvale, CA</td>
 <td>🔒</td>
