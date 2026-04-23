@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 176 Internship Roles by Category
+### Browse 174 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (47)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (45)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (13)
 
@@ -136,14 +136,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Fall 2026, Winter 2027, Spring 2027</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000121840427?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/41655278-a249-4e9f-b17d-f9187aacc922?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
-</tr>
-<tr>
-<td><strong>Kestra</strong></td>
-<td>AI Enablement Intern 🛂</td>
-<td>Kirkland, WA</td>
-<td>Spring 2026, Fall 2026</td>
-<td><div align="center"><a href="https://apply.workable.com/kestra-medical-technologies-inc/j/A96D24A022/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -306,14 +298,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Varda-Space?utm_source=GHList&utm_medium=company">Varda Space</a></strong></td>
-<td>Flight Software (C++) Internship 🇺🇸</td>
-<td>El Segundo, CA</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/7676466003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Zip?utm_source=GHList&utm_medium=company">Zip</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Toronto, ON, Canada</td>
@@ -454,7 +438,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1177)</summary>
+<summary>🗃️ Inactive roles (1179)</summary>
 
 <table>
 <thead>
@@ -468,6 +452,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kestra</strong></td>
+<td>AI Enablement Intern 🛂</td>
+<td>Kirkland, WA</td>
+<td>Spring 2026, Fall 2026</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Intern - Software Designer - Web based Tool Development</td>
@@ -514,7 +506,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Bedford, MA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NAV-CANADA?utm_source=GHList&utm_medium=company">NAV CANADA</a></strong></td>
@@ -595,6 +587,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Varda-Space?utm_source=GHList&utm_medium=company">Varda Space</a></strong></td>
+<td>Flight Software (C++) Internship 🇺🇸</td>
+<td>El Segundo, CA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
@@ -15040,6 +15040,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
+<td>Intern - Advanced Technology</td>
+<td>Burlington, WA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -15066,14 +15074,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
-<td>Intern - Advanced Technology</td>
-<td>Burlington, WA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Medpace-Inc?utm_source=GHList&utm_medium=company">Medpace, Inc.</a></strong></td>
 <td>Clinical Informatics Intern - Fall 2026</td>
@@ -27649,7 +27649,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Thales?utm_source=GHList&utm_medium=company">Thales</a></strong></td>
 <td>Academy Engineer Apprentice – Level 5 Higher Level Apprenticeship - Mechatronic Engineering</td>
 <td>Belfast, UK</td>
 <td>Fall 2026</td>
