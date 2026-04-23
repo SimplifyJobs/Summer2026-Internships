@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 12357 Inactive Internship Roles by Category
+### Browse 12358 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3989)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3990)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (887)
 
@@ -575,7 +575,7 @@
 <td>Technical Co-Op Intern - Software Engineering 🇺🇸</td>
 <td>Cypress, CA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Behaviour-Interactive?utm_source=GHList&utm_medium=company">Behaviour Interactive</a></strong></td>
@@ -4172,6 +4172,13 @@
 <td><strong><a href="https://simplify.jobs/c/Precisely?utm_source=GHList&utm_medium=company">Precisely</a></strong></td>
 <td>Python Developer Intern</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company">Roblox</a></strong></td>
+<td>Software Engineer – Community Apprenticeship</td>
+<td>San Mateo, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -14123,7 +14130,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>Studio Talent Group Intern</td>
 <td>Vancouver, BC, Canada</td>
 <td>🔒</td>
@@ -21491,7 +21498,7 @@
 <td>IT Intern - Infrastructure & Operations - Automation Focus</td>
 <td>Kansas City, MO</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Assured-Guaranty?utm_source=GHList&utm_medium=company">Assured Guaranty</a></strong></td>
@@ -33737,7 +33744,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company">LPL Financial Holdings</a></strong></td>
+<td>↳</td>
 <td>Internship - Technology - Program Management - Research Team</td>
 <td>Fort Mill, SC<br>San Diego, CA</td>
 <td>🔒</td>
@@ -66467,28 +66474,28 @@
 <td>Data Analytics Co-Op - Databricks & Cloud</td>
 <td>Quincy, MA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Artificial Intelligence and AWS Cloud Developer - Co-Op - Global Technology Services</td>
 <td>Quincy, MA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Autonomy Engineer Intern</td>
 <td>Pittsburgh, PA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Engineer Intern - Advanced Analytics 🎓</td>
 <td>Oshkosh, WI</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/OATEY?utm_source=GHList&utm_medium=company">OATEY</a></strong></td>
@@ -70110,7 +70117,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Intern - BS/MS - Test Engineering - Motion Control</td>
 <td>SF</td>
 <td>🔒</td>
@@ -70502,7 +70509,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Data Engineer Intern - Privacy and Data Protection Office</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -72427,7 +72434,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - E-commerce Governance Algorithms - BS/MS</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
