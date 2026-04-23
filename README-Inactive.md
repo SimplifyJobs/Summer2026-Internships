@@ -8,11 +8,11 @@
 
 ### Browse 12364 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3993)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3992)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (888)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5470)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5471)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (317)
 
@@ -2388,7 +2388,7 @@
 <td>Intern - Software Engineer (Backend)</td>
 <td>Atlanta, GA<br>New York, NY<br>Remote in USA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SanMar?utm_source=GHList&utm_medium=company">SanMar</a></strong></td>
@@ -21424,32 +21424,32 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Toronto, Canada</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern 🛂</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern 🛂</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern 🛂</td>
 <td>San Francisco, CA<br>Palo Alto, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
@@ -28031,13 +28031,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
-<td>Research Intern 🎓 🛂</td>
-<td><details><summary><strong>29 locations</strong></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Bellevue, WA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Raleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>Sunnyvale, CA<br>Washington D.C., DC</details></td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -34381,6 +34374,13 @@
 <td>2d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Insulet-Corporation?utm_source=GHList&utm_medium=company">Insulet Corporation</a></strong></td>
+<td>Supplier Engineering Co-op - Project Excellence</td>
+<td>Acton, MA</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>GE Vernova Advanced Research – Edison Program Intern 🎓</td>
 <td>Schenectady, NY</td>
@@ -36723,21 +36723,21 @@
 <td>AI Consulting Associate Program (AI CAP) Brokerage Intern 🛂</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cognitiv?utm_source=GHList&utm_medium=company">Cognitiv</a></strong></td>
 <td>Machine Learning Engineer Intern</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/City-Of-Philadelphia?utm_source=GHList&utm_medium=company">City of Philadelphia</a></strong></td>
 <td>Data Analyst Intern 🇺🇸</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
@@ -53506,7 +53506,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM 🎓</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -66397,7 +66397,7 @@
 <td>Master's Machine Learning Internship 🎓</td>
 <td>Toronto, Canada</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
@@ -70901,7 +70901,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Inventing-For-Life?utm_source=GHList&utm_medium=company">Inventing for Life</a></strong></td>
 <td>Future Talent Program – Intern - Regulatory Data Science</td>
 <td>North Wales, PA<br>Linden, NJ</td>
 <td>🔒</td>
@@ -73908,7 +73908,7 @@
 <td>Internship Program - Credit Trading</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sony?utm_source=GHList&utm_medium=company">Sony</a></strong></td>
