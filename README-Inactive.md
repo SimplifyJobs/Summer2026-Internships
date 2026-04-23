@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 12409 Inactive Internship Roles by Category
+### Browse 12410 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (4015)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (316)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1703)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1704)
 
 ---
 
@@ -18540,7 +18540,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">Oracle</a></strong></td>
 <td>Undergrad Software Engineer Intern - Database Technologies</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
@@ -19240,7 +19240,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Cyber Software Engineering Intern - Strategic Deterrent Systems Division</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
@@ -27038,7 +27038,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa?utm_source=GHList&utm_medium=company">Medline</a></strong></td>
 <td>IT Developer Analyst Intern - Low Code/RPA</td>
 <td>Northbrook, IL</td>
 <td>🔒</td>
@@ -32953,7 +32953,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Warner-Bros?utm_source=GHList&utm_medium=company">Warner Bros.</a></strong></td>
 <td>WB Games Product Management Intern Co-op - Multiple Teams</td>
 <td>Needham, MA</td>
 <td>🔒</td>
@@ -33461,14 +33461,14 @@
 <td>Associate Product Manager Intern - Multiple Teams</td>
 <td><details><summary><strong>4 locations</strong></summary>SF<br>San Bruno, CA<br>NYC<br>Mountain View, CA</details></td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/5683f540-3a95-48b7-9c76-2881769c1111?utm_source=GHList&utm_medium=company">Pangaea</a></strong></td>
 <td>Product Development Intern - Product Development</td>
 <td>California</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Clarios?utm_source=GHList&utm_medium=company">Clarios</a></strong></td>
@@ -63579,7 +63579,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/ExpeditionTech?utm_source=GHList&utm_medium=company">Expedition Technology</a></strong></td>
 <td>Machine Learning and Digital Signal Processing Intern - Digital Signal Processing - Machine Learning</td>
 <td>Reston, VA</td>
 <td>🔒</td>
@@ -63859,7 +63859,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/SageSure-Insurance-Managers?utm_source=GHList&utm_medium=company">SageSure</a></strong></td>
+<td>↳</td>
 <td>Business Intelligence Intern - Business Intelligence</td>
 <td>NYC<br>Cheshire, CT</td>
 <td>🔒</td>
@@ -66614,7 +66614,7 @@
 <td>Business Systems Engineer Intern - People Technology</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Enova?utm_source=GHList&utm_medium=company">Enova</a></strong></td>
@@ -67933,7 +67933,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/British-Columbia-Investment?utm_source=GHList&utm_medium=company">British Columbia Investment</a></strong></td>
 <td>Data Analyst / Engineer Co-op/Internship</td>
 <td>Victoria, BC, Canada<br>Vancouver, BC, Canada</td>
 <td>🔒</td>
@@ -70292,7 +70292,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/The-Toro-Company?utm_source=GHList&utm_medium=company">The Toro Company</a></strong></td>
+<td>↳</td>
 <td>QMS Intern - The Toro Company</td>
 <td>Bloomington, MN</td>
 <td>🔒</td>
@@ -74268,7 +74268,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Brevan-Howard?utm_source=GHList&utm_medium=company">Brevan Howard</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Internship Programme - Macro Trading</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -74338,7 +74338,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Brevan-Howard?utm_source=GHList&utm_medium=company">Brevan Howard</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Internship Programme - Artificial Intelligence & Quant</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -75881,6 +75881,13 @@
 <td><strong><a href="https://simplify.jobs/c/Becton-Dickinson?utm_source=GHList&utm_medium=company">Becton Dickinson</a></strong></td>
 <td>MMS R&D Engineering Intern</td>
 <td>San Diego, CA</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Intern Engineer - Multiple Teams</td>
+<td>Scottsdale, AZ</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
@@ -83872,7 +83879,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Cedar Rapids, IA</td>
 <td>🔒</td>
@@ -84688,7 +84695,7 @@
 <td>Mechatronics Summer Intern</td>
 <td>Ann Arbor, MI</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -85146,7 +85153,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Palm Bay, FL</td>
 <td>🔒</td>
@@ -85678,7 +85685,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
 <td>DPS Packaging Engineering Intern</td>
 <td>Apopka, FL</td>
 <td>🔒</td>
@@ -86175,7 +86182,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/The-Toro-Company?utm_source=GHList&utm_medium=company">The Toro Company</a></strong></td>
+<td>↳</td>
 <td>Hardware and Software Engineering Internship - Ditch Witch</td>
 <td>Stillwater, OK</td>
 <td>🔒</td>

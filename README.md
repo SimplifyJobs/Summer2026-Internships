@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1168 Internship Roles by Category
+### Browse 1167 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (371)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (11)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (208)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (207)
 
 ---
 
@@ -7775,13 +7775,6 @@
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Intern Engineer - Multiple Teams</td>
-<td>Scottsdale, AZ</td>
-<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/71717/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/14cdcd96-1da8-4d88-883c-aaa3908a6de2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Microchip-Technology?utm_source=GHList&utm_medium=company">Microchip Technology</a></strong></td>
 <td>Intern - Engineer</td>
 <td>Boulder, CO</td>
@@ -8394,7 +8387,7 @@
 </table>
 
 
-🔒 **[See 1703 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1704 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
