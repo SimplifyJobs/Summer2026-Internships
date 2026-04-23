@@ -1852,14 +1852,14 @@
 <td>Customer Solutions Intern (ERP Software)</td>
 <td>Lansing, MI</td>
 <td><div align="center"><a href="https://bsa.applytojob.com/apply/dvXDzc11tD/Customer-Solutions-Intern-ERP-Software?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Skechers?utm_source=GHList&utm_medium=company">Skechers</a></strong></td>
 <td>Cloud Analyst Intern</td>
 <td>Manhattan Beach, CA</td>
 <td><div align="center"><a href="https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Cloud-Analyst-Intern--Summer-2026-_JR126223?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -7499,28 +7499,28 @@
 <td>Electronic Systems and Hardware Co-Op</td>
 <td>Horsham, PA</td>
 <td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8b147aea-c74c-428c-8253-1eb6b906d174?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>R&D Engineer Intern</td>
 <td>State College, PA</td>
 <td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000075861-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8a815184-1c31-4ca2-a883-b2f68e147d57?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>R&D Engineer Intern</td>
 <td>State College, PA</td>
 <td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/830dee77-3b49-44dd-aa85-77fa551d21a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/St-Lukes-University-Health-Network?utm_source=GHList&utm_medium=company">St. Luke's University Health Network</a></strong></td>
 <td>Healthcare Technology Management Intern</td>
 <td>Allentown, PA<br>Bethlehem, PA</td>
 <td><div align="center"><a href="https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Bethlehem-PA---800-Ostrum-St/Healthcare-Technology-Management-Intern--Cover-letter-required-_R138700?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7a09dc67-3804-4601-930b-88fa051f4bad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
@@ -7772,7 +7772,7 @@
 <td>Destruct Lab Intern</td>
 <td>Oak Ridge, TN</td>
 <td><div align="center"><a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Clinton-Tennessee-US/Quality-Intern--Destruct-Lab_R00237578?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cb857a6c-6db1-4b1f-a428-c2dbe8249e4f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Workstream?utm_source=GHList&utm_medium=company">Workstream</a></strong></td>
