@@ -2817,7 +2817,7 @@
 </table>
 
 
-🔒 **[See 4005 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 4004 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -6058,7 +6058,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
 <td>Robotics AI Software- R&D 🎓</td>
 <td>Troy, MI</td>
 <td><div align="center"><a href="https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Software--R-D-Summer-2026_R00232838?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
