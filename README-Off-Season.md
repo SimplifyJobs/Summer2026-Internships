@@ -462,7 +462,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1157)</summary>
+<summary>🗃️ Inactive roles (1156)</summary>
 
 <table>
 <thead>
@@ -6293,7 +6293,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Incubation Developer Co-op/Intern</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026, Spring 2026</td>
@@ -9724,14 +9724,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong>DMA</strong></td>
-<td>Software Development Intern</td>
-<td>Fort Wayne, IN</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12538,7 +12530,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1539)</summary>
+<summary>🗃️ Inactive roles (1538)</summary>
 
 <table>
 <thead>
@@ -24882,14 +24874,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Data Scientist I</td>
-<td>Vancouver, British Columbia, CAN</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -25778,7 +25762,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (726)</summary>
+<summary>🗃️ Inactive roles (725)</summary>
 
 <table>
 <thead>
@@ -31589,14 +31573,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Software Engineer and Tools Developer Intern</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
-<td>Control Systems & Algorithm Engineering Co-op 🛂</td>
-<td>Needham, MA</td>
-<td>Spring 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
