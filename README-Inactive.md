@@ -22593,7 +22593,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
 <td>Associate Application Security Engineer Intern - Sso</td>
 <td>San Diego, CA</td>
 <td>🔒</td>
@@ -24077,7 +24077,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
+<td>↳</td>
 <td>Comcast Platform Onboarding and Operationalization Intern</td>
 <td>Mt Laurel Township, NJ</td>
 <td>🔒</td>
@@ -68787,7 +68787,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
+<td>↳</td>
 <td>Comcast AI Engineering Intern</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
@@ -70810,7 +70810,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cboe?utm_source=GHList&utm_medium=company">Cboe</a></strong></td>
+<td>↳</td>
 <td>Derivatives Market Structure and Functionality Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -86196,7 +86196,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
 <td>SW Intern</td>
 <td>Troy, MI</td>
 <td>🔒</td>
