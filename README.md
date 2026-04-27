@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1100 Internship Roles by Category
+### Browse 1098 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (367)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (365)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (100)
 
@@ -193,13 +193,6 @@
 <td>Year at Palantir – Intern</td>
 <td>Washington, DC</td>
 <td><div align="center"><a href="https://jobs.lever.co/palantir/9410b487-c6c0-4178-903c-3311ce6b1861/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a40eeecb-2655-4172-8dad-cedc88e6fc40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
-<td>Software Engineering Intern - Python - SDN</td>
-<td>San Jose, CA</td>
-<td><div align="center"><a href="https://jobs.jobvite.com/nutanix/job/oFskyfwJ?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a21bc663-d021-4a02-9d89-34b384c25c5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -470,13 +463,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
-<td>Software Developer Intern</td>
-<td>Annapolis Junction, MD</td>
-<td><div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2026-Software-Developer-Internship_RQ218740-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/abdb8566-5153-416c-9199-20b13ecd5ccc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Software Developer Intern</td>
 <td>Annapolis Junction, MD</td>
 <td><div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2026-Software-Developer-Internship_RQ218741-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6cf51ca6-ab3d-44c4-b5e7-3d8acad6becb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2663,7 +2649,7 @@
 </table>
 
 
-🔒 **[See 3953 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3955 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -6071,6 +6057,20 @@
 <td><div align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001PL&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/987d1466-1392-4d12-91f8-c5c41814db2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
+<td>Research Scientist Intern - MSL Infra Kernels & Optimizations 🎓</td>
+<td>Menlo Park, CA</td>
+<td><div align="center"><a href="https://www.metacareers.com/jobs/4342539279351100?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a906af09-f3fb-4517-9872-8c6adf943d84?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Antora-Energy?utm_source=GHList&utm_medium=company">Antora Energy</a></strong></td>
+<td>Power Supply Intern</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/antora/jobs/5819407004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4e650812-53f5-427f-abdf-132ef773af76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6097,20 +6097,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
-<td>Research Scientist Intern - MSL Infra Kernels & Optimizations 🎓</td>
-<td>Menlo Park, CA</td>
-<td><div align="center"><a href="https://www.metacareers.com/jobs/4342539279351100?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a906af09-f3fb-4517-9872-8c6adf943d84?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Antora-Energy?utm_source=GHList&utm_medium=company">Antora Energy</a></strong></td>
-<td>Power Supply Intern</td>
-<td>San Jose, CA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/antora/jobs/5819407004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4e650812-53f5-427f-abdf-132ef773af76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Mathematics - PhD 🎓</td>

@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 12320 Inactive Internship Roles by Category
+### Browse 12322 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3953)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3955)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (896)
 
@@ -109,6 +109,13 @@
 <td>3d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
+<td>Software Engineering Intern - Python - SDN</td>
+<td>San Jose, CA</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Hello-Fresh?utm_source=GHList&utm_medium=company">Hello Fresh</a></strong></td>
 <td>AI Operations & Automation Intern</td>
 <td>NYC</td>
@@ -168,6 +175,13 @@
 <td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
 <td>Software Engineering Intern - C++/Linux/Distributed Systems</td>
 <td>San Jose, CA</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
+<td>Software Developer Intern</td>
+<td>Annapolis Junction, MD</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
@@ -15222,7 +15236,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marmon-Holdings?utm_source=GHList&utm_medium=company">Marmon Holdings</a></strong></td>
+<td>↳</td>
 <td>Engineering Intern</td>
 <td>Decatur, AL</td>
 <td>🔒</td>
@@ -21347,7 +21361,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>Post Production Technology Intern - Post Production Engineering</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -67450,7 +67464,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
+<td>↳</td>
 <td>Data Informatics Analyst Intern - Security Organization 🎓</td>
 <td>San Diego, CA</td>
 <td>🔒</td>
@@ -71230,7 +71244,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Inventing-For-Life?utm_source=GHList&utm_medium=company">Inventing for Life</a></strong></td>
+<td>↳</td>
 <td>Future Talent Program – Co-Op - Chemical Biology Proteomics Data Analysis 🎓</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
