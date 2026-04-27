@@ -6,15 +6,15 @@
 
 ---
 
-### Browse 12284 Inactive Internship Roles by Category
+### Browse 12287 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3945)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3946)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (895)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5452)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5453)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (292)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (293)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1700)
 
@@ -2800,6 +2800,13 @@
 <td>↳</td>
 <td>Full-Stack AI Developer Intern</td>
 <td>Remote in Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
+<td>Software Engineer Intern - Full Stack</td>
+<td>Remote in USA<br>NYC<br>Atlanta, GA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -19828,14 +19835,14 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Internship - Software Engineering - Siri Developer Productivity</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>Internship - Debugger Compiler Integration Intern - Debugger Compiler Integration</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -22299,7 +22306,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Software Engineering Intern - Strategic Deterrent Systems Division</td>
 <td>Hill AFB, UT</td>
 <td>🔒</td>
@@ -24189,7 +24196,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Full Stack Engineering Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>NYC<br>Mountain View, CA<br>Atlanta, GA<br>San Diego, CA</details></td>
 <td>🔒</td>
@@ -36834,6 +36841,13 @@
 <td><strong><a href="https://simplify.jobs/c/AECOM?utm_source=GHList&utm_medium=company">AECOM</a></strong></td>
 <td>Geospatial Data Scientist Intern</td>
 <td>Reston, VA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
+<td>Intern Data Analytics</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -63817,7 +63831,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Internship - Applied Machine Learning - Developer Publications Intelligence</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -63831,7 +63845,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>Intern - Privacy Preserving Machine Learning Engineering</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
@@ -72276,6 +72290,13 @@
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
 <td>Investment Analyst Intern</td>
 <td>Palo Alto, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Agentis-Capital?utm_source=GHList&utm_medium=company">Agentis Capital</a></strong></td>
+<td>Capital Markets Intern</td>
+<td>Toronto, ON, Canada<br>Vancouver, BC, Canada</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -83319,7 +83340,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>PMU Design Verification Intern - Design Verification - PMU Hardware Tech</td>
 <td>Swindon, UK</td>
 <td>🔒</td>

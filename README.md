@@ -9,15 +9,15 @@
 
 ---
 
-### Browse 1126 Internship Roles by Category
+### Browse 1123 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (373)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (372)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (100)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (444)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (443)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (11)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (10)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (198)
 
@@ -1918,13 +1918,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
-<td>Software Engineer Intern - Full Stack</td>
-<td>Remote in USA<br>NYC<br>Atlanta, GA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/impiricus/jobs/5160382008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a51651ef-323e-4a64-afea-c7ab40c14f60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Agentic AI Engineering Intern</td>
 <td>Remote in USA</td>
@@ -2705,7 +2698,7 @@
 </table>
 
 
-🔒 **[See 3945 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3946 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -5463,13 +5456,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Impiricus?utm_source=GHList&utm_medium=company">Impiricus</a></strong></td>
-<td>Intern Data Analytics</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/impiricus/jobs/5160568008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b4ea56db-dcfd-4479-8dde-abdf95b8431d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/XPO?utm_source=GHList&utm_medium=company">XPO</a></strong></td>
 <td>Data Science Intern</td>
 <td>Boston, MA</td>
@@ -6064,6 +6050,13 @@
 <td><div align="center"><a href="https://job-boards.greenhouse.io/madisonenergyinfrastructure/jobs/4174929009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/52c899c7-5608-4a11-821d-29de0716fe70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cummins?utm_source=GHList&utm_medium=company">Cummins</a></strong></td>
+<td>Degree Apprenticeship - Data Scientist Level 6</td>
+<td>Durham, UK</td>
+<td><div align="center"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2424778?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/30c97095-a14c-4e0c-a3c0-dc01829a6784?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6090,13 +6083,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cummins?utm_source=GHList&utm_medium=company">Cummins</a></strong></td>
-<td>Degree Apprenticeship - Data Scientist Level 6</td>
-<td>Durham, UK</td>
-<td><div align="center"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2424778?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/30c97095-a14c-4e0c-a3c0-dc01829a6784?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Applied Perception Science - PhD 🎓</td>
@@ -6591,7 +6577,7 @@
 </table>
 
 
-🔒 **[See 5452 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 5453 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -6660,13 +6646,6 @@
 <td>19d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Agentis-Capital?utm_source=GHList&utm_medium=company">Agentis Capital</a></strong></td>
-<td>Capital Markets Intern</td>
-<td>Toronto, ON, Canada<br>Vancouver, BC, Canada</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/Agentis-Capital-Advisors/db0f00d9-7b08-43cf-b75d-3ff97e3985e1/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/93b543f6-f482-422e-bb24-535df6779a92?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Fanatics?utm_source=GHList&utm_medium=company">Fanatics</a></strong></td>
 <td>Collectibles Intern - Product - Physical Trading Cards</td>
 <td>Coppell, TX</td>
@@ -6691,7 +6670,7 @@
 </table>
 
 
-🔒 **[See 292 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 293 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
