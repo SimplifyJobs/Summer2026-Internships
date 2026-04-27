@@ -1026,7 +1026,7 @@
 <td>Software Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.dayforcehcm.com/en-US/otg/CANDIDATEPORTAL/jobs/39712?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jencap?utm_source=GHList&utm_medium=company">Jencap</a></strong></td>
