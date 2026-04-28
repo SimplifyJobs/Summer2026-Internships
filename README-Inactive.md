@@ -351,14 +351,14 @@
 <td>Software Engineer Intern 🇺🇸</td>
 <td>Ogden, UT</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong>Poshmark</strong></td>
 <td>Cloud Platform Engineer Intern 🛂</td>
 <td>Redwood, CA</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -5818,14 +5818,14 @@
 <td>Software Engineering Intern</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9?utm_source=GHList&utm_medium=company">Wex</a></strong></td>
 <td>Intern Software Engineer</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Treehouse-Strategy-And-Communications?utm_source=GHList&utm_medium=company">Treehouse Strategy and Communications</a></strong></td>
@@ -11019,7 +11019,7 @@
 <td>Software Engineering Intern - Summer 2026</td>
 <td>Richardson, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DraftKings?utm_source=GHList&utm_medium=company">DraftKings</a></strong></td>
@@ -18817,7 +18817,7 @@
 <td>Product Engineering Intern: Modeling - Summer 2026</td>
 <td>Milwaukee, WI</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company">ABB</a></strong></td>
@@ -29324,7 +29324,7 @@
 <td>Product Marketing Intern</td>
 <td>Grafton, WI</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
@@ -30703,7 +30703,7 @@
 <td>AI Product Management Intern</td>
 <td>Boulder, CO</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff?utm_source=GHList&utm_medium=company">nVent</a></strong></td>
@@ -32642,7 +32642,7 @@
 <td>Product Manager Intern - Summer 2026</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nike?utm_source=GHList&utm_medium=company">Nike</a></strong></td>
@@ -34567,7 +34567,7 @@
 <td>AI/ML Engineering Intern</td>
 <td>Redwood, CA</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
@@ -41658,7 +41658,7 @@
 <td>Scientific Solutions Intern 🎓</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble (P&G)</a></strong></td>
@@ -49379,28 +49379,28 @@
 <td>Data Systems Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Analytics Engineer Intern</td>
 <td>Boulder, CO</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Engineering Intern</td>
 <td>Boulder, CO</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Energy Market Analytics Intern - Encompass</td>
 <td>Boulder, CO</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Elevance-Health?utm_source=GHList&utm_medium=company">Elevance Health</a></strong></td>
@@ -53349,7 +53349,7 @@
 <td>State Street Enterprise Risk Management – Credit Risk Analytics Internship - Summer 2026</td>
 <td>Stamford, CT</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -62176,49 +62176,49 @@
 <td>Summer Intern - Statistical Documentation</td>
 <td>Morrisville, NC</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>JMP 2026 Summer Intern; Design of Experiments & Reliability - R&D</td>
 <td>Morrisville, NC</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>JMP 2026 Summer Intern; Machine Learning / LLM / C++ 🎓</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>JMP 2026 Summer Intern; Causal Inference - Life Sciences R&D</td>
 <td>Morrisville, NC</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
 <td>Research Engineer Intern - Summer 2026</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
 <td>Intern – Gas Compliance</td>
 <td>Sioux City, IA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Intern – Gas Integrity Management - Engineering</td>
 <td>Sioux City, IA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -67814,7 +67814,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/30f50907-d22b-40aa-a394-d75e18dcb37f?utm_source=GHList&utm_medium=company">Live Oak Bank</a></strong></td>
 <td>Data Science Intern - Analytics Team</td>
 <td>Wilmington, NC</td>
 <td>🔒</td>
@@ -80491,7 +80491,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>WDW Computer Science / Computer Engineering Interns - Fall 2026</td>
 <td>Celebration, FL</td>
 <td>🔒</td>
@@ -82122,7 +82122,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Computer Engineer Intern</td>
 <td>Beavercreek, OH</td>
 <td>🔒</td>
@@ -85048,7 +85048,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>R&D Hardware Engineer Intern - Active Implantable Systems</td>
 <td>Roseville, MN</td>
 <td>🔒</td>

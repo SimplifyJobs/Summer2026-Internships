@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1054 Internship Roles by Category
+### Browse 1057 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (345)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (96)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (431)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (432)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (11)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (171)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (173)
 
 ---
 
@@ -564,14 +564,14 @@
 <td>Intern Engineer - Systems, Software, Electrical, Test 🇺🇸</td>
 <td>Scottsdale, AZ</td>
 <td><div align="center"><a href="https://careers-gdms.icims.com/jobs/72071/intern-engineer---systems%2c-software%2c-electrical%2c-test/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ChargePoint?utm_source=GHList&utm_medium=company">ChargePoint</a></strong></td>
 <td>Software QA Engineering - Intern</td>
 <td>Campbell, CA</td>
 <td><div align="center"><a href="https://www.chargepoint.com/about/opportunities/software-qa-engineering-intern?gh_jid=8505201002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -3230,6 +3230,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Becton-Dickinson?utm_source=GHList&utm_medium=company">Becton Dickinson</a></strong></td>
+<td>Business Data Analytics Intern - Channel Coverage 🎓</td>
+<td><details><summary><strong>50 locations</strong></summary>New Mexico<br>Washington<br>Kansas<br>Pennsylvania<br>North Dakota<br>Oregon<br>Delaware<br>Iowa<br>California<br>Washington, DC<br>Vermont<br>Wyoming<br>Texas<br>Montana<br>Jackson Township, NJ<br>Sparks, MD<br>Florida<br>Waterbury, CT<br>Nevada<br>South Carolina<br>South Dakota<br>Georgia<br>Concord, NH<br>Mississippi<br>Tennessee<br>Virginia<br>Arkansas<br>Minnesota<br>Colorado<br>Nebraska<br>Rhode Island<br>Utah<br>Hawaii, United States<br>Kentucky<br>West Virginia<br>NYC<br>Maryland<br>Wisconsin<br>Maine<br>Massachusetts<br>North Carolina<br>Oklahoma<br>Missouri<br>Ohio<br>Indiana<br>Louisiana<br>Alaska<br>Michigan<br>Illinois<br>Idaho</details></td>
+<td><div align="center"><a href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0718fecc-0b61-46aa-a33c-44fa02cce82a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/ASUS-USA?utm_source=GHList&utm_medium=company">ASUS USA</a></strong></td>
 <td>AI System Development Intern</td>
 <td>Fremont, CA</td>
@@ -3689,7 +3696,7 @@
 <td>Automated Driving Machine Learning Intern 🎓</td>
 <td>Sunnyvale, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/4b4e8d9d-bb9c-46e5-b617-1274806096f3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scout-Motors?utm_source=GHList&utm_medium=company">Scout Motors</a></strong></td>
@@ -6057,27 +6064,6 @@
 <td><div align="center"><a href="https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1411470&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dd3cf73a-9413-4059-ad06-843e4f54e203?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kioxia?utm_source=GHList&utm_medium=company">Kioxia</a></strong></td>
-<td>Product Line Management Intern 🎓</td>
-<td>Santa Clara, CA</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/Kioxia/744000112783357?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cada7d39-4d7c-42a5-ab3d-10e28b7e2b27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company">Skydio</a></strong></td>
-<td>GTM Data Engineer Intern</td>
-<td>San Mateo, CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f347053e-7fcf-47e6-b77d-386511416647?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2026</td>
-<td>San Mateo, CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56d85e11-5105-449f-beb5-a81dfb701f70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -6104,6 +6090,27 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kioxia?utm_source=GHList&utm_medium=company">Kioxia</a></strong></td>
+<td>Product Line Management Intern 🎓</td>
+<td>Santa Clara, CA</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/Kioxia/744000112783357?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cada7d39-4d7c-42a5-ab3d-10e28b7e2b27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company">Skydio</a></strong></td>
+<td>GTM Data Engineer Intern</td>
+<td>San Mateo, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f347053e-7fcf-47e6-b77d-386511416647?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2026</td>
+<td>San Mateo, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56d85e11-5105-449f-beb5-a81dfb701f70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scout-Motors?utm_source=GHList&utm_medium=company">Scout Motors</a></strong></td>
 <td>Intern – Production</td>
@@ -6395,6 +6402,20 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Engineer Co-op Intern</td>
+<td>Colorado Springs, CO</td>
+<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/72242/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/23dfd13f-ecf3-41ea-b250-b3321a94cc0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Intern Engineer – Co-Op</td>
+<td>Colorado Springs, CO</td>
+<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/72243/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/445a828a-9a5b-4684-b60b-26f94095ef39?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DiDi-Global?utm_source=GHList&utm_medium=company">DiDi Global</a></strong></td>
 <td>Software Engineer Intern - Simulation</td>
