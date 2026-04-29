@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1003 Internship Roles by Category
+### Browse 1002 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (329)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (328)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (88)
 
@@ -1701,13 +1701,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Mercedes-Benz?utm_source=GHList&utm_medium=company">Mercedes-Benz</a></strong></td>
-<td>Software Developer Intern</td>
-<td>San Jose, CA</td>
-<td><div align="center"><a href="https://jobs.lever.co/MBRDNA/bf597528-079f-47a1-965f-def393590f02/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f6a3af7e-f19a-41de-953f-a5d99d2b6ea5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong>CalAmp</strong></td>
 <td>ntern, Engineer Software</td>
 <td>Carlsbad, Ca</td>
@@ -2397,7 +2390,7 @@
 </table>
 
 
-🔒 **[See 3982 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3983 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -6075,6 +6068,13 @@
 <td><div align="center"><a href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Farmington-Connecticut/Intern---Engineering---SIC_R-08918?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4d4a1509-fccd-40a4-9160-8d4cef973482?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Quadric?utm_source=GHList&utm_medium=company">Quadric</a></strong></td>
+<td>Software Engineer Intern - Kernels</td>
+<td>Burlingame, CA</td>
+<td><div align="center"><a href="https://apply.workable.com/quadric-dot-i-o-inc/j/369989F805/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0fb7dd0f-b805-4a7a-806b-52ac48ca9e2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6101,13 +6101,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Quadric?utm_source=GHList&utm_medium=company">Quadric</a></strong></td>
-<td>Software Engineer Intern - Kernels</td>
-<td>Burlingame, CA</td>
-<td><div align="center"><a href="https://apply.workable.com/quadric-dot-i-o-inc/j/369989F805/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0fb7dd0f-b805-4a7a-806b-52ac48ca9e2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Raytheon Future Ready Lab Intern - Thermal & Mechanical Test Lab</td>
