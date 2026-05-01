@@ -92,7 +92,7 @@
 <tbody>
 <tr>
 <td><strong>Axiomatic AI</strong></td>
-<td>Software Engineering Internship – AI/Agentic Systems 🎓</td>
+<td>Software Engineering Internship – AI/Agentic Systems 🛂</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>0d</td>
