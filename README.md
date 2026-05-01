@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 986 Internship Roles by Category
+### Browse 987 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (340)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (76)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (401)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (402)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (10)
 
@@ -3054,6 +3054,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TMEIC</strong></td>
+<td>Intern - Applications, AI and Machine Learning 🛂</td>
+<td>Roanoke, VA</td>
+<td><div align="center"><a href="https://apply.workable.com/tmeic-corporation-americas/j/8B7205061B/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Resolve Tech Solutions</strong></td>
 <td>AI & ML Intern</td>
