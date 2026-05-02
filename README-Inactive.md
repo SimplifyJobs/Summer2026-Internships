@@ -21281,7 +21281,7 @@
 <td>Application Developer Intern - ERP Team</td>
 <td>Savannah, GA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company">SeatGeek</a></strong></td>
@@ -22145,7 +22145,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Software Engineer Intern - Recommendation Systems</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
@@ -33534,7 +33534,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company">LPL Financial Holdings</a></strong></td>
+<td>↳</td>
 <td>Internship - Technology - Program Management - Research Team</td>
 <td>Fort Mill, SC<br>San Diego, CA</td>
 <td>🔒</td>
@@ -57143,7 +57143,7 @@
 <td>Intern Program: Audio Processing & Machine Learning Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
@@ -64608,7 +64608,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Secretariat?utm_source=GHList&utm_medium=company">Secretariat</a></strong></td>
 <td>Co-op Construction Delay</td>
 <td>Montreal, QC, Canada</td>
 <td>🔒</td>
@@ -65830,7 +65830,7 @@
 <td>Data Science Intern - Multiple Teams</td>
 <td>LA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company">SeatGeek</a></strong></td>
@@ -67471,7 +67471,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Data Engineer Intern - Advanced Analytics 🎓</td>
 <td>Oshkosh, WI</td>
 <td>🔒</td>
@@ -71097,7 +71097,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Intern - BS/MS - Test Engineering - Motion Control</td>
 <td>SF</td>
 <td>🔒</td>
@@ -73474,7 +73474,7 @@
 <td>Quantitative Analyst Intern - Multistrategy Team</td>
 <td>Madison, WI</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
@@ -84187,7 +84187,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
 <td>Firmware Engineering Intern - Firmware Engineering</td>
 <td>Shakopee, MN</td>
 <td>🔒</td>

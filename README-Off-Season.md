@@ -9237,7 +9237,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company">Snowflake</a></strong></td>
 <td>Software Engineer Intern - Database Engineering</td>
 <td>Menlo Park, CA<br>Bellevue, WA</td>
 <td>Spring 2026</td>
@@ -19091,7 +19091,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/FlagshipPioneering?utm_source=GHList&utm_medium=company">Flagship Pioneering</a></strong></td>
+<td>↳</td>
 <td>Data Scientist Co-op</td>
 <td>Cambridge, MA</td>
 <td>Winter 2025</td>
@@ -25202,7 +25202,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (709)</summary>
+<summary>🗃️ Inactive roles (708)</summary>
 
 <table>
 <thead>
@@ -30169,7 +30169,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
+<td>↳</td>
 <td>Photonics Topology Software Developer Intern/Co-op - Multiple Teams</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026</td>
@@ -30877,14 +30877,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Information Security Systems Engineer Intern</td>
 <td>Waco, TX</td>
 <td>Fall 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Impulse-Space?utm_source=GHList&utm_medium=company">Impulse Space</a></strong></td>
-<td>Development Test Engineering Intern - Summer 2026</td>
-<td>Mojave, CA<br>El Segundo, CA</td>
-<td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
