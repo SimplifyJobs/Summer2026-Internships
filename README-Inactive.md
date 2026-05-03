@@ -988,21 +988,21 @@
 <td>Software Engineer Intern</td>
 <td>Irvine, CA</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong>Enterprise Mobility</strong></td>
 <td>Intern - Software Engineer (Fleet IT) 🛂</td>
 <td>St. Louis, MO</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong>Berkley Technology Services</strong></td>
 <td>Cloud Team Intern 🛂</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zscaler?utm_source=GHList&utm_medium=company">Zscaler</a></strong></td>
@@ -1135,28 +1135,28 @@
 <td>Technical Intern, Compiler Software 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>HealthStream</strong></td>
 <td>Intern, Software Developer</td>
 <td>Nashville, TN</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>Arrow International</strong></td>
 <td>Software Engineer Intern</td>
 <td>Las Vegas, NV</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>System Automation</strong></td>
 <td>Software Engineer Intern 🛂</td>
 <td>Remote in US</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>Leonardo DRS</strong></td>
@@ -53023,7 +53023,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
 <td>Intern - Technical Specialist 🎓</td>
 <td>Mississauga, ON, Canada</td>
 <td>🔒</td>
@@ -67793,7 +67793,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
 <td>Data Informatics Analyst Intern - Security Organization 🎓</td>
 <td>San Diego, CA</td>
 <td>🔒</td>
