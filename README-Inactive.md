@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 12187 Inactive Internship Roles by Category
+### Browse 12193 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3840)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3844)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (894)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5450)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5452)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (265)
 
@@ -119,6 +119,13 @@
 <td>↳</td>
 <td>Technology Intern</td>
 <td>Alpharetta, GA</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>Sharp</strong></td>
+<td>Summer Intern- AI Process Automation, Supply Chain and Operations 🛂</td>
+<td>Montvale, NJ</td>
 <td>🔒</td>
 <td>3d</td>
 </tr>
@@ -840,6 +847,13 @@
 <td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
 <td>Technology – Intern</td>
 <td>Manchester, UK</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>Nielsen</strong></td>
+<td>Cloud Resilience & Security Automation Intern</td>
+<td>New York, NY</td>
 <td>🔒</td>
 <td>18d</td>
 </tr>
@@ -3350,6 +3364,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Skechers?utm_source=GHList&utm_medium=company">Skechers</a></strong></td>
+<td>Cloud Analyst Intern</td>
+<td>Manhattan Beach, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/SanMar?utm_source=GHList&utm_medium=company">SanMar</a></strong></td>
 <td>IT Intern, Software Development</td>
 <td>Issaquah, WA</td>
@@ -4368,6 +4389,13 @@
 <td>↳</td>
 <td>Firmware Engineering Internship 🇺🇸</td>
 <td>South Burlington, VT</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company">Alarm.com</a></strong></td>
+<td>Cloud Operations Intern-DevOps 🛂</td>
+<td>Tysons, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -21718,7 +21746,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/IEX?utm_source=GHList&utm_medium=company">IEX</a></strong></td>
 <td>Cyber Security Engineer Intern - Information Security</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -33268,6 +33296,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>OBE</strong></td>
+<td>AI Intern – Data, Analytics & AI</td>
+<td>Dallas, TX</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Epiq-Systems?utm_source=GHList&utm_medium=company">Epiq Systems</a></strong></td>
 <td>Research Intern Fellow 🎓</td>
 <td>Seattle, WA</td>
@@ -34006,6 +34041,13 @@
 <td><strong><a href="https://simplify.jobs/c/Arizona-State-University?utm_source=GHList&utm_medium=company">Arizona State University</a></strong></td>
 <td>Management Intern - GIS Specialist</td>
 <td>Tempe, AZ</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>Nielsen</strong></td>
+<td>Information Security AI Strategy Intern</td>
+<td>New York, NY</td>
 <td>🔒</td>
 <td>18d</td>
 </tr>
@@ -44916,7 +44958,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>ABC News Insights and Analytics Intern - Summer/Fall 2026</td>
 <td>NYC</td>
 <td>🔒</td>
