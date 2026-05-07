@@ -25082,7 +25082,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (704)</summary>
+<summary>🗃️ Inactive roles (703)</summary>
 
 <table>
 <thead>
@@ -30717,14 +30717,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Intern – Technician</td>
 <td>Tuscaloosa, AL</td>
 <td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
-<td>FPGA System Developer Intern</td>
-<td>Shakopee, MN</td>
-<td>Fall 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

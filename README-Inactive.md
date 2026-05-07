@@ -1485,7 +1485,7 @@
 <td>Technical Co-Op Intern - Software Engineering 🇺🇸</td>
 <td>Cypress, CA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb?utm_source=GHList&utm_medium=company">Dover</a></strong></td>
