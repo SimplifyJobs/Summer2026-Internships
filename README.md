@@ -200,14 +200,14 @@
 <td>Intern - (Systems, Software, Electrical Engineer) 🇺🇸</td>
 <td>Wahiawa, HI</td>
 <td><div align="center"><a href="https://careers-gdms.icims.com/jobs/72459/intern---%28systems%2c-software%2c-electrical-engineer%29/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Triumph?utm_source=GHList&utm_medium=company">Triumph</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>San Francisco, CA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/triumph-arcade/89d82fc2-c2dd-439d-bbc2-e3dcb298fffc?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Endpoint-Clinical?utm_source=GHList&utm_medium=company">Endpoint Clinical</a></strong></td>
@@ -2201,7 +2201,7 @@
 </table>
 
 
-🔒 **[See 3809 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3804 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -2856,14 +2856,14 @@
 <td>Agentic AI Intern – Consumer 🎓</td>
 <td>Milpitas, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/5e80aa84-8a0e-4e0d-a45e-d7603034332a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Patterson Companies</strong></td>
 <td>Azure AI Developer & DevOps Engineer Intern</td>
 <td>Effingham, IL</td>
 <td><div align="center"><a href="https://pattersoncompanies.wd501.myworkdayjobs.com/en-US/pdco/job/Effingham-IL/Azure-AI-Developer---DevOps-Engineer-Intern_R110727?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong>Cole Engineering Services</strong></td>
