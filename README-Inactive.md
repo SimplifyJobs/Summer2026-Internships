@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 12059 Inactive Internship Roles by Category
+### Browse 12054 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3802)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3800)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (885)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5389)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5388)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (252)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1731)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1729)
 
 ---
 
@@ -15040,14 +15040,14 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>2026 Summer Internship Program - Platforms & Technology - Software Engineer</td>
 <td>Mt Laurel Township, NJ</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
+<td>↳</td>
 <td>Software Developer Intern/Co-op</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -26684,20 +26684,6 @@
 <td><strong><a href="https://simplify.jobs/c/Reframe-Systems?utm_source=GHList&utm_medium=company">Reframe Systems</a></strong></td>
 <td>Software Engineer – Full Stack Robotics Intern</td>
 <td>Andover, MA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Grant-Thornton?utm_source=GHList&utm_medium=company">Grant Thornton</a></strong></td>
-<td>Audit IT Assurance Intern</td>
-<td>Dallas, TX</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Audit IT Assurance Intern</td>
-<td>Houston, TX</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -64640,7 +64626,7 @@
 <td>Intern – Customer Care</td>
 <td><details><summary><strong>5 locations</strong></summary>Plainview, NY<br>Golden, CO<br>Wakefield, MA<br>NYC<br>White Plains, NY</details></td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
@@ -66050,7 +66036,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>AI Research Scientist Intern - 3D Computer Vision and Graphics - Media</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
@@ -70659,13 +70645,6 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company">Ramp</a></strong></td>
 <td>Applied Scientist Intern 🎓</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
-<td>Renewable Development – Intern - GIS</td>
-<td>Des Moines, IA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -84575,20 +84554,6 @@
 <td><strong><a href="https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company">Rockwell Automation</a></strong></td>
 <td>Co-op – Embedded Software Engineer</td>
 <td>Mayfield Heights, OH</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Application Engineer Intern 🎓</td>
-<td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Application Engineering Intern</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

@@ -790,7 +790,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1081)</summary>
+<summary>🗃️ Inactive roles (1080)</summary>
 
 <table>
 <thead>
@@ -8517,7 +8517,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
+<td>↳</td>
 <td>Network Control Intern - Multiple Teams</td>
 <td>Melbourne, FL</td>
 <td>Winter 2025</td>
@@ -9441,14 +9441,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Engineering Lab Technician Co-op/Intern</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026, Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae?utm_source=GHList&utm_medium=company">RF-SMART</a></strong></td>
-<td>Software Developer – Intern - Sdet</td>
-<td>Jacksonville, FL</td>
-<td>Spring 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -12522,7 +12514,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1441)</summary>
+<summary>🗃️ Inactive roles (1438)</summary>
 
 <table>
 <thead>
@@ -13912,6 +13904,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Crowe?utm_source=GHList&utm_medium=company">Crowe</a></strong></td>
+<td>Tax Artificial Intelligence Intern</td>
+<td>Chicago, IL</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -13938,14 +13938,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Crowe?utm_source=GHList&utm_medium=company">Crowe</a></strong></td>
-<td>Tax Artificial Intelligence Intern</td>
-<td>Chicago, IL</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nestle?utm_source=GHList&utm_medium=company">Nestle</a></strong></td>
 <td>Nestlé Health Science-Engineering Intern</td>
@@ -24066,30 +24058,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Red-Hat?utm_source=GHList&utm_medium=company">Red Hat</a></strong></td>
-<td>Data Analyst Intern</td>
-<td>Raleigh, NC</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Entegris?utm_source=GHList&utm_medium=company">Entegris</a></strong></td>
-<td>Data Scientist Co-Op</td>
-<td>Montgomery, IL</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/American-Financial-Group?utm_source=GHList&utm_medium=company">American Financial Group</a></strong></td>
-<td>Data Engineering & Visualization Intern</td>
-<td>Cincinnati, OH</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -25098,7 +25066,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (694)</summary>
+<summary>🗃️ Inactive roles (693)</summary>
 
 <table>
 <thead>
@@ -30652,14 +30620,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Frederick, MD<br>Waynesboro, PA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Software Design Intern</td>
-<td>Santa Clara, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
