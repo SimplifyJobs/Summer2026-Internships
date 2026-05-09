@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 844 Internship Roles by Category
+### Browse 843 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (305)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (74)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (338)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (337)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (7)
 
@@ -4084,13 +4084,6 @@
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cambium-Learning-Group?utm_source=GHList&utm_medium=company">Cambium Learning Group</a></strong></td>
-<td>Assessment Technical Data Analyst Intern 🎓</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Assessment-Technical-Data-Analyst-Intern_REQ-4429?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/76cca4c5-7927-4a57-a1c4-47811fae208e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Trumid?utm_source=GHList&utm_medium=company">Trumid</a></strong></td>
 <td>Delivery Management Intern</td>
 <td>NYC</td>
@@ -5165,7 +5158,7 @@
 </table>
 
 
-🔒 **[See 5335 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 5336 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -5237,7 +5230,7 @@
 </table>
 
 
-🔒 **[See 239 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 238 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
@@ -6068,6 +6061,13 @@
 <td><div align="center"><a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/535343c5-cc36-48c6-8edc-cb3602183366?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Smiths-Detection-Group?utm_source=GHList&utm_medium=company">Smiths Detection Group</a></strong></td>
+<td>Imaging and Algorithms Intern</td>
+<td>Gunpowder, MD</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000114074937?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d6995a66-6162-42e8-b156-b4b54f44949a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -6095,13 +6095,6 @@
 <tbody>
 
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Smiths-Detection-Group?utm_source=GHList&utm_medium=company">Smiths Detection Group</a></strong></td>
-<td>Imaging and Algorithms Intern</td>
-<td>Gunpowder, MD</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000114074937?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d6995a66-6162-42e8-b156-b4b54f44949a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Monolithic-Power-Systems?utm_source=GHList&utm_medium=company">Monolithic Power Systems</a></strong></td>
 <td>Application Engineer Intern</td>
 <td>San Jose, CA</td>
@@ -6126,7 +6119,7 @@
 </table>
 
 
-🔒 **[See 1698 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1697 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
