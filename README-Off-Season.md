@@ -790,7 +790,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1043)</summary>
+<summary>🗃️ Inactive roles (1042)</summary>
 
 <table>
 <thead>
@@ -8917,7 +8917,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/British-Columbia-Investment?utm_source=GHList&utm_medium=company">British Columbia Investment</a></strong></td>
 <td>Enterprise Solutions Software Engineering Co-op/ Internship</td>
 <td>Victoria, BC, Canada</td>
 <td>Winter 2026</td>
@@ -9137,14 +9137,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Business Operations Software Engineer</td>
 <td>Milwaukee, WI<br>Needham, MA<br>Hartford, CT</td>
 <td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Intact?utm_source=GHList&utm_medium=company">Intact</a></strong></td>
-<td>AI Backend Developer</td>
-<td>Montreal, QC, Canada</td>
-<td>Winter 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -11226,7 +11218,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>↳</td>
 <td>Digital Product Specialist Intern/Co-op - Sales Origination Product Delivery 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026</td>
@@ -12178,7 +12170,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1414)</summary>
+<summary>🗃️ Inactive roles (1413)</summary>
 
 <table>
 <thead>
@@ -13856,6 +13848,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
+<td>Intern</td>
+<td>San Diego, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Intern</td>
+<td>San Diego, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -13882,22 +13890,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
-<td>Intern</td>
-<td>San Diego, CA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern</td>
-<td>San Diego, CA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tecovas?utm_source=GHList&utm_medium=company">Tecovas</a></strong></td>
 <td>Data & Analytics Intern - Internal Opportunity</td>
@@ -23518,14 +23510,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Nova-Tech?utm_source=GHList&utm_medium=company">Nova-Tech</a></strong></td>
 <td>AI Internship</td>
 <td>South Haven, MN</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ASM-Global?utm_source=GHList&utm_medium=company">ASM Global</a></strong></td>
-<td>Intern – CSL - Minneapolis</td>
-<td>Minneapolis, MN</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
