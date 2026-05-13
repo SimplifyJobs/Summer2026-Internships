@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11892 Inactive Internship Roles by Category
+### Browse 11908 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3747)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3758)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (889)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5323)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5328)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (229)
 
@@ -221,6 +221,13 @@
 <td>5d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Intern - (Systems, Software, Electrical Engineer) 🇺🇸</td>
+<td>Wahiawa, HI</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
 <td>AI Engineer Intern</td>
 <td>Illinois</td>
@@ -380,6 +387,20 @@
 <td>Dallas, TX</td>
 <td>🔒</td>
 <td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
+<td>Cloud QA Engineer and Performance Intern - CRD</td>
+<td>Burlington, MA</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
+<td>Software Quality Engineer Intern 🛂</td>
+<td>Austin, TX</td>
+<td>🔒</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fiserv?utm_source=GHList&utm_medium=company">Fiserv</a></strong></td>
@@ -1390,6 +1411,13 @@
 <td>26d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Canon?utm_source=GHList&utm_medium=company">Canon</a></strong></td>
+<td>Software Intern 🛂</td>
+<td>Irvine, CA</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Jabil?utm_source=GHList&utm_medium=company">Jabil</a></strong></td>
 <td>Cloud & Infrastructure Manufacturing Test Developer Intern</td>
 <td>Austin, TX</td>
@@ -1435,6 +1463,13 @@
 <td><strong>Joint Commission</strong></td>
 <td>Software Development Internship</td>
 <td>Oakbrook Terrace, IL</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Tricentis</strong></td>
+<td>Software Engineering Intern 🛂</td>
+<td>Austin, TX</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -1733,6 +1768,13 @@
 <td>29d</td>
 </tr>
 <tr>
+<td><strong>Advanced Space</strong></td>
+<td>Software Engineering Summer Intern 🇺🇸</td>
+<td>Westminster, CO</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
 <td><strong>Motorola Solutions</strong></td>
 <td>Intern - Embedded Software, System, and Test Engineer 🇺🇸</td>
 <td>Los Angeles, CA</td>
@@ -1880,6 +1922,13 @@
 <td>30d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12?utm_source=GHList&utm_medium=company">Hyundai Motor Company</a></strong></td>
+<td>Infotainment Software Engineering Intern 🛂</td>
+<td>Superior Charter Township, MI</td>
+<td>🔒</td>
+<td>30d</td>
+</tr>
+<tr>
 <td><strong>HealthStream</strong></td>
 <td>Intern, Software Developer</td>
 <td>Nashville, TN</td>
@@ -1897,6 +1946,13 @@
 <td><strong>System Automation</strong></td>
 <td>Software Engineer Intern 🛂</td>
 <td>Remote in US</td>
+<td>🔒</td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>JB&B</strong></td>
+<td>Software Engineering Intern</td>
+<td>New York, NY</td>
 <td>🔒</td>
 <td>30d</td>
 </tr>
@@ -2695,6 +2751,13 @@
 <td><strong>Albacore</strong></td>
 <td>Software Engineering Intern 🇺🇸</td>
 <td>Philadelphia, PA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Cartesian</strong></td>
+<td>Software Engineering Intern</td>
+<td>Cambridge, MA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -4820,6 +4883,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong>Urban Science</strong></td>
+<td>Software Engineering Intern 🛂</td>
+<td>Detroit, MI</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Generac?utm_source=GHList&utm_medium=company">Generac</a></strong></td>
 <td>Intern IT - Application Development, Manufacturing Software</td>
 <td>Waukesha, WI</td>
@@ -5299,6 +5369,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Chicago, IL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Canon?utm_source=GHList&utm_medium=company">Canon</a></strong></td>
+<td>Software Imaging Intern 🛂</td>
+<td>Irvine, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -32673,6 +32750,13 @@
 <td>5d</td>
 </tr>
 <tr>
+<td><strong>Patterson Companies</strong></td>
+<td>Azure AI Developer & DevOps Engineer Intern</td>
+<td>Effingham, IL</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Speech Processing / ASR for Low-Resource Languages Intern</td>
 <td>Remote in USA</td>
@@ -34111,6 +34195,13 @@
 <td><strong>UL Standards & Engagement</strong></td>
 <td>Data Science & Engineering Intern</td>
 <td>Raleigh-Durham, NC<br>Evanston, IL</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>MGIC</strong></td>
+<td>Data Engineer Intern</td>
+<td>Milwaukee, WI</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
@@ -35956,6 +36047,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/SitusAMC?utm_source=GHList&utm_medium=company">SitusAMC</a></strong></td>
+<td>Intern - AI Software Development Team</td>
+<td>Remote in US</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong>Agility</strong></td>
 <td>Robotics Software Engineering Intern 🎓 🛂</td>
 <td>Pittsburgh, PA</td>
@@ -35980,6 +36078,13 @@
 <td><strong>AI Intern to the CEO</strong></td>
 <td>CYVL</td>
 <td>Boston, MA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Red-Bull?utm_source=GHList&utm_medium=company">Red Bull</a></strong></td>
+<td>Internship, Data Science</td>
+<td>East Hanover, NJ</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -38164,6 +38269,13 @@
 <td>↳</td>
 <td>Data Science Intern</td>
 <td>Madison, WI</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>PowerSchool</strong></td>
+<td>Intern, AI Engineering</td>
+<td>Dallas, TX</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
