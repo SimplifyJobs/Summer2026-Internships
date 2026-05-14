@@ -8821,7 +8821,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Trend-Micro?utm_source=GHList&utm_medium=company">Trend Micro</a></strong></td>
 <td>Vulnerability Research Intern - Multiple Teams</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026</td>
@@ -12482,7 +12482,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1385)</summary>
+<summary>🗃️ Inactive roles (1384)</summary>
 
 <table>
 <thead>
@@ -13152,14 +13152,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>2mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
-<td>Quality & Data Analytics Co-op</td>
-<td>Spartanburg, SC</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -13186,6 +13178,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>Quality & Data Analytics Co-op</td>
+<td>Spartanburg, SC</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
 <td>J&J Surgery: Data Science Co-op</td>
@@ -23591,14 +23591,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2026 Spring Intern - Data and Statistical Sciences</td>
 <td>San Bruno, CA</td>
 <td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/QuadReal?utm_source=GHList&utm_medium=company">QuadReal</a></strong></td>
-<td>Data Scientist – Co-op/Internship</td>
-<td>Toronto, ON, Canada</td>
-<td>Winter 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
