@@ -6,15 +6,15 @@
 
 ---
 
-### Browse 11754 Inactive Internship Roles by Category
+### Browse 11750 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3681)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3678)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (880)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5286)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (224)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (223)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1683)
 
@@ -87,13 +87,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company">TransPerfect</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>0d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/United-Wholesale-Mortgage?utm_source=GHList&utm_medium=company">United Wholesale Mortgage</a></strong></td>
 <td>Technology Intern</td>
@@ -383,6 +376,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
+<td>Yard Engineer Intern</td>
+<td>Dallas, TX</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Yard Engineer Intern</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
@@ -25831,28 +25831,7 @@
 <td>Quantitative Strategist 🛂</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company">Dexcom</a></strong></td>
-<td>SW Development Engineering</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>CDK</strong></td>
-<td>Product Management Intern</td>
-<td>Austin, TX<br>Portland, OR<br>Hoffman Estates, IL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineering Intern</td>
-<td>Austin, TX<br>Portland, OR<br>Hoffman Estates, IL</td>
-<td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -27346,7 +27325,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Circle?utm_source=GHList&utm_medium=company">Circle</a></strong></td>
+<td>↳</td>
 <td>Intern – Product Management</td>
 <td>SF</td>
 <td>🔒</td>
@@ -32057,6 +32036,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Pathos?utm_source=GHList&utm_medium=company">Pathos</a></strong></td>
+<td>ML Engineer Intern</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
 <td>AI and Data Analytics Intern</td>
 <td>Dulles, VA</td>
@@ -33096,13 +33082,6 @@
 <td><strong><a href="https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company">Zoox</a></strong></td>
 <td>PhD Research Intern - Offline Driving Intelligence 🎓</td>
 <td>San Mateo, CA</td>
-<td>🔒</td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Intern - AI/ML Engineer - Cloud and Developer Infrastructure 🎓</td>
-<td><details><summary><strong>6 locations</strong></summary>Milford Charter Twp, MI<br>Austin, TX<br>Detroit, MI<br>Sunnyvale, CA<br>Mountain View, CA<br>Warren, MI</details></td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
@@ -45235,7 +45214,7 @@
 <td>Benefits Operation Data Analyst Project Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Intuition?utm_source=GHList&utm_medium=company">Applied Intuition</a></strong></td>
@@ -66442,7 +66421,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>Intern - Data Science - Planner & Perception Evaluation 🎓</td>
 <td>SF<br>Mountain View, CA</td>
 <td>🔒</td>
@@ -70648,13 +70627,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong>Virtu</strong></td>
-<td>Quantitative Strategist (PhD) 🎓</td>
-<td>New York, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -71353,14 +71325,14 @@
 <td>R&D Engineer Intern</td>
 <td>State College, PA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/St-Lukes-University-Health-Network?utm_source=GHList&utm_medium=company">St. Luke's University Health Network</a></strong></td>
 <td>Healthcare Technology Management Intern</td>
 <td>Allentown, PA<br>Bethlehem, PA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
@@ -73057,7 +73029,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>Embedded Systems / Firmware Engineering Intern-2</td>
 <td>Stoke-on-Trent, UK</td>
 <td>🔒</td>
@@ -81541,7 +81513,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
 <td>Intern - Software Engineering - Multiple Teams 🎓</td>
 <td>SF</td>
 <td>🔒</td>

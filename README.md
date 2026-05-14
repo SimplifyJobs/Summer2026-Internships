@@ -91,6 +91,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company">TransPerfect</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-243900?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/009fbf42-7902-4632-a32d-8be35fa22fae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Astera?utm_source=GHList&utm_medium=company">Astera</a></strong></td>
 <td>Software Engineer Intern - Distributed Simulation Systems</td>
 <td>Oakland, CA</td>
@@ -476,13 +483,6 @@
 <td>9d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Yard Engineer Intern</td>
-<td>Dallas, TX</td>
-<td><div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Incubation Developer Coop/Intern</td>
 <td>Ottawa, ON, Canada</td>
@@ -515,7 +515,7 @@
 <td>RLS Intern - Technical Information & Documentation</td>
 <td>Grand Rapids, MI<br>Holland, MI</td>
 <td><div align="center"><a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RLS-Intern---Technical-Information---Documentation_JR-0088330-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b42a45f1-7811-4fcf-8999-e99d8e2b8a6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NewsBreak?utm_source=GHList&utm_medium=company">NewsBreak</a></strong></td>
@@ -1774,7 +1774,7 @@
 </table>
 
 
-🔒 **[See 3681 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3678 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -2296,13 +2296,6 @@
 <td>Data Scientist Intern</td>
 <td>Raleigh, NC</td>
 <td><div align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Data-Scientist-Intern_R0129529?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9813e2de-df7f-4f4a-9bf8-b059361e238a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Pathos?utm_source=GHList&utm_medium=company">Pathos</a></strong></td>
-<td>ML Engineer Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://ats.rippling.com/pathos/jobs/430a21a7-8718-47ff-8963-2095727cce57?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d9ea509b-1e6a-4984-8ede-eb92547cabed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -3363,6 +3356,13 @@
 <td>25d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
+<td>Intern - AI/ML Engineer - Cloud and Developer Infrastructure 🎓</td>
+<td><details><summary><strong>6 locations</strong></summary>Milford Charter Twp, MI<br>Austin, TX<br>Detroit, MI<br>Sunnyvale, CA<br>Mountain View, CA<br>Warren, MI</details></td>
+<td><div align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/10529106-8f42-4165-814f-149d4a47f89e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Bosch?utm_source=GHList&utm_medium=company">Robert Bosch Venture Capital</a></strong></td>
 <td>Wireless Sensing Research Intern 🎓</td>
 <td>Sunnyvale, CA</td>
@@ -4292,7 +4292,7 @@
 </table>
 
 
-🔒 **[See 224 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 223 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
@@ -4722,14 +4722,14 @@
 <td>Electronic Systems and Hardware Co-Op</td>
 <td>Horsham, PA</td>
 <td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8b147aea-c74c-428c-8253-1eb6b906d174?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>R&D Engineer Intern</td>
 <td>State College, PA</td>
 <td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/830dee77-3b49-44dd-aa85-77fa551d21a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bose?utm_source=GHList&utm_medium=company">Bose</a></strong></td>
