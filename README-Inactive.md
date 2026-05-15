@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11713 Inactive Internship Roles by Category
+### Browse 11712 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3663)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3662)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (877)
 
@@ -25718,13 +25718,6 @@
 <td>↳</td>
 <td>Intern-Full Stack Software Engineer</td>
 <td>Long Island, New York</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BNY-Mellon?utm_source=GHList&utm_medium=company">The Bank of New York Mellon</a></strong></td>
-<td>2026 BNY Summer Internship Program - Engineering Developer - Early Talent and University Programs</td>
-<td>London, UK</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

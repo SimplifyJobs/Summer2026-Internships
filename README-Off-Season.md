@@ -22312,7 +22312,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Seattle, WA<br>Menlo Park, CA<br>NYC</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KPH-Healthcare-Services?utm_source=GHList&utm_medium=company">KPH Healthcare Services</a></strong></td>
@@ -23782,7 +23782,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Relationship Manager - Business Markets</td>
 <td>Newfoundland, Newfoundland and Labrador, Canada<br>St. John's, NL, Canada</td>
 <td>Spring 2026</td>
@@ -29593,7 +29593,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Shield-AI?utm_source=GHList&utm_medium=company">Shield AI</a></strong></td>
 <td>Embedded Engineering Co-Op - Embedded Software - Multiple Teams</td>
 <td>Dallas, TX</td>
 <td>Spring 2026</td>
