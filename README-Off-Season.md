@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 283 Internship Roles by Category
+### Browse 285 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (96)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (19)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (20)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (109)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (110)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (3)
 
@@ -9351,6 +9351,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>22d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
+<td>GAM – Portfolio Solutions Intern</td>
+<td>Toronto, ON, Canada</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-GAM--Fall-Portfolio-Solutions-Intern--8-months-_R-0000167895?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e045efc0-7a85-4178-96f4-e8cc6e10fdae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
 <td>Consumer Insights Intern</td>
 <td>Needham, MA</td>
@@ -9371,7 +9379,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (246)</summary>
+<summary>🗃️ Inactive roles (245)</summary>
 
 <table>
 <thead>
@@ -9432,14 +9440,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Fall 2026, Winter 2027</td>
 <td>🔒</td>
 <td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
-<td>GAM – Portfolio Solutions Intern</td>
-<td>Toronto, ON, Canada</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company">NBCUniversal</a></strong></td>
@@ -11630,6 +11630,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Desjardins-Group?utm_source=GHList&utm_medium=company">Desjardins Group</a></strong></td>
+<td>Data Intern</td>
+<td>Montreal, QC, Canada<br>Quebec City, QC, Canada</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b8011049-1548-4053-9e0a-5906cd2dbd3f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>CFO – Data Analyst Intern</td>
 <td>Toronto, ON, Canada</td>
@@ -12258,7 +12266,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1398)</summary>
+<summary>🗃️ Inactive roles (1397)</summary>
 
 <table>
 <thead>
@@ -12300,14 +12308,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company">NBCUniversal</a></strong></td>
 <td>Advertising & Partnerships Ad Products Intern</td>
 <td>NYC</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Desjardins-Group?utm_source=GHList&utm_medium=company">Desjardins Group</a></strong></td>
-<td>Data Intern</td>
-<td>Montreal, QC, Canada<br>Quebec City, QC, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>5d</td>
@@ -13800,30 +13800,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/KairosPower?utm_source=GHList&utm_medium=company">Kairos Power</a></strong></td>
-<td>Materials Computational Scientist Intern 🎓</td>
-<td>Alameda, CA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Abacus-Insights?utm_source=GHList&utm_medium=company">Abacus Insights</a></strong></td>
-<td>Data Operations Engineer Intern – Internship 🎓</td>
-<td>Remote in USA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cooper-Standard?utm_source=GHList&utm_medium=company">Cooper Standard</a></strong></td>
-<td>Data Science Intern 🎓</td>
-<td>Livonia, MI</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -13850,6 +13826,30 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/KairosPower?utm_source=GHList&utm_medium=company">Kairos Power</a></strong></td>
+<td>Materials Computational Scientist Intern 🎓</td>
+<td>Alameda, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Abacus-Insights?utm_source=GHList&utm_medium=company">Abacus Insights</a></strong></td>
+<td>Data Operations Engineer Intern – Internship 🎓</td>
+<td>Remote in USA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cooper-Standard?utm_source=GHList&utm_medium=company">Cooper Standard</a></strong></td>
+<td>Data Science Intern 🎓</td>
+<td>Livonia, MI</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Expeditors?utm_source=GHList&utm_medium=company">Expeditors</a></strong></td>
 <td>Intern Developer - Master Data Management 🎓</td>
@@ -22024,7 +22024,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Atlanta, GA</td>
 <td>Winter 2026, Spring 2026</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wayve?utm_source=GHList&utm_medium=company">Wayve</a></strong></td>
@@ -27486,7 +27486,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>London, UK</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>

@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 520 Internship Roles by Category
+### Browse 521 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (193)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (194)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (39)
 
@@ -320,6 +320,13 @@
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/53c77559-a2c2-430b-a7d5-e6b47abb4467?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CAE?utm_source=GHList&utm_medium=company">CAE</a></strong></td>
+<td>Engineering Co-op</td>
+<td>Tampa, FL</td>
+<td><div align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/efa65a8c-d804-442f-9165-003d9fe830c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Acceldata?utm_source=GHList&utm_medium=company">Acceldata</a></strong></td>
@@ -1445,7 +1452,7 @@
 </table>
 
 
-🔒 **[See 3670 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3669 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
