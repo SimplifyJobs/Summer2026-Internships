@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 11653 Inactive Internship Roles by Category
+### Browse 11641 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3633)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3629)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (881)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (880)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5259)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5254)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (212)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1668)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1666)
 
 ---
 
@@ -119,13 +119,6 @@
 <td>↳</td>
 <td>Software Intern</td>
 <td>Austin, TX</td>
-<td>🔒</td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
-<td>Software Developer Intern</td>
-<td>Albany, NY</td>
 <td>🔒</td>
 <td>1d</td>
 </tr>
@@ -3070,13 +3063,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
-<td>Software Engineer Intern - Backend Development</td>
-<td>London, UK</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Resmed?utm_source=GHList&utm_medium=company">Resmed</a></strong></td>
 <td>Automation Intern</td>
 <td>Norcross, GA</td>
@@ -3840,13 +3826,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Thermo-Fisher-Scientific?utm_source=GHList&utm_medium=company">Thermo Fisher Scientific</a></strong></td>
-<td>Engineering Intern/Co-op</td>
-<td>Hillsboro, OR</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Legal-And-General?utm_source=GHList&utm_medium=company">Legal & General</a></strong></td>
 <td>Intern Onetech Services</td>
 <td>Brighton, UK</td>
@@ -3955,13 +3934,6 @@
 <td><strong><a href="https://simplify.jobs/c/Semtech?utm_source=GHList&utm_medium=company">Semtech</a></strong></td>
 <td>Software Developer - Web/Cloud Application</td>
 <td>Richmond, BC, Canada</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td>Network Engineer Intern</td>
-<td>Remote in Germany<br>Remote in UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -17308,7 +17280,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>Studio Talent Group Intern</td>
 <td>Vancouver, BC, Canada</td>
 <td>🔒</td>
@@ -19034,14 +19006,14 @@
 <td>2026 Summer Software Engineering Internship - Northeast</td>
 <td>SF</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Software Engineering Internship - Northeast</td>
 <td>SF</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amperity?utm_source=GHList&utm_medium=company">Amperity</a></strong></td>
@@ -25540,13 +25512,6 @@
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tyson-Foods?utm_source=GHList&utm_medium=company">Tyson Foods</a></strong></td>
-<td>Business Management Intern</td>
-<td>Springdale, AR</td>
-<td>🔒</td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/EnergyCap?utm_source=GHList&utm_medium=company">EnergyCap</a></strong></td>
 <td>Product Operations Associate Intern</td>
 <td>Remote in USA</td>
@@ -31742,13 +31707,6 @@
 <td>1d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Machine Learning Intern</td>
-<td>Toronto, ON, Canada</td>
-<td>🔒</td>
-<td>1d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/US-Venture?utm_source=GHList&utm_medium=company">U.S. Venture</a></strong></td>
 <td>Data Science & GenAI Research Intern - Igen</td>
 <td>Appleton, WI</td>
@@ -31758,13 +31716,6 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Centific?utm_source=GHList&utm_medium=company">Centific</a></strong></td>
 <td>Intern 2</td>
-<td>Redmond, WA</td>
-<td>🔒</td>
-<td>1d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Analyst Intern</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
 <td>1d</td>
@@ -32263,13 +32214,6 @@
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>GE Vernova GenAI Intern 🎓</td>
 <td>Schenectady, NY</td>
-<td>🔒</td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Geisinger?utm_source=GHList&utm_medium=company">Geisinger</a></strong></td>
-<td>GME Analytics & Dashboard Development Intern</td>
-<td>Wilkes-Barre, PA</td>
 <td>🔒</td>
 <td>15d</td>
 </tr>
@@ -35917,13 +35861,6 @@
 <td><strong><a href="https://simplify.jobs/c/FMC-Corporation?utm_source=GHList&utm_medium=company">FMC Corporation</a></strong></td>
 <td>Market Intelligence & Data Analyst Intern</td>
 <td>Philadelphia, PA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
-<td>Intern - Physics & AI modeling Engineering 🎓</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -68541,13 +68478,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company">Ramp</a></strong></td>
-<td>AI Operations Internship</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -71121,13 +71051,6 @@
 <td><strong><a href="https://simplify.jobs/c/Thorlabs?utm_source=GHList&utm_medium=company">Thorlabs</a></strong></td>
 <td>Intern</td>
 <td>Branchville, NJ</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Model Correlation & SI Intern - PhD Degree 🎓</td>
-<td>Ottawa, ON, Canada</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -81740,13 +81663,6 @@
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>IC Application Engineer Intern - Masters Degree 🎓</td>
 <td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company">AbbVie</a></strong></td>
-<td>2026 Combination Product Development Engineering Intern</td>
-<td>Waukegan, IL</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

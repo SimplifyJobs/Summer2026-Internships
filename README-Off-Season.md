@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 313 Internship Roles by Category
+### Browse 314 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (102)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (23)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (120)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (121)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (3)
 
@@ -11847,6 +11847,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Data Science Intern - Data Science</td>
+<td>Longueuil, QC, Canada</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Science-des-donnes---Internship---Fall-2026---Data-Science_01841595?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cd385d8f-6fdb-4050-a460-6ee6b6f2ecb8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Intern - Digital Service for Engines - Ground Systems Engineer</td>
 <td>Longueuil, QC, Canada</td>
 <td>Fall 2026</td>
@@ -12266,7 +12274,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1382)</summary>
+<summary>🗃️ Inactive roles (1381)</summary>
 
 <table>
 <thead>
@@ -12375,14 +12383,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Fall 2025, Fall 2026</td>
 <td>🔒</td>
 <td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Data Science Intern - Data Science</td>
-<td>Longueuil, QC, Canada</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -13528,22 +13528,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
-<td>AI Scientist</td>
-<td>Toronto, ON, Canada</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
-<td>Apprentice Geospatial Analyst</td>
-<td>St. Louis, MO<br>Reston, VA</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -13570,6 +13554,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>AI Scientist</td>
+<td>Toronto, ON, Canada</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>Apprentice Geospatial Analyst</td>
+<td>St. Louis, MO<br>Reston, VA</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/5276a21f-bbf3-42c6-b809-d1b328b36b6e?utm_source=GHList&utm_medium=company">MFS</a></strong></td>
 <td>Data Science Analyst Co-op</td>
