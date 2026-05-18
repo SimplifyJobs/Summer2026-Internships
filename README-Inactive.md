@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 11541 Inactive Internship Roles by Category
+### Browse 11534 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3599)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3596)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (876)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (874)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5218)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5217)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (205)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1643)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1642)
 
 ---
 
@@ -459,13 +459,6 @@
 <td>12d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Xebia?utm_source=GHList&utm_medium=company">Xebia</a></strong></td>
-<td>Internship Program - Multiple Teams</td>
-<td>Atlanta, GA</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/ModMed?utm_source=GHList&utm_medium=company">Modernizing Medicine</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Boca Raton, FL</td>
@@ -483,13 +476,6 @@
 <td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>San Jose, CA</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
-<td>Yard Engineer Intern</td>
-<td>Dallas, TX</td>
 <td>🔒</td>
 <td>13d</td>
 </tr>
@@ -2191,13 +2177,6 @@
 <td><strong><a href="https://simplify.jobs/c/IHeartMedia?utm_source=GHList&utm_medium=company">iHeartMedia</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>San Antonio, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/KION-Group?utm_source=GHList&utm_medium=company">KION Group</a></strong></td>
-<td>Procurement Intern</td>
-<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -25302,13 +25281,6 @@
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Trane-Technologies?utm_source=GHList&utm_medium=company">Trane Technologies</a></strong></td>
-<td>Commercialization Product Support Co-op</td>
-<td>Pueblo, CO<br>Winona, MN</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/EnergyCap?utm_source=GHList&utm_medium=company">EnergyCap</a></strong></td>
 <td>Product Operations Associate Intern</td>
 <td>Remote in USA</td>
@@ -26201,13 +26173,6 @@
 <td><strong><a href="https://simplify.jobs/c/Galaxy?utm_source=GHList&utm_medium=company">Galaxy</a></strong></td>
 <td>Product Intern</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
-<td>Technology Product Analyst Intern 🎓</td>
-<td>Dallas, TX</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -36639,14 +36604,14 @@
 <td>AI Engineer Intern</td>
 <td>Milford, MA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Riverside-Research?utm_source=GHList&utm_medium=company">Riverside Research</a></strong></td>
 <td>AI/ML Intern 🇺🇸</td>
 <td>Dayton, OH</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong>Bio-Rad Laboratories</strong></td>
@@ -53198,7 +53163,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
 <td>Intern - Technical Specialist 🎓</td>
 <td>Mississauga, ON, Canada</td>
 <td>🔒</td>
@@ -67981,13 +67946,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Data Informatics Analyst Intern - Security Organization 🎓</td>
-<td>San Diego, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -69849,13 +69807,6 @@
 <td>Wauwatosa, WI</td>
 <td>🔒</td>
 <td>20d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
-<td>Software Engineering Intern</td>
-<td>Auburn Hills, MI</td>
-<td>🔒</td>
-<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nidec?utm_source=GHList&utm_medium=company">Nidec</a></strong></td>
