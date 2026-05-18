@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11552 Inactive Internship Roles by Category
+### Browse 11547 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3604)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3599)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (875)
 
@@ -392,6 +392,13 @@
 <td><strong><a href="https://simplify.jobs/c/Premier?utm_source=GHList&utm_medium=company">Premier</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Charlotte, NC</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
+<td>Technology Intern - Ist</td>
+<td>Manchester, UK</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
@@ -25273,48 +25280,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
-<td>Co-op/Intern Associate Software Developer</td>
-<td>Ottawa, ON, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
-<td>Engineering Intern</td>
-<td>Santa Rosa, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>R&D Software Engineering Intern</td>
-<td>Loveland, CO</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Application Development Intern</td>
-<td>Santa Rosa, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>R&D Software Engineer Internship</td>
-<td>Santa Rosa, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Agropur?utm_source=GHList&utm_medium=company">Agropur</a></strong></td>
-<td>IT Plant Operations Intern</td>
-<td>Twin Falls, ID</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -31661,6 +31626,13 @@
 <td><strong><a href="https://simplify.jobs/c/Allegiant-Air?utm_source=GHList&utm_medium=company">Allegiant Air</a></strong></td>
 <td>Operations Strategy & Analytics Intern</td>
 <td>Las Vegas, NV</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>Wearable Intelligence for Sleep Health Intern 🎓</td>
+<td>Cambridge, UK</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
@@ -50852,7 +50824,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
+<td>↳</td>
 <td>PhD Intern - Efficient 3D Generation Frameworks 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -58438,7 +58410,7 @@
 <td>Statistics & Decision Sciences Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>New Hope, PA<br>Bridgewater Township, NJ<br>La Jolla, San Diego, CA<br>Ambler, PA</details></td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genuine-Parts-Company?utm_source=GHList&utm_medium=company">Genuine Parts Company</a></strong></td>
@@ -68034,13 +68006,6 @@
 <td><strong><a href="https://simplify.jobs/c/Corning?utm_source=GHList&utm_medium=company">Corning</a></strong></td>
 <td>R&D Reliability Intern - Summer 2026 🎓</td>
 <td>Elmira, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
-<td>Software Developer Intern 🎓</td>
-<td>Santa Rosa, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
