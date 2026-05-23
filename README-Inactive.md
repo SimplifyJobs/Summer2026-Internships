@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11491 Inactive Internship Roles by Category
+### Browse 11490 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3575)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3574)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (872)
 
@@ -126,13 +126,6 @@
 <td><strong><a href="https://simplify.jobs/c/Marmon-Holdings?utm_source=GHList&utm_medium=company">Marmon Holdings</a></strong></td>
 <td>Software Development Intern</td>
 <td>Quebec City, QC, Canada</td>
-<td>🔒</td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Plus?utm_source=GHList&utm_medium=company">PlusAI</a></strong></td>
-<td>Software Engineer Intern - Data</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>3d</td>
 </tr>
@@ -44672,14 +44665,14 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>PhD Residency - Machine Learning for Grid Simulations 🎓</td>
+<td>2026 PhD / Master's Residency - Machine Learning / Software Engineering - Bellwether 🎓</td>
 <td>Mountain View, CA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>2026 PhD / Master's Residency - Machine Learning / Software Engineering - Bellwether 🎓</td>
+<td>PhD Residency - Machine Learning for Grid Simulations 🎓</td>
 <td>Mountain View, CA</td>
 <td>🔒</td>
 <td>3mo</td>
