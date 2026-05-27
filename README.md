@@ -1,9 +1,7 @@
   # Summer 2026 Tech Internships by Pitt CSC & Simplify
 
-  We're back! Use this repo to share and keep track of **Summer 2026 tech internships** across software, data science, quant, and more. The list is updated and maintained daily by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+  Use this repo to share and keep track of **Summer 2026 tech internships** across software engineering, data science, quant, hardware engineering, AI/ML and more. The list is updated and maintained daily by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/?utm_source=github)!
 
-
-  🧠 For valuable tips on navigating the internship process, be sure to check out our guide: [**Zero to Offer**](https://web.archive.org/web/20250319235510/https://pittcs.wiki/zero-to-offer/) 🧠 
 
   🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
@@ -30,7 +28,7 @@
     <a href="https://simplify.jobs/copilot?utm_source=GHList&utm_medium=banner">
       <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="500" alt="Simplify Copilot Banner">
     </a>
-    <p><sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub></p>
+    <p><sub><i>Simplify helps you find internships early and autofill your job applications on millions of sites.</i></sub></p>
   </div>
 
   ---
@@ -48,31 +46,41 @@
 
   ## Legend
 
-  🛂 Does NOT offer sponsorship
-
-  🇺🇸 Requires U.S. Citizenship
-
-  🔒 Internship application is closed
-
-  🔥 FAANG+ company
-
-  🎓 Advanced degree required (Master's, PhD, MBA)
+  - 🛂 Does NOT offer sponsorship
+  - 🇺🇸 Requires U.S. Citizenship
+  - 🔒 Internship application is closed
+  - 🔥 FAANG+ company
+  - 🎓 Advanced degree required (Master's, PhD, MBA)
 
 
   > **Looking for something else?**
 
   > 🔒 For closed/inactive internship listings, check out [Inactive Listings](./README-Inactive.md)  
-  > 🌍 For off-season internships please see the [Off-Season 2025 README](./README-Off-Season.md)  
+  > 🌍 For off-season internships please see the [Off-Season 2026 README](./README-Off-Season.md)  
   > 🎓 For new-grad tech jobs, check out [New Grad Repo](https://github.com/SimplifyJobs/New-Grad-Positions)  
   > ☀️ For older summer internships, check out [Archived Summer 2025 README](./archived/README-2025.md)
 
   ---
+  
+  ## FAQs
+  ### What kinds of internships are listed here and where do they come from?
+  This repo focuses on Summer 2026 internships in tech, including software engineering, data science, AI/ML, product management, quantitative finance, hardware engineering, and related roles. 
+  
+  Opportunities come from community submissions and Simplify's automated internship monitoring. Community members add roles as soon as they find them, and [Simplify](https://simplify.jobs/l/Top-Summer-Internships-2026?utm_source=github) scrapes career pages at top tech companies and startups every hour for new positions.
+
+  ### Where should I start if I'm looking for specific software engineering internships?
+  Start with the [Software Engineering section](#-software-engineering-internship-roles) and use Ctrl+F to search for specific roles, companies, locations, or keywords like backend, frontend, full-stack, mobile, or cybersecurity. New roles are added daily, so we recommend checking back often.
+
+  Many SWE internships only stay open for a few days, so applying early can give you a better shot over waiting to batch applications later. You can also browse the full list on [Simplify](https://simplify.jobs/l/Top-Summer-Internships-2026?utm_source=github), where you can search and filter over these roles in more depth.
+
+  For more tips on navigating the internship process, check out our guide: [**Zero to Offer**](https://pittcs.wiki/guides/zero-to-offer)
+
+---
 
   [⬇️ Jump to bottom ⬇️](#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
   <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 ---
-
 
 
 ## 💻 Software Engineering Internship Roles
