@@ -1,6 +1,5 @@
 """README generation and embedding functions."""
 
-import re
 from typing import Any
 
 from list_updater.category import create_category_table, ensure_categories
@@ -8,39 +7,6 @@ from list_updater.constants import CATEGORIES, GITHUB_FILE_SIZE_LIMIT, SIZE_BUFF
 from list_updater.listings import filter_active, mark_stale_listings
 
 type Listing = dict[str, Any]
-
-FAQ_MINIMIZED_START = "FAQ_MINIMIZED_START"
-FAQ_MINIMIZED_END = "FAQ_MINIMIZED_END"
-
-
-def apply_faq_minimized_tokens(content: str) -> str:
-    """Wrap FAQ markdown between FAQ_MINIMIZED_* comment markers in a collapsed <details> block.
-
-    Authors edit plain markdown between the markers (optionally starting with ``## FAQs`` for the
-    summary label). On README generation, that section is rendered as minimized-by-default HTML.
-    """
-    pattern = re.compile(
-        rf"(<!--\s*{FAQ_MINIMIZED_START}[^>]*-->\s*)"
-        r"(.*?)"
-        rf"(\s*<!--\s*{FAQ_MINIMIZED_END}[^>]*-->)",
-        re.DOTALL,
-    )
-
-    def _wrap_section(match: re.Match[str]) -> str:
-        start_marker, body, end_marker = match.group(1), match.group(2).strip(), match.group(3)
-        if body.startswith("<details>"):
-            return match.group(0)
-
-        summary = "FAQs"
-        body_lines = body.splitlines()
-        if body_lines and re.match(r"^#{1,6}\s+", body_lines[0].strip()):
-            summary = re.sub(r"^#{1,6}\s+", "", body_lines[0].strip())
-            body = "\n".join(body_lines[1:]).strip()
-
-        wrapped = f"<details>\n<summary>{summary}</summary>\n\n{body}\n\n</details>"
-        return f"{start_marker}\n{wrapped}\n{end_marker}"
-
-    return pattern.sub(_wrap_section, content)
 
 
 def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internships") -> str:
@@ -252,7 +218,6 @@ def embed_table(
     # Check content size and insert warning if necessary (only for main README, not inactive)
     if not inactive_only:
         final_content = check_and_insert_warning(new_text)
-        final_content = apply_faq_minimized_tokens(final_content)
     else:
         final_content = new_text
 

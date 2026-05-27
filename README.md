@@ -62,24 +62,18 @@
 
   ---
   
-  <details>
-  <summary><strong>FAQs</strong></summary>
-
+  ## FAQs
   ### What kinds of internships are listed here and where do they come from?
-
-  This repo focuses on Summer 2026 internships in tech, including software engineering, data science, AI/ML, product management, quantitative finance, hardware engineering, and related roles.
-
+  This repo focuses on Summer 2026 internships in tech, including software engineering, data science, AI/ML, product management, quantitative finance, hardware engineering, and related roles. 
+  
   Opportunities come from community submissions and Simplify's automated internship monitoring. Community members add roles as soon as they find them, and [Simplify](https://simplify.jobs/l/Top-Summer-Internships-2026?utm_source=github) scrapes career pages at top tech companies and startups every hour for new positions.
 
   ### Where should I start if I'm looking for specific software engineering internships?
-
   Start with the [Software Engineering section](#-software-engineering-internship-roles) and use Ctrl+F to search for specific roles, companies, locations, or keywords like backend, frontend, full-stack, mobile, or cybersecurity. New roles are added daily, so we recommend checking back often.
 
   Many SWE internships only stay open for a few days, so applying early can give you a better shot over waiting to batch applications later. You can also browse the full list on [Simplify](https://simplify.jobs/l/Top-Summer-Internships-2026?utm_source=github), where you can search and filter over these roles in more depth.
 
   For more tips on navigating the internship process, check out our guide: [**Zero to Offer**](https://pittcs.wiki/guides/zero-to-offer)
-
-  </details>
 
 ---
 
