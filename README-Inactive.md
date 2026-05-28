@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11469 Inactive Internship Roles by Category
+### Browse 11468 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3560)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3559)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (897)
 
@@ -24997,13 +24997,6 @@
 <td><strong><a href="https://simplify.jobs/c/Steel-Dynamics?utm_source=GHList&utm_medium=company">Steel Dynamics</a></strong></td>
 <td>Software Development Intern - Multiple Teams</td>
 <td>Fort Wayne, IN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>San Carlos, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -65406,7 +65399,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Secretariat?utm_source=GHList&utm_medium=company">Secretariat</a></strong></td>
+<td>↳</td>
 <td>Co-op Construction Delay</td>
 <td>Montreal, QC, Canada</td>
 <td>🔒</td>
@@ -80281,7 +80274,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
+<td>↳</td>
 <td>Firmware Engineering Intern - Firmware Engineering</td>
 <td>Shakopee, MN</td>
 <td>🔒</td>
