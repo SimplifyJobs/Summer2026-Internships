@@ -306,7 +306,7 @@
 <td>Service Desk Intern - Retail</td>
 <td>Columbia City, IN</td>
 <td><div align="center"><a href="https://verabradley.wd5.myworkdayjobs.com/vbcareers/job/Corporate-Headquarters---Roanoke-IN/Service-Desk-Intern---Retail_R020387?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3c2d8acf-96fc-4fff-97d1-1ff380f4c89d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company">Neuralink</a></strong></td>
@@ -1415,28 +1415,28 @@
 <td>Configuration & Release Engineer Intern</td>
 <td>Milpitas, CA</td>
 <td><div align="center"><a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Configuration---Release-Engineer-Internship_R-5851?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1d8a2077-06ec-4d89-b558-1e440bd456df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ASM-Global?utm_source=GHList&utm_medium=company">ASM Global</a></strong></td>
 <td>Hospitality and Merchandise Insights Intern</td>
 <td>Culver City, CA</td>
 <td><div align="center"><a href="https://asmglobal.wd1.myworkdayjobs.com/careers/job/Culver-City-CA/Hospitality-and-Merchandise-Insights-Intern_R100122329?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f5725c26-b649-4b69-9680-c06c8f5019d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Onto-Innovation?utm_source=GHList&utm_medium=company">Onto Innovation</a></strong></td>
 <td>Configuration & Release Engineer Intern</td>
 <td>Bloomington, MN</td>
 <td><div align="center"><a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Configuration---Release-Engineer-Internship_R-5853?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/efb394f6-c002-439f-a229-fc7e388bd73a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
 <td>PhD Intern - HCI & Visualization Research 🎓</td>
 <td>Toronto, ON, Canada<br>SF</td>
 <td><div align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1091c8cf-345a-4aa5-a33b-15be2fda1d66?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
@@ -2219,7 +2219,7 @@
 </table>
 
 
-🔒 **[See 5210 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 5209 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -2692,7 +2692,7 @@
 </table>
 
 
-🔒 **[See 1656 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1655 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
