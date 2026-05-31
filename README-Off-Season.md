@@ -5330,7 +5330,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Austin, TX</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -5338,7 +5338,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Austin, TX</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Uhaul?utm_source=GHList&utm_medium=company">Uhaul</a></strong></td>
@@ -11538,7 +11538,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1426)</summary>
+<summary>🗃️ Inactive roles (1425)</summary>
 
 <table>
 <thead>
@@ -22975,14 +22975,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Global Marketing Master’s Data & AI Intern 🎓</td>
 <td>Round Rock, TX</td>
 <td>Winter 2026, Spring 2027</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Legrand?utm_source=GHList&utm_medium=company">Legrand</a></strong></td>
-<td>Information Systems Intern</td>
-<td>Concord, NC</td>
-<td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

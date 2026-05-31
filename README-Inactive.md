@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11462 Inactive Internship Roles by Category
+### Browse 11457 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3547)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3544)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (888)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (887)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5181)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5180)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (194)
 
@@ -19622,7 +19622,7 @@
 <td>Software Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fiserv?utm_source=GHList&utm_medium=company">Fiserv</a></strong></td>
@@ -24893,28 +24893,7 @@
 <td>Software Engineer Intern/Co-op - Client Software Engineering</td>
 <td>Vancouver, BC, Canada</td>
 <td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
-<td>Software Engineer Intern - CPE SW E2E Triage</td>
-<td>Plantation, FL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineering Intern - Unified Communications</td>
-<td>Allen, TX</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Envista?utm_source=GHList&utm_medium=company">Envista</a></strong></td>
-<td>Manufacturing Software Intern</td>
-<td>Pomona, CA</td>
-<td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -31146,13 +31125,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Legrand-NA?utm_source=GHList&utm_medium=company">Legrand NA</a></strong></td>
-<td>Product Management Intern</td>
-<td>Syracuse, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -34076,6 +34048,13 @@
 <td><strong><a href="https://simplify.jobs/c/Latitude-Io?utm_source=GHList&utm_medium=company">Latitude.io</a></strong></td>
 <td>PhD AI Research Intern 🎓</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ConnectPrep?utm_source=GHList&utm_medium=company">ConnectPrep</a></strong></td>
+<td>Data Analyst Intern</td>
+<td>Boston, MA<br>Remote in USA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -67435,20 +67414,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
-<td>Research Scientist Intern - Language & Multimodal Foundations</td>
-<td>Seattle, WA<br>Menlo Park, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company">Sierra Nevada Coporation</a></strong></td>
-<td>Business Intelligence Developer Intern - Multiple Teams</td>
-<td>Lone Tree, CO<br>Colorado Springs, CO</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -76718,6 +76683,13 @@
 <td>4mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Formal Verification Intern</td>
+<td>Austin, TX</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company">Hitachi</a></strong></td>
 <td>Software Analyst Intern</td>
 <td>Scarborough, ON, Canada</td>
@@ -80403,13 +80375,6 @@
 <td><strong><a href="https://simplify.jobs/c/Beta-Technologies?utm_source=GHList&utm_medium=company">Beta Technologies</a></strong></td>
 <td>2026 – 2027 BETA Internship - Vermont</td>
 <td>Burlington, VT</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
-<td>Embedded Software Developer Intern - Systems Data Storage</td>
-<td>Longmont, CO</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
