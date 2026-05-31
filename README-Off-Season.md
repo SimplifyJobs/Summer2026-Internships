@@ -10818,7 +10818,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AsteraLabs?utm_source=GHList&utm_medium=company">Astera Labs</a></strong></td>
+<td>↳</td>
 <td>Product Applications Engineer Intern - Scorpio</td>
 <td>San Jose, CA</td>
 <td>Winter 2025</td>
@@ -11482,7 +11482,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1415)</summary>
+<summary>🗃️ Inactive roles (1414)</summary>
 
 <table>
 <thead>
@@ -15664,6 +15664,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>4mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>Bank Data Scientist Intern</td>
+<td>Salt Lake City, UT</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -15690,14 +15698,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
-<td>Bank Data Scientist Intern</td>
-<td>Salt Lake City, UT</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario?utm_source=GHList&utm_medium=company">Investment Management Corporation of Ontario</a></strong></td>
 <td>Intern Data Enablement</td>
@@ -19755,7 +19755,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
+<td>↳</td>
 <td>Comcast Information Systems Analyst Co-op</td>
 <td>Philadelphia, PA</td>
 <td>Spring 2026</td>
@@ -22555,7 +22555,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>Intern - AI & Data Analytics - Multiple Teams</td>
 <td>Paramus, NJ</td>
 <td>Winter 2026, Spring 2026</td>
@@ -22831,14 +22831,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Validation Engineering Intern - Winter 2026 🎓</td>
 <td>San Jose, CA</td>
 <td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Stand-Together?utm_source=GHList&utm_medium=company">Stand Together</a></strong></td>
-<td>KIP Spring 2026 – Policy Data Analyst Intern - Empire Center for Public Policy</td>
-<td>NYC</td>
-<td>Spring 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -23762,7 +23754,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (684)</summary>
+<summary>🗃️ Inactive roles (683)</summary>
 
 <table>
 <thead>
@@ -24718,7 +24710,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Saugus, MA<br>Sharonville, OH</td>
 <td>Spring 2027</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
@@ -28473,7 +28465,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/AsteraLabs?utm_source=GHList&utm_medium=company">Astera Labs</a></strong></td>
 <td>Platform Software/Diagnostics – Intern 2026 - Hardware Engineering - Diagnostics</td>
 <td>San Jose, CA</td>
 <td>Winter 2025</td>
@@ -29237,14 +29229,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Electronics Intern - Thermal - Python 🎓</td>
 <td>Kitchener, ON, Canada</td>
 <td>Winter 2026, Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Moog?utm_source=GHList&utm_medium=company">Moog </a></strong></td>
-<td>Intern - Product Engineering - Product Engineering</td>
-<td>Blacksburg, VA</td>
-<td>Spring 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
