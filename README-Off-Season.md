@@ -11530,7 +11530,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1426)</summary>
+<summary>🗃️ Inactive roles (1425)</summary>
 
 <table>
 <thead>
@@ -22967,14 +22967,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>NERA Internship - Paris - Berlin - Frankfurt</td>
 <td><details><summary><strong>4 locations</strong></summary>London, UK<br>Paris, France<br>Frankfurt, Germany<br>Berlin, Germany</details></td>
 <td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
-<td>Global Marketing Master’s Data & AI Intern 🎓</td>
-<td>Round Rock, TX</td>
-<td>Winter 2026, Spring 2027</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
