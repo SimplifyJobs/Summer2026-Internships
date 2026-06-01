@@ -7,13 +7,13 @@
 
 ---
 
-### Browse 370 Internship Roles by Category
+### Browse 369 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (120)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (121)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (7)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (184)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (182)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (7)
 
@@ -110,6 +110,13 @@
 <td>Software Developer Intern</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://careers-walterpmoore.icims.com/jobs/4125/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f3d0a523-fe15-4f0c-b0ee-4d5fa152f74c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ribbon?utm_source=GHList&utm_medium=company">Ribbon</a></strong></td>
+<td>Software Engineer Co-op 🎓</td>
+<td>Westford, MA</td>
+<td><div align="center"><a href="https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/Software-Engineer--Co-op-_REQ-2026-2942?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6a1f9280-9b06-4e20-a0b2-fcddf1d21607?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -949,7 +956,7 @@
 </table>
 
 
-🔒 **[See 3503 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3502 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -1100,13 +1107,6 @@
 <td>Artificial Intelligence & Machine Learning Intern</td>
 <td>Omaha, NE</td>
 <td><div align="center"><a href="https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d9fcc633-0100-463e-b6d7-1abdfdda5a5f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/AAA-Club-Alliance?utm_source=GHList&utm_medium=company">AAA Club Alliance</a></strong></td>
-<td>Information Systems/Data & Analytics Intern</td>
-<td>Newport Beach, CA</td>
-<td><div align="center"><a href="https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Information-Systems-Data---Analytics-Internship-Rotation-Program_JR202636918?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d46b34bb-866e-41e1-9a3f-e000e13defa4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -1611,7 +1611,7 @@
 <td>PhD Intern - HCI & Visualization Research 🎓</td>
 <td>Toronto, ON, Canada<br>SF</td>
 <td><div align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1091c8cf-345a-4aa5-a33b-15be2fda1d66?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
@@ -1948,13 +1948,6 @@
 <td>Rancho Cordova, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/Solidigm/744000124499690?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c29d5fd9-9bc4-48a3-ac5d-4a605965cec9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>27d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Faherty-Brand?utm_source=GHList&utm_medium=company">Faherty Brand</a></strong></td>
-<td>MBA Intern - AI Retail Project 🎓</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://fahertybrand.com/pages/faherty-applications?gh_jid=5104030007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c4eb6315-4522-4bf0-b2fc-3842edddbca0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/VeraInstitute?utm_source=GHList&utm_medium=company">Vera Institute of Justice</a></strong></td>
@@ -2338,7 +2331,7 @@
 </table>
 
 
-🔒 **[See 5138 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 5140 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 

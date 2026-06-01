@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11343 Inactive Internship Roles by Category
+### Browse 11344 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3503)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3502)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (876)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5138)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5140)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (188)
 
@@ -9157,7 +9157,7 @@
 <td>Intern 🎓</td>
 <td>Warren, MI</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
@@ -10077,7 +10077,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>System App Dev & Sustainment Intern</td>
 <td>Orlando, FL</td>
 <td>🔒</td>
@@ -10574,7 +10574,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5?utm_source=GHList&utm_medium=company">OCLC</a></strong></td>
 <td>Software Engineer Summer Intern</td>
 <td>Dublin, OH</td>
 <td>🔒</td>
@@ -24601,13 +24601,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Domino-Data-Lab?utm_source=GHList&utm_medium=company">Domino Data Lab</a></strong></td>
-<td>Software Engineer Intern - Campus Recruiting 2026</td>
-<td>SF</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -30783,6 +30776,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/AAA-Club-Alliance?utm_source=GHList&utm_medium=company">AAA Club Alliance</a></strong></td>
+<td>Information Systems/Data & Analytics Intern</td>
+<td>Newport Beach, CA</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Fidelity-National-Financial?utm_source=GHList&utm_medium=company">Fidelity National Financial</a></strong></td>
 <td>AI Intern</td>
 <td>Washington, DC</td>
@@ -32179,6 +32179,13 @@
 <td><strong><a href="https://simplify.jobs/c/Everlaw?utm_source=GHList&utm_medium=company">Everlaw</a></strong></td>
 <td>GTM Data Analyst Intern</td>
 <td>Oakland, CA</td>
+<td>🔒</td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Faherty-Brand?utm_source=GHList&utm_medium=company">Faherty Brand</a></strong></td>
+<td>MBA Intern - AI Retail Project 🎓</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>30d</td>
 </tr>
@@ -41889,7 +41896,7 @@
 <td>Materials Analysis Intern - Summer 2026</td>
 <td>Research Triangle, Durham, NC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cboe?utm_source=GHList&utm_medium=company">Cboe</a></strong></td>
@@ -68287,7 +68294,7 @@
 <td>Surgery Field Engineer Apprentice</td>
 <td>Pittsburgh, PA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Becton-Dickinson?utm_source=GHList&utm_medium=company">Becton Dickinson</a></strong></td>
@@ -71825,7 +71832,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/University-Of-Rochester?utm_source=GHList&utm_medium=company">University of Rochester</a></strong></td>
 <td>Co-op Research Student 1</td>
 <td>Rochester, NY</td>
 <td>🔒</td>
@@ -74114,7 +74121,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Intern - AN/TPY-2 Program Protection Engineer</td>
 <td>Burlington, MA</td>
 <td>🔒</td>
