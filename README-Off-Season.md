@@ -22831,7 +22831,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (60)</summary>
+<summary>🗃️ Inactive roles (59)</summary>
 
 <table>
 <thead>
@@ -23314,14 +23314,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter Co-op 2026 - Quantitative Analyst</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
-<td>2026 – Apprentice Programme - London - FICC & Equities - Sales & Trading</td>
-<td>London, UK</td>
-<td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
