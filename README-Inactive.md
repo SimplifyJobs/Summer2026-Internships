@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11339 Inactive Internship Roles by Category
+### Browse 11338 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3504)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (875)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5135)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5134)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (188)
 
@@ -24014,14 +24014,14 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Internship - Software Engineering - Siri Developer Productivity</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>Internship - Debugger Compiler Integration Intern - Debugger Compiler Integration</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -65651,7 +65651,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Internship - Applied Machine Learning - Developer Publications Intelligence</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -65665,7 +65665,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>Intern - Privacy Preserving Machine Learning Engineering</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
@@ -66725,13 +66725,6 @@
 <td><strong><a href="https://simplify.jobs/c/Skild-AI?utm_source=GHList&utm_medium=company">Skild AI</a></strong></td>
 <td>Machine Learning Intern - Robotics - Research</td>
 <td>San Mateo, CA<br>Pittsburgh, PA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
-<td>Intern - Research - Multimodal Large Language Models 🎓</td>
-<td>Mountain View, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -79308,7 +79301,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>PMU Design Verification Intern - Design Verification - PMU Hardware Tech</td>
 <td>Swindon, UK</td>
 <td>🔒</td>
