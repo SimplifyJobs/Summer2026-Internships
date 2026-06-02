@@ -7,9 +7,9 @@
 
 ---
 
-### Browse 368 Internship Roles by Category
+### Browse 367 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (122)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (121)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (6)
 
@@ -519,13 +519,6 @@
 <td>21d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Premier-Automation?utm_source=GHList&utm_medium=company">Premier Automation</a></strong></td>
-<td>Software / Computer Science Intern</td>
-<td>Monroeville, PA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/premierautomation/jobs/5216022008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f9fb2c4a-ccc9-4759-84d6-f435f67e7ed3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Super?utm_source=GHList&utm_medium=company">Super</a></strong></td>
 <td>Payments Engineer Intern</td>
 <td>Toronto, ON, Canada</td>
@@ -963,7 +956,7 @@
 </table>
 
 
-🔒 **[See 3507 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3508 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
