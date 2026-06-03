@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11353 Inactive Internship Roles by Category
+### Browse 11354 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3513)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3514)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (874)
 
@@ -91,6 +91,13 @@
 <td><strong><a href="https://simplify.jobs/c/Hyperproof?utm_source=GHList&utm_medium=company">Hyperproof</a></strong></td>
 <td>Software Engineer Intern - AI Developer Productivity</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Semtech?utm_source=GHList&utm_medium=company">Semtech</a></strong></td>
+<td>SAP BTP Application Development Intern</td>
+<td>San Jose, CA</td>
 <td>🔒</td>
 <td>0d</td>
 </tr>
@@ -30419,7 +30426,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Lucid?utm_source=GHList&utm_medium=company">Lucid</a></strong></td>
+<td>↳</td>
 <td>Product Management Internship Summer 2026 - </td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
@@ -31248,6 +31255,13 @@
 <td><strong><a href="https://simplify.jobs/c/Johnson-Controls?utm_source=GHList&utm_medium=company">Johnson Controls</a></strong></td>
 <td>Data Center AI Intern 🎓</td>
 <td>Milwaukee, WI</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Primetals-Technologies?utm_source=GHList&utm_medium=company">Primetals Technologies</a></strong></td>
+<td>Data Science Intern - Data Platforms</td>
+<td>Lake Mary, FL</td>
 <td>🔒</td>
 <td>14d</td>
 </tr>
@@ -57308,14 +57322,14 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Research Intern - Data Systems</td>
+<td>Research Intern - AI Hardware</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
 <td>5mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Research Intern - AI Hardware</td>
+<td>Research Intern - Data Systems</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
 <td>5mo</td>
@@ -66794,13 +66808,6 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arch-Capital-Group?utm_source=GHList&utm_medium=company">Arch Capital Group</a></strong></td>
 <td>IT Analytics Engineer Intern - IT - Enterprise Data</td>
-<td>London, UK</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Levi-Strauss-And-Co?utm_source=GHList&utm_medium=company">Levi Strauss & Co.</a></strong></td>
-<td>Analytics Intern - eCommerce Team</td>
 <td>London, UK</td>
 <td>🔒</td>
 <td>7mo</td>
@@ -78923,7 +78930,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cirrus-Logic?utm_source=GHList&utm_medium=company">Cirrus Logic</a></strong></td>
 <td>Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
@@ -79385,7 +79392,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
+<td>↳</td>
 <td>Emerging Products and Solutions Intern - Multiple Teams</td>
 <td>Longmont, CO</td>
 <td>🔒</td>
