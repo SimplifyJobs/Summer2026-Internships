@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11314 Inactive Internship Roles by Category
+### Browse 11311 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3500)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3501)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (870)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5122)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5118)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (190)
 
@@ -117,6 +117,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>Software Engineer Data/AI/Intelligent Systems Intern - United States</td>
+<td><details><summary><strong>17 locations</strong></summary>Boston, MA<br>Seattle, WA<br>Knoxville, TN<br>Milpitas, CA<br>SF<br>Austin, TX<br>San Jose, CA<br>Fulton, MD<br>Dallas, TX<br>Hillsboro, OR<br>Alpharetta, GA<br>NYC<br>Acton, MA<br>Portland, OR<br>Research Triangle, Durham, NC<br>Atlanta, GA<br>Richardson, TX</details></td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Data/AI/Intelligent Systems 2 Intern</td>
 <td><details><summary><strong>13 locations</strong></summary>Boston, MA<br>Knoxville, TN<br>Milpitas, CA<br>Austin, TX<br>San Jose, CA<br>Fulton, MD<br>Dallas, TX<br>Durham, NC<br>Hillsboro, OR<br>Alpharetta, GA<br>NYC<br>Acton, MA<br>Atlanta, GA</details></td>
 <td>🔒</td>
@@ -46043,7 +46050,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>ABC News Insights and Analytics Intern - Summer/Fall 2026</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -66550,34 +66557,6 @@
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Junior AI Engineer Intern - Multiple Teams</td>
 <td>Stafford, VA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/QBE-Insurance?utm_source=GHList&utm_medium=company">QBE Insurance</a></strong></td>
-<td>Data Science Intern - Multiple Teams</td>
-<td>Madison, WI</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Edison-International?utm_source=GHList&utm_medium=company">Edison International</a></strong></td>
-<td>Intern - Data Analytics - Data Science</td>
-<td>Santa Monica, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - Data Analytics - Data Science</td>
-<td>Victorville, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/a16z?utm_source=GHList&utm_medium=company">Andreessen Horowitz</a></strong></td>
-<td>Research Intern - Crypto</td>
-<td>NYC</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

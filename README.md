@@ -7,9 +7,9 @@
 
 ---
 
-### Browse 409 Internship Roles by Category
+### Browse 408 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (135)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (134)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (4)
 
@@ -243,13 +243,6 @@
 <td>Salesforce AI Developer Intern</td>
 <td>SF</td>
 <td><div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Salesforce-AI-Developer-Intern_JR012226-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/db221946-1901-4974-af68-acb3ab515b0b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
-<td>Software Engineer Data/AI/Intelligent Systems Intern - United States</td>
-<td><details><summary><strong>17 locations</strong></summary>Boston, MA<br>Seattle, WA<br>Knoxville, TN<br>Milpitas, CA<br>SF<br>Austin, TX<br>San Jose, CA<br>Fulton, MD<br>Dallas, TX<br>Hillsboro, OR<br>Alpharetta, GA<br>NYC<br>Acton, MA<br>Portland, OR<br>Research Triangle, Durham, NC<br>Atlanta, GA<br>Richardson, TX</details></td>
-<td><div align="center"><a href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data-AI-Intelligent-Systems-I--Intern----United-States_2001254?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/013934fd-e527-4543-b30c-ba4003cee756?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -1054,7 +1047,7 @@
 </table>
 
 
-🔒 **[See 3500 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3501 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -2604,7 +2597,7 @@
 </table>
 
 
-🔒 **[See 5122 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 5118 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
