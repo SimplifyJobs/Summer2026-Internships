@@ -148,7 +148,7 @@
 <td>IP Hightech Bound Intern</td>
 <td>Dover, NH</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
@@ -211,14 +211,14 @@
 <td>Large Model AI Infrastructure Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Large Model AI Infrastructure Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
@@ -274,7 +274,7 @@
 <td>Power Platform Intern</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SHEIN?utm_source=GHList&utm_medium=company">SHEIN</a></strong></td>
@@ -407,7 +407,7 @@
 <td>AI Software Engineer Intern</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -953,7 +953,7 @@
 <td>Full Stack Software Engineer Intern</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Acceldata?utm_source=GHList&utm_medium=company">Acceldata</a></strong></td>
@@ -1044,7 +1044,7 @@
 <td>Front End Software Engineer Intern</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Energy-Northwest?utm_source=GHList&utm_medium=company">Energy Northwest</a></strong></td>
@@ -1149,7 +1149,7 @@
 <td>AI Intern</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
@@ -2671,7 +2671,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Revvity?utm_source=GHList&utm_medium=company">Revvity</a></strong></td>
+<td>↳</td>
 <td>Web and Marketing Intern</td>
 <td>Waltham, MA</td>
 <td>🔒</td>
@@ -30622,7 +30622,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Patreon?utm_source=GHList&utm_medium=company">Patreon</a></strong></td>
 <td>Product Management Intern</td>
 <td>SF<br>NYC</td>
 <td>🔒</td>
@@ -30773,7 +30773,7 @@
 <td>Information Systems/Data & Analytics Intern</td>
 <td>Newport Beach, CA</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
@@ -30962,14 +30962,14 @@
 <td>Research Analytics Intern - Research Analytics - EHR Data Extraction</td>
 <td>Norfolk, VA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Greene-Tweed?utm_source=GHList&utm_medium=company">Greene Tweed</a></strong></td>
 <td>Commercial Intern</td>
 <td>North Wales, PA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
@@ -31130,7 +31130,7 @@
 <td>Machine Learning Engineer Intern - Security-Data</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Deckers-Brands?utm_source=GHList&utm_medium=company">Deckers Brands</a></strong></td>
@@ -40755,7 +40755,7 @@
 <td>Intelligence Data Analyst Apprenticeship Coach</td>
 <td>Letchworth Garden City, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KLA-Corporation?utm_source=GHList&utm_medium=company">KLA Corporation</a></strong></td>
@@ -48721,7 +48721,7 @@
 <td>Data Analyst Project Intern - Tiktok Shop-Business Product - 2026 Start</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jain-Global?utm_source=GHList&utm_medium=company">Jain Global</a></strong></td>
@@ -57948,7 +57948,7 @@
 <td>Corporate Risk and Broking Intern - Risk & Analytics Core-2026</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
@@ -66635,7 +66635,7 @@
 <td>Trading Standards Apprentice</td>
 <td>Ipswich, UK</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AirCapture?utm_source=GHList&utm_medium=company">AirCapture</a></strong></td>
@@ -67618,7 +67618,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company">Optiver</a></strong></td>
 <td>Quantitative Research Intern - PhD - Summer 2026 🎓</td>
 <td>Austin, TX<br>Chicago, IL</td>
 <td>🔒</td>
