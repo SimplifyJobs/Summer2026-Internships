@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11230 Inactive Internship Roles by Category
+### Browse 11231 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3486)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3487)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (862)
 
@@ -87,6 +87,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nextiva?utm_source=GHList&utm_medium=company">Nextiva</a></strong></td>
+<td>GTM AI Intern</td>
+<td>Scottsdale, AZ</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Instead?utm_source=GHList&utm_medium=company">Instead</a></strong></td>
 <td>Software Engineer Intern</td>
@@ -17389,7 +17396,7 @@
 <td>Software Engineering Intern - Summer</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
@@ -21330,14 +21337,14 @@
 <td>12-months Internship Program-Efx Developer Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zurich-Insurance?utm_source=GHList&utm_medium=company">Zurich Insurance</a></strong></td>
 <td>Digital Transformation Intern - Summer 2026</td>
 <td>Hoffman Estates, IL</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Little-Caesars?utm_source=GHList&utm_medium=company">Little Caesars Enterprises</a></strong></td>
@@ -23216,7 +23223,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Data fabric and network automation Co-op</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
@@ -29793,7 +29800,7 @@
 <td>2026 Summer Intern-Program/Product Development</td>
 <td>Detroit, MI</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Awardco?utm_source=GHList&utm_medium=company">Awardco</a></strong></td>
@@ -54049,7 +54056,7 @@
 <td>2026 Summer – Strategic Execution Program Data & Analytics Intern - Ecco - 4 Months</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
@@ -60748,7 +60755,7 @@
 <td>12-month Internship Program-Software developer AI Enablement Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
@@ -63845,7 +63852,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>AI R&D Engineer Co-op</td>
 <td>United States</td>
 <td>🔒</td>
@@ -78657,7 +78664,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
 <td>Emerging Products and Solutions Intern - Multiple Teams</td>
 <td>Longmont, CO</td>
 <td>🔒</td>

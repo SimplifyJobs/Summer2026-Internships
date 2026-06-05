@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 181 Internship Roles by Category
+### Browse 180 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (60)
 
@@ -20,7 +20,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (2)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (46)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (45)
 
 ---
 
@@ -23494,14 +23494,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td>Software Platform Designer Intern</td>
-<td>Ottawa, ON, Canada</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Platform-Designer-Intern_R031142?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/29030f5c-1d32-4193-aada-12312219170c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Silicon Photonics Packaging Engineer Co-op 🎓</td>
 <td>NYC<br>Sunnyvale, CA</td>
@@ -23866,7 +23858,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (681)</summary>
+<summary>🗃️ Inactive roles (682)</summary>
 
 <table>
 <thead>
@@ -23880,6 +23872,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
+<td>Software Platform Designer Intern</td>
+<td>Ottawa, ON, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Software Developer Intern - Virtualization and SIL Integration</td>
