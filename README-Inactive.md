@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11062 Inactive Internship Roles by Category
+### Browse 11061 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3425)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3424)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (838)
 
@@ -23545,7 +23545,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">Oracle</a></strong></td>
+<td>↳</td>
 <td>Undergrad Software Engineer Intern - Database Technologies</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
@@ -24052,13 +24052,6 @@
 <td><strong><a href="https://simplify.jobs/c/Airspace-Intelligence?utm_source=GHList&utm_medium=company">Airspace Intelligence</a></strong></td>
 <td>Software Engineer Co-Op – Defense 🇺🇸</td>
 <td>Boston, MA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sherwin-Williams?utm_source=GHList&utm_medium=company">Sherwin-Williams</a></strong></td>
-<td>2026 R&D Product Engineering Co-Op</td>
-<td>Cleveland, OH</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
