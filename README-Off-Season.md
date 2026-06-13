@@ -12138,7 +12138,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1369)</summary>
+<summary>🗃️ Inactive roles (1368)</summary>
 
 <table>
 <thead>
@@ -23118,14 +23118,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/KPH-Healthcare-Services?utm_source=GHList&utm_medium=company">KPH Healthcare Services</a></strong></td>
 <td>Business Intelligence Intern - Multiple Teams</td>
 <td>Syracuse, NY</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Saputo?utm_source=GHList&utm_medium=company">Saputo</a></strong></td>
-<td>Intern – Business Intelligence</td>
-<td>Montreal, QC, Canada</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
