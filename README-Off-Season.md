@@ -790,7 +790,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1035)</summary>
+<summary>🗃️ Inactive roles (1034)</summary>
 
 <table>
 <thead>
@@ -5021,7 +5021,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
+<td>↳</td>
 <td>Intern - Platform Software Engineer In Test</td>
 <td>San Jose, CA</td>
 <td>Spring 2026</td>
@@ -9073,14 +9073,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Apprentice Engineer</td>
 <td>Remote in USA<br>Vienna, VA</td>
 <td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Signify?utm_source=GHList&utm_medium=company">Signify</a></strong></td>
-<td>Advanced Development Software Intern - Cooper Lighting Solutions - Spring 2026</td>
-<td>Fayetteville, GA<br>Atlanta, GA</td>
-<td>Winter 2026, Spring 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -14736,6 +14728,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>4mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td>Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal</td>
+<td>Palo Alto, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Virtua-Health?utm_source=GHList&utm_medium=company">Virtua Health</a></strong></td>
+<td>IT Informatics Intern</td>
+<td>Mt Laurel Township, NJ</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -14762,22 +14770,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
-<td>Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal</td>
-<td>Palo Alto, CA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Virtua-Health?utm_source=GHList&utm_medium=company">Virtua Health</a></strong></td>
-<td>IT Informatics Intern</td>
-<td>Mt Laurel Township, NJ</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LMI?utm_source=GHList&utm_medium=company">LMI </a></strong></td>
 <td>Data Science-Intern - FIU Students</td>
@@ -28913,7 +28905,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AsteraLabs?utm_source=GHList&utm_medium=company">Astera Labs</a></strong></td>
+<td>↳</td>
 <td>Platform Software/Diagnostics – Intern 2026 - Hardware Engineering - Diagnostics</td>
 <td>San Jose, CA</td>
 <td>Winter 2025</td>
