@@ -11946,7 +11946,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1377)</summary>
+<summary>🗃️ Inactive roles (1376)</summary>
 
 <table>
 <thead>
@@ -22990,14 +22990,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Data Scientist Intern</td>
 <td>Remote in USA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/SageSure-Insurance-Managers?utm_source=GHList&utm_medium=company">SageSure</a></strong></td>
-<td>Specialty Property Intern</td>
-<td>Fairfield, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
