@@ -7,13 +7,13 @@
 
 ---
 
-### Browse 322 Internship Roles by Category
+### Browse 323 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (117)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (4)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (155)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (156)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (4)
 
@@ -928,7 +928,7 @@
 </table>
 
 
-🔒 **[See 3436 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3435 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -1004,6 +1004,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Primerica?utm_source=GHList&utm_medium=company">Primerica</a></strong></td>
+<td>Fraud Analyst Intern</td>
+<td>Duluth, GA</td>
+<td><div align="center"><a href="https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Fraud-Analyst-Intern_R-234062026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dd2ded77-fc59-4a07-8e49-750d7c5c5a2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MedElite?utm_source=GHList&utm_medium=company">MedElite</a></strong></td>
 <td>Healthcare Data Automation & QA Analytics Intern</td>

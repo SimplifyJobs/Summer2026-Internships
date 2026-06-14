@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 11070 Inactive Internship Roles by Category
+### Browse 11069 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3436)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3435)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (832)
 
@@ -23713,7 +23713,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">Oracle</a></strong></td>
+<td>↳</td>
 <td>Undergrad Software Engineer Intern - Database Technologies</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
@@ -24129,13 +24129,6 @@
 <td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
 <td>Software Development Intern</td>
 <td>Troy, MI</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Base?utm_source=GHList&utm_medium=company">Base</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>SF<br>NYC</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

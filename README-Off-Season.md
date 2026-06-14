@@ -2501,7 +2501,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company">GE Aerospace</a></strong></td>
 <td>Digital Technology Co-op - Returning Students</td>
 <td>Sharonville, OH<br>Livonia, MI</td>
 <td>Fall 2026</td>
@@ -11834,7 +11834,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1361)</summary>
+<summary>🗃️ Inactive roles (1360)</summary>
 
 <table>
 <thead>
@@ -22754,14 +22754,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
-<td>Applied Scientist Intern: Audio Visual Speech Attribution 🎓</td>
-<td>Cambridge, UK</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -29041,7 +29033,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company">Altera Corporation</a></strong></td>
+<td>↳</td>
 <td>FPGA IP and Software Engineering Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2025</td>
