@@ -11858,7 +11858,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1367)</summary>
+<summary>🗃️ Inactive roles (1366)</summary>
 
 <table>
 <thead>
@@ -22823,14 +22823,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Stagiaire en Intelligence Commerciale – Commercial Intelligence Intern - Hiver 2026 - Winter 2026</td>
 <td>Montreal, QC, Canada<br>Montréal, QC, Canada</td>
 <td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
-<td>GE Vernova Graduate Intern - Gas Turbine Design Optimization Workflows</td>
-<td>Greenville, SC</td>
-<td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
