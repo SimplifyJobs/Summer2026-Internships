@@ -30755,6 +30755,13 @@
 <td>20d</td>
 </tr>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>Efficient ML Engineer Research Intern - AI Platform - PhD 🎓</td>
+<td>San Jose, CA</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Ontario-Health?utm_source=GHList&utm_medium=company">Ontario Health</a></strong></td>
 <td>Research Intern - Artificial Intelligence - Student 🎓</td>
 <td>Toronto, ON, Canada</td>
@@ -34550,14 +34557,14 @@
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
-<td>Machine Learning Scientist Intern - TikTok Recommendation 🎓</td>
+<td>Research Scientist Intern - TikTok Recommendation 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Research Scientist Intern - TikTok Recommendation 🎓</td>
+<td>Machine Learning Scientist Intern - TikTok Recommendation 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -65024,13 +65031,6 @@
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Summer 2026 AI Science Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>NYC<br>Mountain View, CA<br>Atlanta, GA<br>San Diego, CA</details></td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Idaho-National-Laboratory?utm_source=GHList&utm_medium=company">Idaho National Laboratory</a></strong></td>
-<td>Bioenergy Digital Engineering Summer 2026 Internship 🎓</td>
-<td>Idaho Falls, ID</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
