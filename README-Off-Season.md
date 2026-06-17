@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 252 Internship Roles by Category
+### Browse 251 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (86)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (5)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (91)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (90)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (3)
 
@@ -11135,14 +11135,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Together-AI?utm_source=GHList&utm_medium=company">Together AI</a></strong></td>
-<td>Systems Research Engineer Intern - GPU Programming</td>
-<td>SF</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5157559007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/27f1bae4-fe71-4489-96fd-9707e0ba1cfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Frontier Agents Intern 🎓</td>
 <td>SF</td>
 <td>Fall 2026</td>
@@ -11770,7 +11762,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1364)</summary>
+<summary>🗃️ Inactive roles (1365)</summary>
 
 <table>
 <thead>
@@ -11786,6 +11778,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Together-AI?utm_source=GHList&utm_medium=company">Together AI</a></strong></td>
+<td>Systems Research Engineer Intern - GPU Programming</td>
+<td>SF</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Research Intern - Inference</td>
 <td>SF</td>
 <td>Fall 2026</td>
@@ -14792,6 +14792,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>4mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kymeratx?utm_source=GHList&utm_medium=company">Kymera Therapeutics</a></strong></td>
+<td>Informatics Intern</td>
+<td>Belmont, MA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/IQVIA?utm_source=GHList&utm_medium=company">IQVIA</a></strong></td>
+<td>Intern</td>
+<td>Stoke-on-Trent, UK</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -14818,22 +14834,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kymeratx?utm_source=GHList&utm_medium=company">Kymera Therapeutics</a></strong></td>
-<td>Informatics Intern</td>
-<td>Belmont, MA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/IQVIA?utm_source=GHList&utm_medium=company">IQVIA</a></strong></td>
-<td>Intern</td>
-<td>Stoke-on-Trent, UK</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MEMIC?utm_source=GHList&utm_medium=company">MEMIC</a></strong></td>
 <td>IT Architecture & Innovation Internship</td>
@@ -26281,7 +26281,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Thales?utm_source=GHList&utm_medium=company">Thales</a></strong></td>
 <td>Academy Engineer Apprentice – Level 5 Higher Level Apprenticeship - Mechatronic Engineering</td>
 <td>Belfast, UK</td>
 <td>Fall 2026</td>
