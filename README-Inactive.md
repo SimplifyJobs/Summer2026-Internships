@@ -232,7 +232,7 @@
 <td>Software Developer Apprentice</td>
 <td>Bracknell, UK</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bank-Of-America?utm_source=GHList&utm_medium=company">Bank of America</a></strong></td>
@@ -554,7 +554,7 @@
 <td>IP Hightech Bound Intern</td>
 <td>Dover, NH</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KION-Group?utm_source=GHList&utm_medium=company">KION Group</a></strong></td>
@@ -610,14 +610,14 @@
 <td>Large Model AI Infrastructure Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Large Model AI Infrastructure Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Harris-Computer?utm_source=GHList&utm_medium=company">Harris Computer</a></strong></td>
@@ -687,7 +687,7 @@
 <td>Power Platform Intern</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SHEIN?utm_source=GHList&utm_medium=company">SHEIN</a></strong></td>
@@ -827,7 +827,7 @@
 <td>AI Software Engineer Intern</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -3266,7 +3266,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Revvity?utm_source=GHList&utm_medium=company">Revvity</a></strong></td>
+<td>↳</td>
 <td>Web and Marketing Intern</td>
 <td>Waltham, MA</td>
 <td>🔒</td>
@@ -30108,28 +30108,28 @@
 <td>Machine Learning Systems Intern</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Generative AI Researcher Intern</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Infra Engineer Intern</td>
 <td>California</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SHEIN?utm_source=GHList&utm_medium=company">SHEIN</a></strong></td>
 <td>Data Analysis Intern - Capacity Planning - Sales & Operations Planning</td>
 <td>United States</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Breeze-Airways?utm_source=GHList&utm_medium=company">Breeze Airways</a></strong></td>
@@ -30668,35 +30668,35 @@
 <td>Data Analyst Co-op</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AAA-Club-Alliance?utm_source=GHList&utm_medium=company">AAA Club Alliance</a></strong></td>
 <td>Information Systems/Data & Analytics Intern</td>
 <td>Newport Beach, CA</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Shaw-Industries-Group?utm_source=GHList&utm_medium=company">Shaw Industries Group</a></strong></td>
 <td>STEM Intern</td>
 <td>Calhoun, GA</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Howard-University?utm_source=GHList&utm_medium=company">Howard University</a></strong></td>
 <td>Transportation Research Intern</td>
 <td>Washington, DC</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>DDOT Intern 3</td>
 <td>Washington, DC</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/HERE-Technologies?utm_source=GHList&utm_medium=company">HERE Technologies</a></strong></td>
@@ -30955,21 +30955,21 @@
 <td>Research Analytics Intern - Research Analytics - EHR Data Extraction</td>
 <td>Norfolk, VA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Greene-Tweed?utm_source=GHList&utm_medium=company">Greene Tweed</a></strong></td>
 <td>Commercial Intern</td>
 <td>North Wales, PA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/FHLBank-Topeka?utm_source=GHList&utm_medium=company">FHLBank Topeka</a></strong></td>
 <td>Financial Analyst Intern</td>
 <td>Topeka, KS</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
@@ -31165,7 +31165,7 @@
 <td>Machine Learning Engineer Intern - Security-Data</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Deckers-Brands?utm_source=GHList&utm_medium=company">Deckers Brands</a></strong></td>
@@ -66155,7 +66155,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company">Optiver</a></strong></td>
 <td>Quantitative Research Intern - PhD - Summer 2026 🎓</td>
 <td>Austin, TX<br>Chicago, IL</td>
 <td>🔒</td>
@@ -66369,7 +66369,7 @@
 <td>Fire & Security Service Engineer Apprentice</td>
 <td>Maidstone, UK</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Valeo?utm_source=GHList&utm_medium=company">Valeo</a></strong></td>
@@ -66390,7 +66390,7 @@
 <td>Intern</td>
 <td>Belfast, UK</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pennsylvania-State-University?utm_source=GHList&utm_medium=company">Pennsylvania State University</a></strong></td>
@@ -69673,7 +69673,7 @@
 <td>Electronics Hardware Developer Intern/Co-op</td>
 <td>Kelowna, BC, Canada</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Insulet-Corporation?utm_source=GHList&utm_medium=company">Insulet Corporation</a></strong></td>
