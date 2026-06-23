@@ -40023,7 +40023,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Ensono?utm_source=GHList&utm_medium=company">Ensono</a></strong></td>
 <td>Project Portfolio Data Analyst Intern</td>
 <td>Remote in US</td>
 <td>🔒</td>
