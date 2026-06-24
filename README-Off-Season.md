@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 239 Internship Roles by Category
+### Browse 238 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (85)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (2)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (1)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (80)
 
@@ -8879,14 +8879,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Quandri?utm_source=GHList&utm_medium=company">Quandri</a></strong></td>
-<td>Product Co-op</td>
-<td>Vancouver, BC, Canada</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ac7a7ed7-6ec6-44be-a785-cbe7e9054d0b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Four-Hands?utm_source=GHList&utm_medium=company">Four Hands</a></strong></td>
 <td>Product Development Intern</td>
 <td>Austin, TX</td>
@@ -8899,7 +8891,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (248)</summary>
+<summary>🗃️ Inactive roles (249)</summary>
 
 <table>
 <thead>
@@ -8928,6 +8920,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Quandri?utm_source=GHList&utm_medium=company">Quandri</a></strong></td>
+<td>Product Co-op</td>
+<td>Vancouver, BC, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
@@ -15024,6 +15024,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>5mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ameriprise-Financial?utm_source=GHList&utm_medium=company">Ameriprise Financial</a></strong></td>
+<td>Advisor Service Technology – Field Insights Intern</td>
+<td>Minneapolis, MN</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Jones-Lang-LaSalle?utm_source=GHList&utm_medium=company">Jones Lang LaSalle (JLL)</a></strong></td>
+<td>Data Analytics Intern</td>
+<td>Chicago, IL</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -15050,22 +15066,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Ameriprise-Financial?utm_source=GHList&utm_medium=company">Ameriprise Financial</a></strong></td>
-<td>Advisor Service Technology – Field Insights Intern</td>
-<td>Minneapolis, MN</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Jones-Lang-LaSalle?utm_source=GHList&utm_medium=company">Jones Lang LaSalle (JLL)</a></strong></td>
-<td>Data Analytics Intern</td>
-<td>Chicago, IL</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bloomberg-Industry-Group?utm_source=GHList&utm_medium=company">Bloomberg Industry Group</a></strong></td>
 <td>Content Analytics Intern</td>
@@ -22478,7 +22478,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
+<td>↳</td>
 <td>Relationship Manager - Business Markets</td>
 <td>Newfoundland, Newfoundland and Labrador, Canada<br>St. John's, NL, Canada</td>
 <td>Spring 2026</td>
@@ -26526,7 +26526,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Chandler, AZ</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rambus?utm_source=GHList&utm_medium=company">Rambus</a></strong></td>
