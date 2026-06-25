@@ -11410,7 +11410,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1310)</summary>
+<summary>🗃️ Inactive roles (1309)</summary>
 
 <table>
 <thead>
@@ -21919,14 +21919,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Technical Intern - Masters or PhD 🎓</td>
 <td>Remote in USA<br>Redmond, WA</td>
 <td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
-<td>Research Engineer Intern - Spring/Jan 2026</td>
-<td>Austin, TX</td>
-<td>Spring 2026, Winter 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
