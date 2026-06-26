@@ -766,7 +766,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (989)</summary>
+<summary>🗃️ Inactive roles (988)</summary>
 
 <table>
 <thead>
@@ -8205,7 +8205,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Incubation Developer Co-op/Intern</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026, Spring 2026</td>
@@ -8680,14 +8680,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/QuEra-Computing?utm_source=GHList&utm_medium=company">QuEra Computing</a></strong></td>
 <td>Internship - Scientific Software and Compilation</td>
 <td>Boston, MA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Product Engineer Intern - Master's Degree 🎓</td>
-<td>Santa Clara, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
@@ -22898,7 +22890,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (611)</summary>
+<summary>🗃️ Inactive roles (609)</summary>
 
 <table>
 <thead>
@@ -27780,22 +27772,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Relativity-Space?utm_source=GHList&utm_medium=company">Relativity Space</a></strong></td>
 <td>Flight Software Engineer Intern</td>
 <td>Long Beach, CA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Product Engineer Intern - Master's Degree 🎓</td>
-<td>Santa Clara, CA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Architecture ASIC / System Intern - Master's Degree 🎓</td>
-<td>Santa Clara, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
