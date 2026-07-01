@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 10352 Inactive Internship Roles by Category
+### Browse 10353 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3250)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (776)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4660)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4661)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (149)
 
@@ -29299,6 +29299,13 @@
 <td>29d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Consor?utm_source=GHList&utm_medium=company">Consor</a></strong></td>
+<td>Water & Wastewater Treatment Engineer Intern</td>
+<td>Phoenix, AZ</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company">AbbVie</a></strong></td>
 <td>Data Specialist Intern - Allergan Aesthetics</td>
 <td>Markham, ON, Canada</td>
@@ -45392,7 +45399,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>ABC News Insights and Analytics Intern - Summer/Fall 2026</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -56832,15 +56839,15 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Research Intern - Artificial Intelligence 🎓</td>
-<td>Vancouver, BC, Canada</td>
+<td>Research Intern - AI Agents</td>
+<td>Redmond, WA</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Research Intern - AI Agents</td>
-<td>Redmond, WA</td>
+<td>Research Intern - Artificial Intelligence 🎓</td>
+<td>Vancouver, BC, Canada</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
