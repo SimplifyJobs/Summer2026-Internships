@@ -456,10 +456,10 @@
 <td>Service Engineering Intern - Software Engineering - Service Engineering</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>Product Support Engineer Intern - Product Support Engineer - Service Engineering</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
@@ -10382,14 +10382,14 @@
 <td>Millennium Space Systems Intern Program - Ground Software Engineering</td>
 <td>Chantilly, VA<br>El Segundo, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Millennium Space Systems Intern Program - Ground Software Engineering</td>
 <td>Chantilly, VA<br>El Segundo, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Frazer-Nash-Consultancy?utm_source=GHList&utm_medium=company">Frazer-Nash Consultancy</a></strong></td>
@@ -22842,7 +22842,7 @@
 <td>Digital Technology Intern - US - Summer 2026 - Returning Students</td>
 <td>Sharonville, OH<br>Livonia, MI</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -41462,14 +41462,14 @@
 <td>National Security Solutions – Internship – AI Engineer Intern - Nss</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ontario-Teachers-Pension-Plan?utm_source=GHList&utm_medium=company">Ontario Teachers' Pension Plan</a></strong></td>
 <td>Intern – Portfolio Engineering - Capital Markets - Cmia</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BeOne?utm_source=GHList&utm_medium=company">BeOne</a></strong></td>
@@ -57619,7 +57619,7 @@
 <td>2026 Bluestaq AI/ML Engineering Summer Internship Cohort</td>
 <td>Colorado Springs, CO</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Philips?utm_source=GHList&utm_medium=company">Philips</a></strong></td>
@@ -60958,7 +60958,7 @@
 <td>Intern-Energy Transition-Campus 2026</td>
 <td><details><summary><strong>12 locations</strong></summary>Boston, MA<br>Houston, TX<br>Austin, TX<br>LA<br>McLean, VA<br>Chicago, IL<br>Charlotte, NC<br>San Antonio, TX<br>Arlington, VA<br>NYC<br>Boulder, CO<br>Atlanta, GA</details></td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Highmark-Health?utm_source=GHList&utm_medium=company">Highmark Health</a></strong></td>
@@ -69501,7 +69501,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
+<td>↳</td>
 <td>Resilience and Fault Tolerance Intern</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
@@ -70040,7 +70040,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>WDW Computer Science / Computer Engineering Interns - Fall 2026</td>
 <td>Celebration, FL</td>
 <td>🔒</td>
@@ -71678,7 +71678,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Computer Engineer Intern</td>
 <td>Beavercreek, OH</td>
 <td>🔒</td>
@@ -72676,7 +72676,7 @@
 <td>Engineering Engines Intern - Computer or Software Engineering</td>
 <td>Saugus, MA<br>Cincinnati, OH</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company">Schweitzer Engineering Laboratories</a></strong></td>
